@@ -1,4 +1,4 @@
-    from os import listdir
+from os import listdir
 from os.path import isfile, join
 import nltk
 from nltk.corpus import ieer
@@ -19,8 +19,13 @@ dbpedia_path_ttl = "/home/george/PycharmProjects/nlp_assignment/wrd_instances.tt
 dbpedia_path_csv = "/home/george/PycharmProjects/nlp_assignment/wrd_instances.csv"
 dbp_ent_path = "/home/george/PycharmProjects/nlp_assignment/entities.txt"
 names = set().union(nltknames.words("male.txt"), nltknames.words("female.txt"))
+
 titles = {"Mr.", "Mrs.", "Dr.", "Sir", "Prof.", "Professor", "Ms.", "Rev.", "President", "Pres.", "Judge", "Mayor"}
-business_words = {"Co.", "Company", "Assoc.", "Association", "Inc.", "Incorporated", "Corp.", "Corporation", "Ltd.", "Group", "PLC", "Club", "Court", "Commission", "Bureau", "Ministry"}
+business_words = {"Co.", "Company", "Assoc.", "Association", "Inc.", "Incorporated", "Corp.", "Corporation", "Ltd.", "Group", "PLC", "Club", "Court", "Commission", "Bureau", "Ministry", "Institute"}
+
+location_prev_words = {"in"}
+person_prev_words = {}
+organization_prev_words = {}
 
 
 def get_ieer_entities():
@@ -144,7 +149,7 @@ def is_location(entity):
     return False
 
 
-def is_organisation(entity, past_entities):
+def is_organization(entity, past_entities):
     org = entity.split()
     if len(business_words & set(org)) > 0:
         return True
@@ -158,17 +163,27 @@ def is_organisation(entity, past_entities):
     return False
 
 
-def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, past_entities):
+def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, past_entities, prev_word):
     es = entity.split()
     # es = [w for w in es if not w in titles]
     entity_name = " ".join(es)
     entity = "_".join(es)
     entity = re.sub(r'[^\P{P}\w\.\_]+', "", entity)
 
+    if prev_word is not None:
+        if prev_word in location_prev_words:
+            return "LOCATION"
+
+        if prev_word in person_prev_words:
+            return "PERSON"
+
+        if prev_word in organization_prev_words:
+            return "ORGANIZATION"
+
     if entity_name in ieer_entity_names:
         return ieer_entity_dict[entity_name]
 
-    if is_organisation(entity_name, past_entities):
+    if is_organization(entity_name, past_entities):
         return "ORGANIZATION"
 
     if is_name(entity_name):
@@ -274,14 +289,23 @@ def ner(grammar, file_count):
 
             tagged_sentence = sentence
             for ne in named_entities:
-                rel = get_relation(ne[0], ieer_dict, ieer_names, dbp_ent_set, related_entities[-10:])
+
+                # Get the word prior to the occurence of the entity in the sentence
+                prev_words = sentence.partition(" %s " % ne[0])
+                if prev_words[2] == '':
+                    prev_word = None
+                else:
+                    prev_word = prev_words[0].split()[-1]
+
+                # Get an initial relation for the entity
+                rel = get_relation(ne[0], ieer_dict, ieer_names, dbp_ent_set, related_entities[-10:], prev_word)
                 if rel is not None:
                     related_entities += [(ne[0], rel)]
                     tagged_sentence = tagged_sentence.replace(ne[0], "<ENAMEX TYPE=\"" + rel + "\">" + ne[0] + "</ENAMEX>")
                 elif " and " in ne[0]:
                     ne_split = ne[0].split(" and ")
                     for ne_s in ne_split:
-                        rel_s = get_relation(ne_s, ieer_dict, ieer_names, dbp_ent_set, related_entities[-10:])
+                        rel_s = get_relation(ne_s, ieer_dict, ieer_names, dbp_ent_set, related_entities[-10:], None)
                         if rel_s is not None:
                             related_entities += [(ne_s, rel_s)]
                             tagged_sentence = tagged_sentence.replace(ne_s, "<ENAMEX TYPE=\"" + rel_s + "\">" + ne_s + "</ENAMEX>")
@@ -354,7 +378,10 @@ def run(file_count, print_statistics=True):
     print("============")
     print("# COMPLETE #")
     print("============")
-    return training_entities, grammar, related_entities, failed_entities, success_percentage
+
+    missing_relations = set([(x[0], x[3]) for x in training_entities]) - (set(related_entities) | set(failed_entities))
+
+    return training_entities, grammar, related_entities, failed_entities, missing_relations, success_percentage
 
     # remove all .result.txt files
     # for file in files:
