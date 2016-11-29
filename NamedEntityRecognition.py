@@ -5,23 +5,25 @@ from nltk.corpus import ieer
 from nltk.corpus import names as nltknames
 from SPARQLWrapper import SPARQLWrapper, JSON
 import re
-import csv
-import math
 import sys
 from collections import defaultdict
+import time
 import os
-from py_bing_search import PyBingWebSearch
 
 training_path = "/home/george/nltk_data/corpora/assignment/wsj_training/wsj_training/"
 untagged_path = "/home/george/nltk_data/corpora/assignment/wsj_untagged/wsj_untagged/"
 corpus_root = "/home/george/nltk_data/corpora/assignment/wsj_training/"
+test_path = "/home/george/nltk_data/corpora/assignment/wsj_New_test_data/"
 dbpedia_path_ttl = "/home/george/PycharmProjects/nlp_assignment/wrd_instances.ttl"
 dbpedia_path_csv = "/home/george/PycharmProjects/nlp_assignment/wrd_instances.csv"
 dbp_ent_path = "/home/george/PycharmProjects/nlp_assignment/entities.txt"
+more_entities = "/home/george/PycharmProjects/nlp_assignment/more_entities.txt"
 names = set().union(nltknames.words("male.txt"), nltknames.words("female.txt"))
 
-titles = {"Mr.", "Mrs.", "Dr.", "Sir", "Prof.", "Professor", "Ms.", "Rev.", "President", "Pres.", "Judge", "Mayor"}
-business_words = {"Co.", "Company", "Assoc.", "Association", "Inc.", "Incorporated", "Corp.", "Corporation", "Ltd.", "Group", "PLC", "Club", "Court", "Commission", "Bureau", "Ministry", "Institute"}
+titles = {"Mr.", "Mrs.", "Dr.", "Sir", "Prof.", "Professor", "Ms.", "Rev.", "President", "Pres.", "Judge", "Mayor",
+          "Sr", "Jr"}
+business_words = {"Co.", "Company", "Assoc.", "Association", "Inc.", "Incorporated", "Inc", "Corp.", "Corporation",
+                  "Ltd.", "Group", "PLC", "Club", "Court", "Commission", "Bureau", "Ministry", "Institute"}
 
 location_prev_words = {"in"}
 person_prev_words = {}
@@ -103,16 +105,15 @@ def create_grammar(ent_list):
 
     # Sort the list of POS tags so that it's ordered by length to promote greedy matching
     pos_frequencies = compile_pos_tags(ent_list)
-    #print pos_frequencies
     avg_freq = sum(pos_frequencies.values()) / len(pos_frequencies)
 
-    tag_list = [x for x in tag_list if pos_frequencies[(" ".join(x[0]), x[1])] > avg_freq * 0.5]
+    tag_list = [x for x in tag_list if pos_frequencies[(" ".join(x[0]), x[1])] > avg_freq * 0.7]
     tag_list = sorted(tag_list, key=lambda l: pos_frequencies[(" ".join(l[0]), l[1])] - (len(l[0]) ** 100))
 
     # Create the grammar
     grammar_list = [t[1] + ": {<" + "><".join(t[0]) + ">}" for t in tag_list if
                     len(set(t[0]) & illegal_chars) == 0 and (
-                    "NNP" in t[0] or "NNPS" in t[0] or ("NN" in t[0] and len(t[0]) == 1))]
+                        "NNP" in t[0] or "NNPS" in t[0] or ("NN" in t[0] and len(t[0]) == 1))]
     grammar = "\n".join(grammar_list)
 
     print("Grammar created")
@@ -142,9 +143,8 @@ def is_name(entity):
     return contains_name
 
 
-
 def is_location(entity):
-    if len(entity) <= 7 and (re.match(r'\w+\.', entity)) and entity[0].isupper():
+    if len(entity) <= 7 and entity[-1] == "." and entity[0].isupper():
         return True
     return False
 
@@ -163,12 +163,22 @@ def is_organization(entity, past_entities):
     return False
 
 
-def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, past_entities, prev_word):
+def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, more_ent_set, past_entities, prev_word):
     es = entity.split()
     # es = [w for w in es if not w in titles]
     entity_name = " ".join(es)
     entity = "_".join(es)
     entity = re.sub(r'[^\P{P}\w\.\_]+', "", entity)
+
+    if (entity, "PERSON") in more_ent_set:
+        return "PERSON"
+    if (entity, "LOCATION") in more_ent_set:
+        return "LOCATION"
+    if (entity, "ORGANIZATION") in more_ent_set:
+        return "ORGANIZATION"
+
+    if entity_name in ieer_entity_names:
+        return ieer_entity_dict[entity_name]
 
     if prev_word is not None:
         if prev_word in location_prev_words:
@@ -180,8 +190,8 @@ def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, past_
         if prev_word in organization_prev_words:
             return "ORGANIZATION"
 
-    if entity_name in ieer_entity_names:
-        return ieer_entity_dict[entity_name]
+    if len(es) == 1 and entity_name[0].islower():
+        return None
 
     if is_organization(entity_name, past_entities):
         return "ORGANIZATION"
@@ -193,9 +203,6 @@ def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, past_
         return "LOCATION"
 
     if not entity in dbp_ent_set:
-        return None
-
-    if len(es) == 1 and entity_name[0].islower():
         return None
 
     if False:
@@ -224,17 +231,27 @@ def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, past_
 
 
 # Complete the NER
-def ner(grammar, file_count):
-    dbp_ent_set = None
+def ner(grammar, file_count, test=True):
+
+    active_path = test_path if test else untagged_path
+
+    # Load the entities from the dbpedia file
     with open(dbp_ent_path, 'r') as ef:
         dbp_ent_set = ef.read().splitlines()
     dbp_ent_set = set(dbp_ent_set)
     print("Loaded %d entities from DBPedia entity list" % len(dbp_ent_set))
 
+    # Load the entities from more_entities.txt
+    with open(more_entities, 'r') as ef:
+        more_ent_set = ef.read().splitlines()
+    more_ent_set = [(e.split()[1], e.split()[0]) for e in more_ent_set]
+    more_ent_set = set(more_ent_set)
+
     delete_files()
 
-    onlyfiles = [f for f in listdir(untagged_path) if isfile(join(untagged_path, f))]
-    onlyfiles.remove(".DS_Store")
+    onlyfiles = [f for f in listdir(active_path) if isfile(join(active_path, f))]
+    if ".DS_Store" in onlyfiles:
+        onlyfiles.remove(".DS_Store")
 
     onlyfiles = sorted(onlyfiles)
 
@@ -249,9 +266,9 @@ def ner(grammar, file_count):
     for f in onlyfiles[:file_count]:
         sys.stdout.write("\r%.2f%%" % (float(i) * 100.0 / float(file_count)))
         sys.stdout.flush()
-        i+=1
+        i += 1
         text = ""
-        with open(untagged_path + f, 'r') as mf:
+        with open(active_path + f, 'r') as mf:
             text += mf.read()
 
         # Split into sentences
@@ -261,7 +278,7 @@ def ner(grammar, file_count):
             if "\n" in sent:
                 sents = sent.split("\n")
                 for s in sents[:-1]:
-                    sentences += [s+"\n"]
+                    sentences += [s + "\n"]
                 if not sents[-1] == "":
                     sentences += [sents[-1]]
             else:
@@ -298,27 +315,29 @@ def ner(grammar, file_count):
                     prev_word = prev_words[0].split()[-1]
 
                 # Get an initial relation for the entity
-                rel = get_relation(ne[0], ieer_dict, ieer_names, dbp_ent_set, related_entities[-10:], prev_word)
+                rel = get_relation(ne[0], ieer_dict, ieer_names, dbp_ent_set, more_ent_set, related_entities[-10:], prev_word)
                 if rel is not None:
                     related_entities += [(ne[0], rel)]
-                    tagged_sentence = tagged_sentence.replace(ne[0], "<ENAMEX TYPE=\"" + rel + "\">" + ne[0] + "</ENAMEX>")
+                    tagged_sentence = tagged_sentence.replace(ne[0],
+                                                              "<ENAMEX TYPE=\"" + rel + "\">" + ne[0] + "</ENAMEX>")
                 elif " and " in ne[0]:
                     ne_split = ne[0].split(" and ")
                     for ne_s in ne_split:
-                        rel_s = get_relation(ne_s, ieer_dict, ieer_names, dbp_ent_set, related_entities[-10:], None)
+                        rel_s = get_relation(ne_s, ieer_dict, ieer_names, dbp_ent_set, more_ent_set, related_entities[-10:], None)
                         if rel_s is not None:
                             related_entities += [(ne_s, rel_s)]
-                            tagged_sentence = tagged_sentence.replace(ne_s, "<ENAMEX TYPE=\"" + rel_s + "\">" + ne_s + "</ENAMEX>")
+                            tagged_sentence = tagged_sentence.replace(ne_s,
+                                                                      "<ENAMEX TYPE=\"" + rel_s + "\">" + ne_s + "</ENAMEX>")
                 else:
                     non_related_entities += [ne]
 
-            #print("%d, %d" % (len(related_entities), len(non_related_entities)))
+            # print("%d, %d" % (len(related_entities), len(non_related_entities)))
             tagged_sentences += [tagged_sentence]
-            #print(tagged_sentence)
+            # print(tagged_sentence)
 
-        #print(" ".join(tagged_sentences))
+        # print(" ".join(tagged_sentences))
 
-        with open(untagged_path + f + ".result", 'w') as fi:
+        with open(active_path + f + ".result", 'w') as fi:
             fi.write(" ".join(tagged_sentences))
 
     print("%d entities successfully extracted and tagged" % len(related_entities))
@@ -327,30 +346,35 @@ def ner(grammar, file_count):
     return related_entities, non_related_entities
 
 
-def statistics(training_entities, related_entities, file_count):
-    training_entities = [(x[0], x[3]) for x in training_entities]
-    training_entities_set = set(training_entities)
-    successes = 0
-    failures = 0
-    for ent in related_entities:
-        if ent in training_entities_set:
-            successes += 1
-        else:
-            failures += 1
+def statistics(training_entities, related_entities, failed_entities, file_count, test_case):
+    if test_case:
+        success_percentage = float(len(related_entities)) * 100.0 / float(len(related_entities) + len(failed_entities))
+        print("%d related entities discovered" % len(related_entities))
+        print("%d related entities ignored" % len(failed_entities))
 
-    success_percentage = float(successes) * 100.0 / float(len(training_entities))
-    print("Using %d files:" % file_count)
-    print("%d training entities provided" % len(training_entities))
-    print("%d related entities provided" % len(related_entities))
-    print("%d successful relations identified" % successes)
-    print("%d relations falsely identified" % failures)
-    print("%d relations not identified" % (len(training_entities) - successes))
-    print("%.2f%% success percentage" % success_percentage)
+    else:
+        training_entities = [(x[0], x[3]) for x in training_entities]
+        training_entities_set = set(training_entities)
+        successes = 0
+        failures = 0
+        for ent in related_entities:
+            if ent in training_entities_set:
+                successes += 1
+            else:
+                failures += 1
+
+        success_percentage = float(successes) * 100.0 / float(len(training_entities))
+        print("Using %d files:" % file_count)
+        print("%d training entities provided" % len(training_entities))
+        print("%d related entities discovered" % len(related_entities))
+        print("%d successful relations identified" % successes)
+        print("%d relations falsely identified" % failures)
+        print("%d relations not identified" % (len(training_entities) - successes))
+        print("%.2f%% success percentage" % success_percentage)
     return success_percentage
 
 
-def run(file_count, print_statistics=True):
-
+def run(file_count, print_statistics=True, test=True):
     print("")
     print("Getting Training Entities")
     print("-------------------------")
@@ -362,9 +386,13 @@ def run(file_count, print_statistics=True):
     grammar = create_grammar(training_entities)
 
     print("")
-    print("Completing NER")
+    print("Completing NER on training data")
     print("--------------")
-    related_entities, failed_entities = ner(grammar, file_count)
+    stime = time.time()
+    related_entities, failed_entities = ner(grammar, file_count, False)
+    etime = time.time()
+    elapsed_time = etime - stime
+    print("NER completed in %d seconds" % elapsed_time)
 
     success_percentage = None
     if print_statistics:
@@ -372,7 +400,14 @@ def run(file_count, print_statistics=True):
         print("Gathering Statistics")
         print("--------------------")
         sub_training_entities = get_training_entities(file_count)
-        success_percentage = statistics(sub_training_entities, related_entities, file_count)
+        success_percentage = statistics(sub_training_entities, related_entities, None, file_count, False)
+
+    if test:
+        print("")
+        print("Completing NER on test data")
+        print("---------------------------")
+        related_test_entities, failed_test_entities = ner(grammar, file_count, True)
+        success_percentage = statistics(None, related_entities, failed_entities, None, True)
 
     print("")
     print("============")
@@ -381,7 +416,9 @@ def run(file_count, print_statistics=True):
 
     missing_relations = set([(x[0], x[3]) for x in training_entities]) - (set(related_entities) | set(failed_entities))
 
-    return training_entities, grammar, related_entities, failed_entities, missing_relations, success_percentage
+    return training_entities, grammar,\
+        related_entities, failed_entities, missing_relations,\
+        related_test_entities, failed_test_entities, success_percentage
 
     # remove all .result.txt files
     # for file in files:

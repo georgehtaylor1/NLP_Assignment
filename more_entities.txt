@@ -1,0 +1,8215 @@
+LOCATION ABDERDEEN
+LOCATION Abidjan
+LOCATION ABIDJAN
+LOCATION Abu Dhabi
+LOCATION Abuja
+LOCATION Acatepec
+LOCATION Addis Ababa
+LOCATION ADDIS ABABA
+LOCATION Adel
+LOCATION Adige
+LOCATION Afghanistan
+LOCATION Africa
+LOCATION African Football Confederation
+LOCATION Aguas Zarcas de San Carlos
+LOCATION AJACCIO
+LOCATION Akron
+LOCATION AKRON
+LOCATION AL
+LOCATION Ala
+LOCATION Al-Aqsa
+LOCATION Alaska
+LOCATION Albania
+LOCATION Alberta
+LOCATION Aleksandrovac
+LOCATION Alexandroupolis
+LOCATION ALEXANDROUPOLIS
+LOCATION Algeria
+LOCATION Algiers
+LOCATION Alicante
+LOCATION Alkhan-Yurt
+LOCATION ALKHAN-YURT
+LOCATION Allenby Bridge
+LOCATION ALLENTOWN
+LOCATION Almere
+LOCATION ALMERE
+LOCATION AL-MUNTAR
+LOCATION Alomella Robles
+LOCATION al-Risala
+LOCATION Alta
+LOCATION Altamira
+LOCATION Amazon
+LOCATION America
+LOCATION Amman
+LOCATION AMMAN
+LOCATION Amsterdam
+LOCATION AMSTERDAM
+LOCATION Amsterdam-Rotterdam
+LOCATION Amsterdam-Rotterdam-Antwerp
+LOCATION AMSTETTEN
+LOCATION ANCHORAGE
+LOCATION Andhra Pradesh
+LOCATION Angola
+LOCATION ANGOLA
+LOCATION Anhui
+LOCATION Ankara
+LOCATION ANKARA
+LOCATION Antara
+LOCATION Antioquia
+LOCATION Antwerp
+LOCATION Anza
+LOCATION Aqaba
+LOCATION Arab East Jerusalem
+LOCATION Arabised north
+LOCATION Arbil
+LOCATION Argentina
+LOCATION Arizona
+LOCATION Ark
+LOCATION Arkansas
+LOCATION Armenia
+LOCATION Ashoknagar
+LOCATION Ashta
+LOCATION Asia
+LOCATION ASIA
+LOCATION ASIA PACIFIC
+LOCATION Asmara
+LOCATION Athens
+LOCATION ATHENS
+LOCATION Atlanta
+LOCATION ATLANTA
+LOCATION Atlantic
+LOCATION Atlantic City
+LOCATION ATLANTIC CITY
+LOCATION ATLANTIC HIGHLANDS
+LOCATION Atlantic Ocean
+LOCATION Auckland
+LOCATION AUCKLAND
+LOCATION Australia
+LOCATION AUSTRALIA
+LOCATION Austria
+LOCATION AUSTRIA
+LOCATION Avalon Borough
+LOCATION Azad ( free ) Kashmir
+LOCATION Azerbaijan
+LOCATION Badi-Tondon
+LOCATION Baghdad
+LOCATION BAGHDAD
+LOCATION Bagram
+LOCATION Bahamas
+LOCATION Bahrain
+LOCATION Bailundo
+LOCATION Baku
+LOCATION Balkan
+LOCATION Balkans
+LOCATION Balochistan
+LOCATION Baltimore
+LOCATION BALTIMORE
+LOCATION Banat
+LOCATION Bandundu
+LOCATION Bangkok
+LOCATION BANGKOK
+LOCATION Bangladesh
+LOCATION BANGLADESH
+LOCATION Bangui
+LOCATION Banja Luka
+LOCATION Barcelona
+LOCATION BARCELONA
+LOCATION Barentsburg
+LOCATION Barnagar
+LOCATION BARRY
+LOCATION Basque Country
+LOCATION BATKIVSHCHYNA COLLECTIVE FARM
+LOCATION Beijing
+LOCATION BEIJING
+LOCATION Beirut
+LOCATION BEIRUT
+LOCATION Beja
+LOCATION Belarus
+LOCATION BELCHATOW
+LOCATION Belem
+LOCATION Belgium
+LOCATION Belgrade
+LOCATION BELGRADE
+LOCATION Bell St Station
+LOCATION Benelux
+LOCATION Ben Gurion
+LOCATION Benin
+LOCATION Bergen
+LOCATION Berlin
+LOCATION BERLIN
+LOCATION Bermuda
+LOCATION BERNE
+LOCATION Berovo
+LOCATION Bethlehem
+LOCATION Bilbao
+LOCATION Billings
+LOCATION Birmingham
+LOCATION Birmingham Public Park
+LOCATION Birmingham Public Park & Rec
+LOCATION Bistrita
+LOCATION BISTRITA
+LOCATION Black
+LOCATION Black Sea
+LOCATION BLACK SEA
+LOCATION BLANTYRE
+LOCATION Boddington
+LOCATION Bogota
+LOCATION BOGOTA
+LOCATION Bogra
+LOCATION Bombay
+LOCATION BOMBAY
+LOCATION Bonn
+LOCATION BONN
+LOCATION Boo-nee-OL
+LOCATION Bordeaux
+LOCATION Born
+LOCATION Bosia-Hercegovina
+LOCATION Bosnia
+LOCATION Bosnia-Hercegovina
+LOCATION Bosnian-Croat Federation
+LOCATION Boston
+LOCATION BOSTON
+LOCATION Botswana
+LOCATION Bou Haroun
+LOCATION Boulder
+LOCATION Brasilia
+LOCATION BRASILIA
+LOCATION Bratislava
+LOCATION BRATISLAVA
+LOCATION Brazil
+LOCATION BRAZIL
+LOCATION Breda
+LOCATION BREGANCON
+LOCATION Bremen
+LOCATION Brisbane
+LOCATION Bristol
+LOCATION Britain
+LOCATION BRITAIN
+LOCATION British Columbia
+LOCATION Brussels
+LOCATION BRUSSELS
+LOCATION Bucharest
+LOCATION BUCHAREST
+LOCATION Budapest
+LOCATION BUDAPEST
+LOCATION Buenaventura
+LOCATION Buenos Aires
+LOCATION BUENOS AIRES
+LOCATION Bulgaria
+LOCATION BULGARIA
+LOCATION Bunol
+LOCATION BUNOL
+LOCATION Burma
+LOCATION Burundi
+LOCATION CA
+LOCATION Caesarea
+LOCATION Cairo
+LOCATION CAIRO
+LOCATION Calcutta
+LOCATION CALCUTTA
+LOCATION Calcutta hospital
+LOCATION Calderon
+LOCATION CALGARY
+LOCATION Calif
+LOCATION Calif.
+LOCATION California
+LOCATION CALIFORNIA
+LOCATION Cambodia
+LOCATION Cambridge
+LOCATION Camden
+LOCATION Camelot
+LOCATION Cameroon
+LOCATION Canada
+LOCATION Canberra
+LOCATION CANBERRA
+LOCATION Cap de Villefranche
+LOCATION Cape Town
+LOCATION CAPE TOWN
+LOCATION Caracas
+LOCATION CARACAS
+LOCATION Cardiff
+LOCATION Caribbean
+LOCATION Caribs
+LOCATION CARLSBAD
+LOCATION Cartagena
+LOCATION CATANIA
+LOCATION Celopek
+LOCATION Central African Republic
+LOCATION Central Asia
+LOCATION Central Clinical Hospital
+LOCATION Chad
+LOCATION Chandigarh
+LOCATION Channel Islands
+LOCATION Charleroi
+LOCATION Charleston
+LOCATION CHARLESTON
+LOCATION Chavakachcheri
+LOCATION Chechnya
+LOCATION Chenab
+LOCATION Cherbourg
+LOCATION CHESAPEAKE
+LOCATION Chesterfield
+LOCATION Chester-le-Street
+LOCATION Chiapas
+LOCATION Chicago
+LOCATION CHICAGO
+LOCATION Chihuahua
+LOCATION Chile
+LOCATION CHILE
+LOCATION CHILLICOTHE
+LOCATION CHILPANCINGO
+LOCATION China
+LOCATION Chongqing
+LOCATION Chorzow
+LOCATION Christchurch
+LOCATION CIS
+LOCATION Clarksburg
+LOCATION CLEVELAND
+LOCATION CO
+LOCATION Col
+LOCATION Colchester
+LOCATION Collingtree Park
+LOCATION Colo .
+LOCATION Cologne
+LOCATION Colombia
+LOCATION Colombo
+LOCATION COLOMBO
+LOCATION Colorado
+LOCATION COLORADO
+LOCATION Columbia Presbyterian Hospital
+LOCATION COMMACK
+LOCATION Commonwealth of Independent States
+LOCATION Community of Madrid
+LOCATION Conakry
+LOCATION CONAKRY
+LOCATION Congo
+LOCATION CONGO
+LOCATION Constanza
+LOCATION Coolee City
+LOCATION Copenhagen
+LOCATION COPENHAGEN
+LOCATION Corsica
+LOCATION Costa Rica
+LOCATION COSTA RICA
+LOCATION Costa Rica-Nicaragua
+LOCATION County Antrim
+LOCATION County Tipperary
+LOCATION Creedmoor
+LOCATION Croatia
+LOCATION Croatia-Yugoslavia
+LOCATION Cuba
+LOCATION CUBA
+LOCATION Culpepper
+LOCATION Curitiba
+LOCATION Cyprus
+LOCATION CYPRUS
+LOCATION Czech
+LOCATION Czech Republic
+LOCATION CZECH REPUBLIC
+LOCATION Dahshour
+LOCATION Dakar
+LOCATION DAKAR
+LOCATION Dalian
+LOCATION Dallas
+LOCATION DALLAS
+LOCATION Damascus
+LOCATION Dayana
+LOCATION Dayton
+LOCATION Dead Sea
+LOCATION Denmark
+LOCATION DES MOINES
+LOCATION Detroit
+LOCATION DETROIT
+LOCATION Dewas
+LOCATION Dhahran
+LOCATION Dhaka
+LOCATION DHAKA
+LOCATION Dhar
+LOCATION Diyarbakir
+LOCATION DIYARBAKIR
+LOCATION Doboj
+LOCATION DODGE CITY
+LOCATION Doetinchem
+LOCATION DOETINCHEM
+LOCATION Dohuk
+LOCATION DOHUK
+LOCATION Donje Ljupce
+LOCATION Dresden
+LOCATION DRESDEN
+LOCATION Dubai
+LOCATION DUBAI
+LOCATION Dublin
+LOCATION DUBLIN
+LOCATION Duessseldorf
+LOCATION Duluth
+LOCATION Dunedin
+LOCATION Durban
+LOCATION Durres
+LOCATION East coast
+LOCATION East Germany
+LOCATION East Jerusalem
+LOCATION East North Central
+LOCATION E.C.India
+LOCATION Ecuador
+LOCATION Edgbaston
+LOCATION Edinburgh
+LOCATION Egypt
+LOCATION Eindhoven
+LOCATION ELIZABETH
+LOCATION Elland Road
+LOCATION El Pueblo de Nuestra Senora La Reina de Los Angeles
+LOCATION Empire State
+LOCATION England
+LOCATION ENGLAND
+LOCATION Erez
+LOCATION Eritrea
+LOCATION Erzincan
+LOCATION Essex
+LOCATION ESSEX
+LOCATION Estonia
+LOCATION Ethiopia
+LOCATION ETHIOPIA
+LOCATION Etruria
+LOCATION Europe
+LOCATION Eurotunnel
+LOCATION Fairmont
+LOCATION Fairview
+LOCATION Fairview Town
+LOCATION Far East
+LOCATION Faroe Islands
+LOCATION Finland
+LOCATION FINLAND
+LOCATION Firestone C.C
+LOCATION Fla.
+LOCATION Flora
+LOCATION Florence
+LOCATION Florentine Guelfs
+LOCATION Florida
+LOCATION FLORIDA
+LOCATION Florida Straits
+LOCATION Flushing Meadows
+LOCATION Foindu
+LOCATION Former Yugoslavia
+LOCATION Forth Road Bridge
+LOCATION Fort Lauderdale
+LOCATION FORT LAUDERDALE
+LOCATION FORT WORTH
+LOCATION FR
+LOCATION France
+LOCATION FRANCE
+LOCATION Frankfurt
+LOCATION FRANKFURT
+LOCATION Franklin Roosevelt
+LOCATION Freetown
+LOCATION FREETOWN
+LOCATION Freiburg
+LOCATION French Guiana
+LOCATION French Riviera
+LOCATION Gabon
+LOCATION Gadoon
+LOCATION Garhi Habibullah
+LOCATION Gatwick
+LOCATION Gaza
+LOCATION GAZA
+LOCATION Gaza Strip
+LOCATION Gdansk
+LOCATION GDANSK
+LOCATION Geneva
+LOCATION GENEVA
+LOCATION GENOA
+LOCATION Georgia
+LOCATION germany
+LOCATION Germany
+LOCATION Gisenyi
+LOCATION GLASGOW
+LOCATION Glenview
+LOCATION Glenwood
+LOCATION Golan
+LOCATION Golan Heights
+LOCATION GOLF
+LOCATION Goma
+LOCATION Gorgona
+LOCATION Gorleben
+LOCATION Gothenburg
+LOCATION GOTHENBURG
+LOCATION Gouda
+LOCATION Grande Prairie
+LOCATION Great Hall of the People
+LOCATION Greece
+LOCATION GREECE
+LOCATION Griqualand West
+LOCATION GRIQUALAND WEST
+LOCATION Grozny
+LOCATION GROZNY
+LOCATION Guantanamo Bay
+LOCATION Guantanamo Naval Base
+LOCATION Guernsey
+LOCATION Guerrero
+LOCATION Guinea
+LOCATION Gujarat
+LOCATION Gujar Khan
+LOCATION Gulf
+LOCATION Haarlem
+LOCATION HAARLEM
+LOCATION Haiti
+LOCATION Hakkari
+LOCATION Halle
+LOCATION Halo Trust
+LOCATION Hamburg
+LOCATION HAMBURG
+LOCATION Hamilton
+LOCATION Hampshire
+LOCATION Haneda
+LOCATION Hanmer
+LOCATION Hannover
+LOCATION HANOVER
+LOCATION Harare
+LOCATION HARARE
+LOCATION HARLEYSVILLE
+LOCATION Havana
+LOCATION Havre
+LOCATION Hawaii
+LOCATION Headingley
+LOCATION Heathrow
+LOCATION Hebron
+LOCATION HEERENVEEN
+LOCATION Heidrun
+LOCATION Helsinki
+LOCATION HELSINKI
+LOCATION Hengelo
+LOCATION Heysel
+LOCATION Highland
+LOCATION High Plains
+LOCATION HK
+LOCATION H.K.
+LOCATION Hollywood
+LOCATION HOLZGERLINGEN
+LOCATION Honduras
+LOCATION HONDURAS
+LOCATION Hong Kong
+LOCATION HONG KONG
+LOCATION Hospital No 31
+LOCATION Houston
+LOCATION HOUSTON
+LOCATION Hove
+LOCATION Hub
+LOCATION Hungary
+LOCATION HUNGARY
+LOCATION Hunter
+LOCATION Huntington
+LOCATION Hyderabad
+LOCATION IA
+LOCATION Iceland
+LOCATION IL
+LOCATION Ill
+LOCATION Illinois
+LOCATION IMOLA
+LOCATION Inchon
+LOCATION India
+LOCATION INDIA
+LOCATION Indiana
+LOCATION Indianapolis
+LOCATION Indian Ocean
+LOCATION Indonesia
+LOCATION Indore
+LOCATION INDORE
+LOCATION Indre
+LOCATION INGOLSTADT
+LOCATION Inia
+LOCATION IN-NAZZJON
+LOCATION Inter-Entity Boundary Line
+LOCATION Inverness
+LOCATION Iowa
+LOCATION Iran
+LOCATION Iranian Kurdistan
+LOCATION Iraq
+LOCATION IRAQ
+LOCATION Ireland
+LOCATION IRVINE
+LOCATION Islamabad
+LOCATION ISLAMABAD
+LOCATION Islamic Museum
+LOCATION Islamic Republic of Iran
+LOCATION Island Beach State Park
+LOCATION Israel
+LOCATION Istanbul
+LOCATION ISTANBUL
+LOCATION Italy
+LOCATION Itami
+LOCATION Ivory Coast
+LOCATION JACKSONVILLE
+LOCATION Jacobs Field
+LOCATION Jaffna
+LOCATION Jakarta
+LOCATION JAKARTA
+LOCATION Jalalabad
+LOCATION Jamaica
+LOCATION Jammu
+LOCATION Jaora
+LOCATION Japan
+LOCATION Jeddah
+LOCATION Jersey
+LOCATION Jerusalem
+LOCATION JERUSALEM
+LOCATION Jiangsu
+LOCATION Jiangxi
+LOCATION Johannesburg
+LOCATION JOHANNESBURG
+LOCATION Johns Hopkins Hospital
+LOCATION Johnson Cty
+LOCATION Jordan
+LOCATION JP
+LOCATION Juan Santamaria
+LOCATION Jumet
+LOCATION JYVASKLYA
+LOCATION Jyvaskyla
+LOCATION JYVASKYLA
+LOCATION Kabul
+LOCATION KABUL
+LOCATION Kabul-Salang
+LOCATION Kan
+LOCATION Kandahar
+LOCATION Kanie Karzhala
+LOCATION Kansas
+LOCATION Kansas City
+LOCATION KANSAS CITY
+LOCATION Kaolack
+LOCATION Karachi
+LOCATION KARACHI
+LOCATION Karak
+LOCATION Karin Gornji
+LOCATION Kashmir
+LOCATION Kassala
+LOCATION Kathmandu
+LOCATION KATHMANDU
+LOCATION Kazakhstan
+LOCATION Keirin
+LOCATION Kentucky
+LOCATION Kenya
+LOCATION Khandwa
+LOCATION Khartoum
+LOCATION KHARTOUM
+LOCATION Kiev
+LOCATION KIEV
+LOCATION Kigali
+LOCATION KIGALI
+LOCATION KIMBERLEY
+LOCATION Kingdome
+LOCATION Kinshasa
+LOCATION KINSHASA
+LOCATION KIRKCALDY
+LOCATION KIRKLAND
+LOCATION Kiryat Sefer
+LOCATION Kishinev
+LOCATION Kivu
+LOCATION Klongprem
+LOCATION Knowsley Road
+LOCATION Koeln
+LOCATION Korea
+LOCATION Kosovo
+LOCATION Kragujevac
+LOCATION Krajina
+LOCATION Kremlin
+LOCATION KS
+LOCATION KUALA LUMPUR
+LOCATION Kudapokuna
+LOCATION Kunar
+LOCATION Kuwait
+LOCATION Kwazulu-Natal
+LOCATION LAGOS
+LOCATION Lahore
+LOCATION Lake Maracaibo
+LOCATION LANDSKRONA
+LOCATION Larnaca
+LOCATION LARNACA
+LOCATION Las Cruces
+LOCATION LAS CRUCES
+LOCATION Las Vegas
+LOCATION Lattakia
+LOCATION LATTAKIA
+LOCATION Latvia
+LOCATION Lausanne
+LOCATION Lebanon
+LOCATION Leduc Reef
+LOCATION LEEDS
+LOCATION Lees Summit
+LOCATION Leicester
+LOCATION Leipzig
+LOCATION Lesser Antilles
+LOCATION Leveilly
+LOCATION Lhasa
+LOCATION Liaoning
+LOCATION Liberia
+LOCATION LIBERIA
+LOCATION Libya
+LOCATION Liechenstein
+LOCATION Liechtenstein
+LOCATION Liege
+LOCATION Lima
+LOCATION LIMA
+LOCATION Limerick
+LOCATION LIMERICK
+LOCATION Lincoln
+LOCATION Linz
+LOCATION LINZ
+LOCATION Lisbon
+LOCATION LISBON
+LOCATION Lisheen
+LOCATION Lithuania
+LOCATION Little Rock
+LOCATION LITTLE ROCK
+LOCATION Ljubljana
+LOCATION LJUBLJANA
+LOCATION Loftus Versfeld
+LOCATION Lome
+LOCATION LOME
+LOCATION London
+LOCATION LONDON
+LOCATION Longchamp
+LOCATION Long Island
+LOCATION Longyearbyen
+LOCATION Lord 's
+LOCATION Loretto Abbey
+LOCATION L-ORIZZONT
+LOCATION Los Angeles
+LOCATION LOS ANGELES
+LOCATION LUANDA
+LOCATION LUSAKA
+LOCATION Luxembourg
+LOCATION M3
+LOCATION Macedonia
+LOCATION Madagascar
+LOCATION Madhumalla
+LOCATION Madison
+LOCATION Madrid
+LOCATION MADRID
+LOCATION Mae Sot
+LOCATION MAE SOT
+LOCATION Mahala
+LOCATION Maine
+LOCATION Malawi
+LOCATION Malaysia
+LOCATION Malta
+LOCATION Malta Freeport
+LOCATION Managua
+LOCATION MANAGUA
+LOCATION MANAMA
+LOCATION Manchester
+LOCATION MANCHESTER
+LOCATION MANCHESTER UNITED
+LOCATION Mandsaur
+LOCATION Manhattan
+LOCATION Manhattan Beach
+LOCATION Maniema
+LOCATION Manila
+LOCATION MANILA
+LOCATION Manitoba
+LOCATION Mano Junction
+LOCATION Mapourdit
+LOCATION Maputo
+LOCATION MAPUTO
+LOCATION MARACAIBO
+LOCATION Maribor
+LOCATION Mass
+LOCATION Massachusetts
+LOCATION Matagalpa
+LOCATION Matuzici
+LOCATION MATUZICI
+LOCATION Mauritania
+LOCATION Mauritius
+LOCATION Mecca
+LOCATION MED
+LOCATION Medellin
+LOCATION Melbourne
+LOCATION MELBOURNE
+LOCATION Menlo Park
+LOCATION Metropolitan Museum
+LOCATION Mexico
+LOCATION Mexico City
+LOCATION MEXICO CITY
+LOCATION Mhow
+LOCATION Miami
+LOCATION MIAMI
+LOCATION Mich
+LOCATION Michigan
+LOCATION Michigan City
+LOCATION Middle
+LOCATION Middle East
+LOCATION Middle East Gulf
+LOCATION Middle Kingdom
+LOCATION Mideast
+LOCATION Mideast Gulf
+LOCATION MIDEAST GULF
+LOCATION Midwest
+LOCATION Milan
+LOCATION MILAN
+LOCATION MILWAUKEE
+LOCATION Minn
+LOCATION Minneapolis
+LOCATION MINNEAPOLIS
+LOCATION Minnesota
+LOCATION MINNESOTA
+LOCATION MINNETONKA
+LOCATION Minutka Square
+LOCATION Mississippi
+LOCATION Missouri
+LOCATION Mister Baileys
+LOCATION Mo
+LOCATION Moengo
+LOCATION Mohali
+LOCATION Moldova
+LOCATION Monaco
+LOCATION Mongolia
+LOCATION Monrovia
+LOCATION MONROVIA
+LOCATION Montana
+LOCATION Monte Aperto
+LOCATION Monte Carlo
+LOCATION Montenegro
+LOCATION Monterey
+LOCATION MONTGOMERY
+LOCATION Montpelier
+LOCATION MONTPELIER
+LOCATION Montreal
+LOCATION MONTREAL
+LOCATION Montserrat
+LOCATION Mont-sur-Marchienne
+LOCATION Morinville
+LOCATION Morocco
+LOCATION Moscow
+LOCATION MOSCOW
+LOCATION Moslem-Croat Federation
+LOCATION Mother House
+LOCATION Mountain
+LOCATION MOUNTAIN VIEW
+LOCATION Mount Lebanon
+LOCATION Mount Zion Missionary Baptist Church
+LOCATION Mozambique
+LOCATION MOZAMBIQUE
+LOCATION Mpumulanga
+LOCATION MT
+LOCATION Muenster
+LOCATION Munich
+LOCATION Muzaffarabad
+LOCATION MUZAFFARABAD
+LOCATION NABLUS
+LOCATION Nagyatad
+LOCATION NAGYATAD
+LOCATION Nahar
+LOCATION Nairobi
+LOCATION NAIROBI
+LOCATION Nalkhera
+LOCATION Namibia
+LOCATION Narino
+LOCATION National Tennis Centre
+LOCATION N.C.
+LOCATION N'DJAMENA
+LOCATION Near East
+LOCATION Nebraska
+LOCATION Neemuch
+LOCATION Nelson
+LOCATION Nepal
+LOCATION Netanya
+LOCATION Netherland
+LOCATION Netherlands
+LOCATION Neths
+LOCATION NEUFCHATEAU
+LOCATION Newark
+LOCATION Newbury
+LOCATION New Delhi
+LOCATION NEW DELHI
+LOCATION New England
+LOCATION New Haven
+LOCATION New Jersey
+LOCATION Newmarket
+LOCATION New Mexico
+LOCATION New Territories
+LOCATION New York
+LOCATION NEW YORK
+LOCATION New York City
+LOCATION New Zealand
+LOCATION NEW ZEALAND
+LOCATION Nhamavila
+LOCATION Nicaragua
+LOCATION NICE
+LOCATION NICOSIA
+LOCATION Nigeria
+LOCATION Nirmal Hriday
+LOCATION N.J.
+LOCATION North
+LOCATION North America
+LOCATION Northampton
+LOCATION NORTHAMPTON
+LOCATION North Battleford
+LOCATION North Caucasus
+LOCATION North Dakota
+LOCATION NORTH DAKOTA
+LOCATION Northern Ireland
+LOCATION Northfield Mountains
+LOCATION North Korea
+LOCATION North Shore
+LOCATION North Yemen
+LOCATION Norway
+LOCATION NORWAY
+LOCATION Nottingham
+LOCATION Nottingham Forest
+LOCATION Nouakchott
+LOCATION Novye Atagi
+LOCATION NOVYE ATAGI
+LOCATION Nuku'alofa
+LOCATION Nuremberg
+LOCATION NUREMBERG
+LOCATION N.Y.
+LOCATION NZ
+LOCATION Oaxaca
+LOCATION Oerlikon
+LOCATION OH
+LOCATION Ohio
+LOCATION Okinawa
+LOCATION Oklahoma
+LOCATION Old City
+LOCATION Old Trafford
+LOCATION Omaha
+LOCATION Oman
+LOCATION Omari
+LOCATION Opera
+LOCATION OR
+LOCATION Oran
+LOCATION Orvieto
+LOCATION ORVIETO
+LOCATION Osaka
+LOCATION Oslo
+LOCATION OSLO
+LOCATION Osnabrueck
+LOCATION Ottawa
+LOCATION OTTAWA
+LOCATION Oval
+LOCATION Oxford
+LOCATION Pa
+LOCATION Pacific
+LOCATION PACIFIC
+LOCATION Pacific Northwest
+LOCATION Padania
+LOCATION Pakistan
+LOCATION PAKISTAN
+LOCATION Pakistani Kashmir
+LOCATION Palk Strait
+LOCATION Panama
+LOCATION PAPENDRECHT
+LOCATION Papua New Guinea
+LOCATION Para
+LOCATION Paraguay
+LOCATION Paramaribo
+LOCATION PARAMARIBO
+LOCATION Paramount
+LOCATION Parc des Princes
+LOCATION Paris
+LOCATION PARIS
+LOCATION Partition
+LOCATION Pattaya
+LOCATION Peace River Valley
+LOCATION Pemberton
+LOCATION PEMBERTON
+LOCATION Pembroke
+LOCATION Pembroke Pines
+LOCATION Pendleton
+LOCATION Pennsylvania
+LOCATION Perm
+LOCATION Perth
+LOCATION PERTH
+LOCATION Peru
+LOCATION Pesalai
+LOCATION Petersburg
+LOCATION Petrosan
+LOCATION Philadelphia
+LOCATION PHILADELPHIA
+LOCATION Phnom Penh
+LOCATION PHNOM PENH
+LOCATION PHOENIX
+LOCATION Pierina
+LOCATION Pittsburgh
+LOCATION PITTSBURGH
+LOCATION Place Beauvau
+LOCATION Podujevo
+LOCATION Poland
+LOCATION POLAND
+LOCATION Pontefract
+LOCATION PONTIAC
+LOCATION Pontiac Osteopathic Hospital
+LOCATION Port Arthur
+LOCATION Portland
+LOCATION PORTO
+LOCATION Portsmouth
+LOCATION Portugal
+LOCATION Potsdam
+LOCATION Prague
+LOCATION PRAGUE
+LOCATION Prairies
+LOCATION Preston
+LOCATION Pretoria
+LOCATION PRETORIA
+LOCATION Prince Rupert
+LOCATION Prince William Sound
+LOCATION Pudong New Area
+LOCATION Puertollano
+LOCATION Puerto Rico
+LOCATION Punjab
+LOCATION Qasri
+LOCATION Queensland
+LOCATION Quepos
+LOCATION Quetta
+LOCATION QUITO
+LOCATION Rabat
+LOCATION RABAT
+LOCATION Ramallah
+LOCATION RAMALLAH
+LOCATION Rameswaram
+LOCATION RAMESWARAM
+LOCATION Ramle
+LOCATION Rangoon
+LOCATION Ransart
+LOCATION Ratlam
+LOCATION Ravi
+LOCATION Rawandouz
+LOCATION Red River
+LOCATION Red Sea
+LOCATION RED SEA
+LOCATION Republic
+LOCATION Republic of Ireland
+LOCATION Republika Srbska
+LOCATION Republika Srpska
+LOCATION RICHMOND
+LOCATION Riel
+LOCATION Rio
+LOCATION Rio de Janeiro
+LOCATION RIO DE JANEIRO
+LOCATION Rishon-Lezion
+LOCATION Riviera
+LOCATION Riyadh
+LOCATION Robben Island
+LOCATION Romania
+LOCATION ROMANIA
+LOCATION Rome
+LOCATION ROME
+LOCATION Rotterdam
+LOCATION ROTTERDAM
+LOCATION Rousse
+LOCATION ROVERETO
+LOCATION Roxbury
+LOCATION Royal Free Hospital School of Medicine
+LOCATION Rudyard
+LOCATION Rumbek
+LOCATION Russia
+LOCATION RUSSIA
+LOCATION Russian Federation
+LOCATION Rwanda
+LOCATION Saarbruecken
+LOCATION Sabourin
+LOCATION S. Africa
+LOCATION Sakai
+LOCATION Salahuddin
+LOCATION Salamanca
+LOCATION Salang
+LOCATION SALANG
+LOCATION Salvador
+LOCATION San Diego
+LOCATION SAN DIEGO
+LOCATION Sandusky
+LOCATION San Francisco
+LOCATION SAN FRANCISCO
+LOCATION San Jose
+LOCATION SAN JOSE
+LOCATION San Marino
+LOCATION SAN MARINO
+LOCATION SAN MATEO
+LOCATION Santa Barbara
+LOCATION Santa Maria de Pocosol
+LOCATION Santiago Bernabeu
+LOCATION Sao Paulo
+LOCATION Sarajevo
+LOCATION SARAJEVO
+LOCATION Sardinia
+LOCATION Sask
+LOCATION Saskatchewan
+LOCATION Saudi Arabia
+LOCATION Saxony
+LOCATION S.C.
+LOCATION Schoenefeld
+LOCATION Scotland
+LOCATION SCOTLAND
+LOCATION Seaford Union
+LOCATION Seattle
+LOCATION SEATTLE
+LOCATION Sen
+LOCATION Senegal
+LOCATION Seoul
+LOCATION SEOUL
+LOCATION Serbia
+LOCATION Seville
+LOCATION Seychelles
+LOCATION SEYCHELLES
+LOCATION Shaba
+LOCATION Shabwa
+LOCATION Shanghai
+LOCATION SHANGHAI
+LOCATION Sharjah
+LOCATION Shatoi
+LOCATION SHATOI
+LOCATION SHEFFIELD
+LOCATION Shiraz
+LOCATION Siauliai
+LOCATION Sicily
+LOCATION Sierakowice
+LOCATION Sierra
+LOCATION Sierra Leone
+LOCATION Silicon Valley
+LOCATION Singapore
+LOCATION SINGAPORE
+LOCATION Sirnak
+LOCATION Sivas
+LOCATION Skeleton Canyon
+LOCATION Skhirat
+LOCATION SKHIRAT
+LOCATION Skopje
+LOCATION SKOPJE
+LOCATION S. Korea
+LOCATION Sliema
+LOCATION Slovakia
+LOCATION Slovenia
+LOCATION Sofia
+LOCATION SOFIA
+LOCATION Sokoto
+LOCATION Somalia
+LOCATION Son Sen
+LOCATION South
+LOCATION South Africa
+LOCATION SOUTH AFRICA
+LOCATION South America
+LOCATION Southampton
+LOCATION South Dakota
+LOCATION Southeastern Bulgaria
+LOCATION South Island
+LOCATION South Kivu
+LOCATION South Korea
+LOCATION South Miami Hospital
+LOCATION South Yemen
+LOCATION Soviet Union
+LOCATION SPA-FRANCOCHAMPS
+LOCATION Spa-Francorchamps
+LOCATION SPA-FRANCORCHAMPS
+LOCATION Spain
+LOCATION Spitzbergen
+LOCATION Split
+LOCATION Sprague
+LOCATION Spring
+LOCATION Springfield
+LOCATION Srebrenica
+LOCATION Sri Lanka
+LOCATION SRI LANKA
+LOCATION Srinagar
+LOCATION SRINAGAR
+LOCATION Stadium Court
+LOCATION St. Albans
+LOCATION St Ansgar
+LOCATION Stansted
+LOCATION STANSTED
+LOCATION STATE OF OHIO
+LOCATION St. Christopher Children 's Hospital
+LOCATION St Croix
+LOCATION Steinberg
+LOCATION Steyr
+LOCATION ST HELENS
+LOCATION St Louis
+LOCATION St. Louis
+LOCATION ST LOUIS
+LOCATION St. Matthew 's
+LOCATION St. Matthews Missionary Baptist Church
+LOCATION Stockholm
+LOCATION STOCKHOLM
+LOCATION Stung Treng
+LOCATION Stuttgart
+LOCATION STUTTGART
+LOCATION Sudan
+LOCATION SUGO
+LOCATION Suleimaniya
+LOCATION Sullivan 's Island
+LOCATION Surabaya
+LOCATION Surinam
+LOCATION Surrey
+LOCATION SUZUKA
+LOCATION Swe
+LOCATION Sweden
+LOCATION SWEDEN
+LOCATION Swerford
+LOCATION Switzerland
+LOCATION Sydney
+LOCATION SYDNEY
+LOCATION Syria
+LOCATION Taibe
+LOCATION TAIBE
+LOCATION Taipei
+LOCATION TAIPEI
+LOCATION Taipei University Hospital
+LOCATION Taiwan
+LOCATION Taiwan Strait
+LOCATION Tajikistan
+LOCATION TALLINN
+LOCATION Tamil Nadu
+LOCATION Tampere
+LOCATION Tando Allahyar
+LOCATION Tanzania
+LOCATION Tartous
+LOCATION Tasmania
+LOCATION Tatarstan
+LOCATION Tauranaga
+LOCATION Tauranga
+LOCATION Tegel
+LOCATION TEGUCIGALPA
+LOCATION Tehran
+LOCATION TEHRAN
+LOCATION Tel Aviv
+LOCATION Telfer
+LOCATION Tempelhof
+LOCATION Tender Heart
+LOCATION Texas
+LOCATION Texas Panhandle
+LOCATION Thailand
+LOCATION The Netherlands
+LOCATION The Oval
+LOCATION Thessaloniki
+LOCATION The Town of Our Lady the Queen of the Angels
+LOCATION Tianjin
+LOCATION Tibet
+LOCATION Tijuana
+LOCATION Tirana
+LOCATION TIRANA
+LOCATION Togo
+LOCATION TOGO
+LOCATION Tokyo
+LOCATION TOKYO
+LOCATION Tonga
+LOCATION Tongo Field
+LOCATION Topolcany
+LOCATION Toronto
+LOCATION TORONTO
+LOCATION Torshavn
+LOCATION Trax
+LOCATION Trent Bridge
+LOCATION Trepca
+LOCATION Trincomalee
+LOCATION Trinidad
+LOCATION Trinidad and Tobago
+LOCATION Tripoli
+LOCATION TRIPOLI
+LOCATION Tubmanburg
+LOCATION Tunbridge Wells
+LOCATION Tunceli
+LOCATION TUNIS
+LOCATION Tunisia
+LOCATION Turin
+LOCATION Turkey
+LOCATION Turner
+LOCATION Turnhout
+LOCATION Tuscany
+LOCATION Twyford Down
+LOCATION TX
+LOCATION UAE
+LOCATION Ubimini
+LOCATION Uganda
+LOCATION UGANDA
+LOCATION Ujjain
+LOCATION UK
+LOCATION U.K.
+LOCATION Ukraina Palace
+LOCATION Ukraine
+LOCATION Ulsan
+LOCATION Umbria
+LOCATION Umm Qasr
+LOCATION United Arab Emirates
+LOCATION United Kingdom
+LOCATION United States
+LOCATION University Hospital
+LOCATION Uppsala
+LOCATION Uruguay
+LOCATION US
+LOCATION U.S
+LOCATION U.S.
+LOCATION USA
+LOCATION USAC
+LOCATION U.S. Gulf
+LOCATION U.S. Middle East
+LOCATION U.S. Midwest
+LOCATION Utah
+LOCATION Va
+LOCATION Vaduz
+LOCATION Valencia
+LOCATION Valletta
+LOCATION VALLETTA
+LOCATION Van
+LOCATION Vancouver
+LOCATION VANCOUVER
+LOCATION Vanderbijlpark
+LOCATION Vatican
+LOCATION Vavuniya
+LOCATION Veliko Tarnovo
+LOCATION Venezuela
+LOCATION Venray
+LOCATION VENTURA
+LOCATION Vermont
+LOCATION Vermont Central Hospital
+LOCATION Verona
+LOCATION VERONA
+LOCATION Victor Babes
+LOCATION Victoria
+LOCATION Victoria Falls
+LOCATION Vienna
+LOCATION VIENNA
+LOCATION Vinnytsya
+LOCATION Virginia
+LOCATION Volendam
+LOCATION Vt
+LOCATION WA
+LOCATION Waiau
+LOCATION Wales
+LOCATION WALES
+LOCATION Wall Street
+LOCATION Warsaw
+LOCATION WARSAW
+LOCATION Wash
+LOCATION Washington
+LOCATION WASHINGTON
+LOCATION Washington , D.C.
+LOCATION Waterville
+LOCATION W.C. India
+LOCATION Welikanda
+LOCATION Wellington
+LOCATION WELLINGTON
+LOCATION Wembley
+LOCATION Wenatchee
+LOCATION West
+LOCATION West Azerbaijan
+LOCATION West Bank
+LOCATION West Bengal
+LOCATION WESTERN HEMISPHERE
+LOCATION Western Ukraine
+LOCATION West Indies
+LOCATION Weston-super-Mare
+LOCATION West South Central
+LOCATION West Virginia
+LOCATION White House
+LOCATION Whittier
+LOCATION Wiltshire
+LOCATION Wimbledon
+LOCATION WIMBLEDON
+LOCATION Windhoek
+LOCATION WINNIPEG
+LOCATION Wis
+LOCATION Wisc .
+LOCATION Wisconsin
+LOCATION Wolf Point
+LOCATION Woodlands Nursing Home
+LOCATION Woodridge
+LOCATION Worcester
+LOCATION Wroclaw
+LOCATION W. Va
+LOCATION Yemen
+LOCATION Yingkou
+LOCATION YORK
+LOCATION Yosu
+LOCATION Yugoslavia
+LOCATION Zabrze
+LOCATION Zadar
+LOCATION Zagreb
+LOCATION ZAGREB
+LOCATION Zaire
+LOCATION Zambia
+LOCATION Zevenaar
+LOCATION Zimbabwe
+LOCATION ZIMBABWE
+LOCATION Zurich
+LOCATION ZURICH
+LOCATION Zvornik
+MISC 1,000 Lakes
+MISC 1,000 Lakes Rally
+MISC 1000 Lakes Rally
+MISC 1,000 LAKES RALLY
+MISC 12th Dynasty
+MISC 1990 World Cup
+MISC 1992 European championship
+MISC 1996 Miss Teen USA
+MISC 1997--Ruehe
+MISC 2,000 Guineas
+MISC 21st African Cup of Nations
+MISC A$
+MISC Abbaye
+MISC Academy Award-winning
+MISC Adriatic
+MISC ADRs
+MISC AEX
+MISC Afghan
+MISC Afghans
+MISC African
+MISC African American
+MISC African Americans
+MISC AFRICA NATIONS CUP
+MISC African Champions Cup
+MISC African Cup
+MISC African Nations Cup
+MISC African Nations ' Cup
+MISC AFRICAN NATIONS CUP
+MISC Africans
+MISC Agent Orange
+MISC AIDS
+MISC Ai n't no telling
+MISC Airbus
+MISC Airbus 310
+MISC Airbus A310
+MISC AK47
+MISC AK-47
+MISC AL
+MISC Albanian
+MISC Albanian-born
+MISC Albanians
+MISC A.L. Central
+MISC A.L. East
+MISC Algerian
+MISC Algerians
+MISC All-Star
+MISC All the President 's Men
+MISC American
+MISC American League
+MISC AMERICAN LEAGUE
+MISC American League East Division
+MISC American League Western
+MISC American Olympic
+MISC Americans
+MISC American-style
+MISC Amoco-Yemen
+MISC Andean
+MISC Angolan
+MISC Anjalonkoski
+MISC Anti-Bhutto
+MISC anti-Rangoon
+MISC anti-Semitic
+MISC Apache et al Saunders 14-28
+MISC Apertura
+MISC Arab
+MISC Arabic
+MISC Arabs
+MISC Arctic
+MISC Area Electricity Boards
+MISC Argentine
+MISC ARGENTINE
+MISC Argentine Apertura
+MISC Aryan
+MISC Asian
+MISC Atlanta-based
+MISC Atlanta Games
+MISC Atlanta Olympics
+MISC ATP Tour
+MISC Aussies
+MISC Australia Day
+MISC Australian
+MISC AUSTRALIAN
+MISC Australian All-Ordinaries
+MISC Australian Open
+MISC Australian Rules
+MISC AUSTRALIAN RULES-AFL
+MISC Australians
+MISC AUSTRALIANS
+MISC Austrian
+MISC Avonex
+MISC Baath
+MISC BALANCE-Water Dist 1
+MISC Baltic
+MISC Bangladeshi
+MISC Basque
+MISC Bavarian
+MISC BC
+MISC Bedi Bunder
+MISC Bedouin
+MISC Bedouin Palestinian
+MISC Bedouin Palestinians
+MISC Bedouins
+MISC Beijing-backed
+MISC Beijing-funded
+MISC Belgian
+MISC BELGIAN
+MISC Belgian Grand Prix
+MISC BELGIAN GRAND PRIX
+MISC Bengali
+MISC Bentsen-era
+MISC Betaseron
+MISC Bharat Ratna
+MISC Biblical
+MISC BLOM Stock Index
+MISC Boeing
+MISC Bombay
+MISC Book of Mass
+MISC Bosnian
+MISC Bosnian Croat
+MISC Bosnian Moslems
+MISC Bosnians
+MISC Bosnian Serb
+MISC Bosnian Serbs
+MISC Boston-based
+MISC Bovine Spongiform Encephalopathy
+MISC Boy Scout Rally
+MISC Brady Bill
+MISC Brady Law
+MISC Brazilian
+MISC BRAZILIAN
+MISC Brazilian Football Confederation
+MISC BRIGHT-BELGIANS
+MISC British
+MISC British-based
+MISC British Jewish
+MISC British Masters
+MISC BRITISH MASTERS
+MISC British Open
+MISC British-ruled
+MISC Briton
+MISC Brussels
+MISC BRUSSELS GRAND PRIX
+MISC BSE
+MISC BSE-infected
+MISC Budapest-based
+MISC Bulgarian
+MISC Bulgarians
+MISC Bundesliga
+MISC BUNDESLIGA
+MISC Bunds
+MISC Burmese
+MISC Burundi-Central Africa
+MISC Butch Cassidy and the Sundance Kid
+MISC Butte
+MISC Buzuku
+MISC C$
+MISC CAC-40
+MISC CAC-40 General
+MISC California Proposition 215
+MISC Cambodian
+MISC Canadian
+MISC Canadian Open
+MISC CANADIAN OPEN
+MISC Canadians
+MISC Canopic
+MISC Castle Cup of Africa
+MISC Catalan
+MISC Catholic
+MISC Catholics
+MISC CBF
+MISC CeBIT
+MISC Celsius
+MISC Central African
+MISC CENTRAL DIVISION
+MISC Cetes
+MISC Challenge Cup
+MISC Chapter 11
+MISC Chechen
+MISC Chechens
+MISC CHICAGO AREA MILLS
+MISC Chilean
+MISC China-bound
+MISC Chinese
+MISC Christian
+MISC Christian Maronite
+MISC Christians
+MISC Civil War
+MISC CJD
+MISC Clean Air Act
+MISC CNB-120
+MISC Colombian
+MISC Colombians
+MISC Cometra et al Morinville 11-13
+MISC COMEX
+MISC Commission Regulation
+MISC Communist
+MISC Communist-led
+MISC Community Customs Code
+MISC Comprehensive Test Ban Treaty
+MISC Conference on Disarmament
+MISC Copland
+MISC Corsican
+MISC Costa Rican
+MISC Council Regulation
+MISC County Championship
+MISC COUNTY CHAMPIONSHIP
+MISC CPI
+MISC Creutzfeldt-Jakob Disease
+MISC Croat
+MISC Croatian
+MISC Croatians
+MISC Crossfire
+MISC CTBT
+MISC Cuban
+MISC Cubans
+MISC Cultural Revolution
+MISC Cup
+MISC Cup winners Cup
+MISC Cup Winners ' Cup
+MISC Cyprus-based
+MISC Czech
+MISC CZECH
+MISC Danish
+MISC Dated Brent
+MISC Davis Cup
+MISC DAVIS CUP
+MISC DAX
+MISC DAX-3O
+MISC DEM
+MISC Democrat
+MISC Democratic
+MISC Democratic Convention
+MISC Democratic National convention
+MISC Democratic National Convention
+MISC Democrats
+MISC Dfl
+MISC disarmament-China
+MISC Dm
+MISC Doetinchem-Doetinchem
+MISC Dolly
+MISC Doncaster Cup
+MISC Dow
+MISC Dow Jones
+MISC DTB-Bund-Future
+MISC Dust Bowl
+MISC Dutch
+MISC DUTCH
+MISC Dutchman
+MISC East
+MISC EASTERN DIVISION
+MISC East Java
+MISC Eco-Challenge
+MISC Ecu
+MISC Ecus
+MISC Edouard
+MISC Egyptian
+MISC Egyptians
+MISC EMBASSY
+MISC EMU
+MISC England-based
+MISC English
+MISC ENGLISH
+MISC English County Championship
+MISC ENGLISH COUNTY CHAMPIONSHIP
+MISC Englishman
+MISC Englishmen
+MISC Ennea
+MISC Ennea Ferrari F40
+MISC ERA
+MISC Eritrean
+MISC Estonian
+MISC Etruscan
+MISC Euro
+MISC EURO
+MISC Euro 96
+MISC Euro ' 96
+MISC EURO ' 96
+MISC EURO CUP
+MISC Euromark
+MISC EUROMARK
+MISC European
+MISC EUROPEAN
+MISC European Champions Cup
+MISC European Champions ' League
+MISC European Cup
+MISC EUROPEAN CUP
+MISC European Cup Winners '
+MISC EUROPEAN CUP WINNERS ' CUP
+MISC European PGA Tour
+MISC European Super League
+MISC EUROPEAN SUPERSON LEAGUE
+MISC European Third Countries
+MISC European Tour
+MISC EUROPEAN TOUR
+MISC European Trophy
+MISC Euro Swiss
+MISC EU-wide
+MISC F
+MISC F-14
+MISC F1 GTR
+MISC F.A. Cup
+MISC Farewell My lovely
+MISC Ferrari F40
+MISC Ffr
+MISC Financial Times-Stock Exchange
+MISC Finn
+MISC Finnish
+MISC FINNISH
+MISC Finns
+MISC First Battle of the Newbury bypass
+MISC Five Nations
+MISC Flight 150
+MISC Football Hall of Fame
+MISC Ford Escort
+MISC Formula One Grand Prix
+MISC Forrest Gump
+MISC Fourth World Conference on Women
+MISC France-Juppe
+MISC Franco-Prussian
+MISC French
+MISC FRENCH
+MISC French-educated
+MISC Frenchman
+MISC French Open
+MISC French-registered
+MISC FTSE
+MISC FTSE 100
+MISC FTSE-100
+MISC Games
+MISC Garrington 4-8
+MISC Gaza-based
+MISC **General Consumer Price Index
+MISC German
+MISC GERMAN
+MISC German-led
+MISC German Open
+MISC GERMAN OPEN
+MISC Germans
+MISC Ghibellines
+MISC Giro d'Italia
+MISC GMT
+MISC Golden Four
+MISC GOP
+MISC Graf-like
+MISC Grand Prix
+MISC GRAND PRIX
+MISC Grand Slam
+MISC Grand Slams
+MISC Grandstand
+MISC Greek
+MISC GREEK
+MISC GT2
+MISC GT2 Konrad Porsche 911
+MISC GT2 Roock Porsche 911
+MISC GTR
+MISC Guinean
+MISC Gulf McLaren F !
+MISC Gulf McLaren FI GTR
+MISC Gulf War
+MISC Hamlet Cup
+MISC HAMLET CUP
+MISC Hang Seng
+MISC Harrods
+MISC Helibor
+MISC HELIBOR
+MISC Himalayan
+MISC Hindu
+MISC Hitleresque
+MISC HIV
+MISC HIV-pensioner
+MISC HK$
+MISC Honduran
+MISC Hong
+MISC Hong Kong Open
+MISC HONG KONG OPEN
+MISC HONG OPEN
+MISC Hungarian
+MISC Hutu
+MISC Hutus
+MISC IBIS
+MISC Ill.-based
+MISC Ilyushin 76
+MISC IMF-hosted
+MISC IMF-sponsored
+MISC IMKB-100
+MISC Independence Day
+MISC Indian
+MISC Indian Ringneck Parrots
+MISC Indian-ruled
+MISC Indians
+MISC Indonesian
+MISC INDONESIAN
+MISC Indonesias
+MISC Industrial Production Index
+MISC International Aviation Safety program
+MISC International Endurance GT championship
+MISC International Fair
+MISC International Petroleum Encyclopedia
+MISC Internet
+MISC INTERVIEW-T&N
+MISC Iranian
+MISC Iranian Kurdish
+MISC Iraq-bound
+MISC Iraqi
+MISC Iraqi Kurd
+MISC Iraqi Kurdish
+MISC Iraqi Kurds
+MISC Iraqis
+MISC Iraq-U.N.
+MISC Irish
+MISC Iron Gippsland
+MISC Islam
+MISC Islamic
+MISC Islamic Taleban
+MISC Islamist
+MISC Islamists
+MISC ISO 9002
+MISC Israeli
+MISC ISRAELI
+MISC Israeli Arabs
+MISC Israeli-PLO
+MISC Israelis
+MISC Israeli-Syrian
+MISC Israel-PLO
+MISC Italian
+MISC ITALIAN
+MISC Italian Cup
+MISC ITALIAN CUP
+MISC Italians
+MISC ITALIAN SUPERCUP
+MISC Ivorian
+MISC Jamaican
+MISC Japanese
+MISC JAPANESE
+MISC Java
+MISC Jerry Lewis Labour Day
+MISC Jewel of India
+MISC Jewish
+MISC Jews
+MISC Jordanian
+MISC Jordanians
+MISC Kadian
+MISC Kalashnikov
+MISC Kalashnikovs
+MISC Karen
+MISC Kenyan
+MISC Kong Open
+MISC Koranic
+MISC Korean
+MISC KSE-100
+MISC Kurd
+MISC Kurdish
+MISC Kurdish-controlled
+MISC Kurds
+MISC Kwai
+MISC Labor Day
+MISC Labour Day
+MISC LABOUR DAY
+MISC La Creation du Monde
+MISC LAKES
+MISC Lakes Rally
+MISC Latin American
+MISC LDP-dominated
+MISC league-Australian
+MISC Lebanese
+MISC Leeds Classic
+MISC Liberian
+MISC LIBOR
+MISC Libyan
+MISC LISPI
+MISC London Carnival
+MISC Loretto
+MISC Los Angeles-based
+MISC Lusaka Agreement
+MISC Macedonian
+MISC Madame Bovary
+MISC Major League
+MISC MAJOR LEAGUE
+MISC Major League Baseball
+MISC Malaysian
+MISC Malaysian Open
+MISC MALAYSIAN OPEN
+MISC Maltese
+MISC Maoist
+MISC Maoists
+MISC Marcos LM600 162
+MISC Marxist
+MISC Mauritian
+MISC McLaren FI GTR
+MISC Medicaid
+MISC Medicare
+MISC Mediterranean
+MISC MEES
+MISC Memoires d'Outre Tombe
+MISC Mexican
+MISC MEXICAN
+MISC MI-17
+MISC Middle East Economic Survey
+MISC mid-Norway
+MISC MiG-19
+MISC Millns
+MISC Mission
+MISC Mission : Impossible
+MISC Miss Poland
+MISC Miss Universe
+MISC Mitsubishi Lancer
+MISC Montenegrin
+MISC Montserratians
+MISC Moroccan
+MISC MOROCCAN
+MISC Moslem
+MISC Moslem Arabs
+MISC Moslem-Croat
+MISC Moslem-led
+MISC Moslems
+MISC Most Valuable Player
+MISC Mozambican
+MISC MRI
+MISC MS-NBC News
+MISC Muller McLaren F1 GTR
+MISC Nablus-based
+MISC Name
+MISC Names
+MISC Nasdaq
+MISC NASDAQ
+MISC NASDAQ Index
+MISC National League
+MISC NATIONAL LEAGUE
+MISC National League Central
+MISC National League Central Division
+MISC National League Championship Series
+MISC National League Eastern Division
+MISC National League West
+MISC National Socialists
+MISC NATO-led
+MISC Nazi
+MISC Nazis
+MISC Nazism
+MISC Near Eastern
+MISC NEC World Series of Golf
+MISC neo-Nazi
+MISC neo-Nazism
+MISC Nepalese
+MISC Nepali
+MISC Net Book Agreement
+MISC New Independent States
+MISC New Year 's Day
+MISC New York-based
+MISC New Yorker
+MISC New Yorkers
+MISC New Zealander
+MISC New Zealands
+MISC Nicaraguan
+MISC Nicaraguans
+MISC Nicola
+MISC Nigerian
+MISC Nikkei
+MISC NIS
+MISC NL Central division
+MISC NL East
+MISC No 1676/96
+MISC No 2454/93
+MISC No 2913/92
+MISC Nobel Peace
+MISC Nobel Peace Prize
+MISC Nobel Peace Prize-winning
+MISC Nobel Prize
+MISC non-EU
+MISC non-Medicare
+MISC Nordegg
+MISC North Afghan
+MISC North African
+MISC Norwegian
+MISC Notting Hill Carnival
+MISC NT
+MISC Nunthorpe Stakes
+MISC Nuremberg-based
+MISC NYC Time
+MISC NZ$
+MISC O-157
+MISC Office 95
+MISC Oklahoma Climatological Survey
+MISC Old Testament
+MISC Olympiad
+MISC Olympic
+MISC OLYMPIC
+MISC Olympic Committee
+MISC Olympic Games
+MISC Olympics
+MISC One-month
+MISC One-year
+MISC Open
+MISC OPEN
+MISC Operation Provide Comfort
+MISC Ophran Drug Act
+MISC Opthalmic
+MISC Oriole
+MISC Orphan Drug law
+MISC Oscars
+MISC Othello
+MISC Pakistani
+MISC Pakistan-ruled
+MISC Palestinian
+MISC Palestinian Arabs
+MISC Palestinian Islamist
+MISC Palestinian-ruled
+MISC Palestinians
+MISC pan-Turkism
+MISC Paralympic Games
+MISC Paralympics
+MISC Parisians
+MISC Partnership for Peace
+MISC Peer Gynt Suite
+MISC People , People
+MISC Peruvian
+MISC PGA Tour
+MISC PHILIPPINE
+MISC PLO-Israel
+MISC Pokka
+MISC POKKA
+MISC Pole
+MISC Polish
+MISC POLISH
+MISC Portuguese
+MISC PORTUGUESE
+MISC post-Second World War
+MISC post-Soviet
+MISC pre-Soviet
+MISC Prix de l ' Abbaye
+MISC pro-Baghdad
+MISC Producer Prices Index
+MISC pro-Israel
+MISC Puerto Rican
+MISC PUK-KDP
+MISC PUK-run
+MISC Rajavi
+MISC Rally
+MISC Rambo
+MISC RBI
+MISC Red Indian
+MISC Reform ticket-CNN
+MISC Regulation
+MISC Remington
+MISC Ren A Ren
+MISC Rene
+MISC Rep
+MISC Rep .
+MISC Republic
+MISC Republican
+MISC Republican-controlled
+MISC Republican-initiated
+MISC Republican-led
+MISC Republican National Convention
+MISC Republicans
+MISC Republican-written
+MISC Rhineside
+MISC Richmond-based
+MISC Rocky
+MISC Roman Catholic
+MISC ROMANIA-HUNGARY
+MISC Romanian
+MISC ROMANIAN
+MISC Romanian-registered
+MISC Rottweiler
+MISC ROVERETO INTERNATIONAL
+MISC RUGBY LEAGUE
+MISC Russian
+MISC RUSSIAN
+MISC Russian-built
+MISC Russian-Chechen
+MISC Russian-made
+MISC Russian National Olympic Committee
+MISC Russians
+MISC Russian Trading System
+MISC Rwandan
+MISC Rwandan Hutu
+MISC Ryder Cup
+MISC S$
+MISC S-1
+MISC S. African
+MISC S.AFRICAN
+MISC Sahara Cup
+MISC Sairyu Maru No : 2
+MISC San Diego-based
+MISC Saudi
+MISC Saudis
+MISC SBF-120
+MISC SCOREBOARD-AUSTRALIA
+MISC Scottish
+MISC SCOTTISH
+MISC Scottish League Cup
+MISC Second Empire
+MISC Senegalese
+MISC Serb
+MISC Serb-controlled
+MISC Serb-held
+MISC Serbian
+MISC Serbs
+MISC serie A
+MISC Series
+MISC Seychellois
+MISC Shabwa Block No .
+MISC Sicilian
+MISC Sierra Leonean
+MISC Simex Nikkei
+MISC SIMEX Nikkei
+MISC Singapore-listed
+MISC Singer
+MISC Singer Cup
+MISC Singer World
+MISC Singer World Series
+MISC S. Korean
+MISC S. KOREAN
+MISC Slovak
+MISC SLOVAK
+MISC Slovenian
+MISC Small is Beautiful
+MISC Social Democrats
+MISC South African
+MISC South Africans
+MISC Southern
+MISC South Korea-based
+MISC South Korean
+MISC SOUTH KOREAN
+MISC South Korean-related
+MISC Soviet
+MISC Soviet-era
+MISC Soviet-style
+MISC Spaniard
+MISC Spanish
+MISC SPANISH
+MISC Spanish Supercup
+MISC S&P Index
+MISC Sri Lankan
+MISC Sri Lankans
+MISC Stainless Fighter
+MISC Stalinist
+MISC Subaru Impreza
+MISC Sudanese
+MISC Sud-PTT
+MISC Sun-ho
+MISC Supercup
+MISC SuperCup
+MISC Super Cup
+MISC SUPERCUP
+MISC SUPERSON CUP
+MISC Super League
+MISC Surinamese
+MISC Surinamese-born
+MISC Swede
+MISC Swedish
+MISC SWEDISH
+MISC Swiss
+MISC SWISS
+MISC Swiss-based
+MISC Syrian
+MISC Syrian-Lebanese
+MISC Syrians
+MISC T$
+MISC T-72
+MISC Tacis
+MISC Taiwanese
+MISC Taleban
+MISC Tamil
+MISC Tamils
+MISC Tamil-speaking
+MISC Tanzanian
+MISC Ten Commandments
+MISC Thai
+MISC The Vermonter
+MISC Tiantan
+MISC Tibetan
+MISC Tikhomirov-Maskhadov
+MISC TM
+MISC Toronto-based
+MISC Toshiba Classic
+MISC TOSHIBA CLASSIC
+MISC Tour
+MISC TOUR
+MISC Tour de France
+MISC TOUR OF NETHERLANDS
+MISC Tour of Switzerland
+MISC Tour of the Netherlands
+MISC Toyota Celica
+MISC Transcendental Meditation
+MISC Trax et al Morinville 10-23
+MISC Trax et al Morinville 2-25
+MISC Trident Seven
+MISC TriNations
+MISC trip-Canada
+MISC Tunisian
+MISC Tupolev 154
+MISC Turkish
+MISC TURKISH
+MISC Turkish Cypriot
+MISC Turkish Kurd
+MISC Tutsi
+MISC Tutsi-dominated
+MISC Tutsi-run
+MISC Tutsis
+MISC UEFA Cup
+MISC UEFA Fair Play
+MISC Ukrainian
+MISC UKRAINIAN
+MISC union-England
+MISC U.N.-sponsored
+MISC Urals
+MISC Urdu-speaking Moslems
+MISC Uruguayan
+MISC US$
+MISC U.S.-based
+MISC U.S.-brokered
+MISC U.S. Civil War
+MISC USDA-sponsored
+MISC U.S.-led
+MISC U.S.-mediated
+MISC U.S. Open
+MISC U.S. OPEN
+MISC U.S. Open Tennis Championships
+MISC U.S.-sponsored
+MISC U.S. Tennis Association
+MISC Uzi
+MISC Vancouver-based
+MISC Venezuelan
+MISC Venezuelan Agenda
+MISC Viacom Inc-owned
+MISC Vietnamese
+MISC Vietnam War
+MISC Vinko Marinovic
+MISC VW Passat
+MISC W-2
+MISC Waldbaum Hamlet Cup
+MISC Wash.-based
+MISC WATER DISTRICT 1
+MISC Welsh
+MISC West
+MISC West African
+MISC Western
+MISC Western Australian
+MISC WESTERN DIVISION
+MISC Westerners
+MISC Westernising
+MISC Western-organised
+MISC West McLaren
+MISC Wimbledon
+MISC Windows
+MISC Windows 95
+MISC Windows NT
+MISC Windows NT 4.0
+MISC World Congress against Sexual Exploitation of Children
+MISC World Cup
+MISC WORLD CUP
+MISC World Series
+MISC World Series of Golf
+MISC WORLD SERIES OF GOLF
+MISC World War II
+MISC World Wars One
+MISC World War Two
+MISC Xhosa
+MISC Xingfu
+MISC Yankee
+MISC Yellow Black
+MISC Yemeni
+MISC Yugoslav
+MISC YUGOSLAV
+MISC Z$
+MISC Zairean
+MISC Zimbabwean
+MISC Zionists
+MO Bundesliga
+ORGANIZATION 1860 Munich
+ORGANIZATION 2000 Games
+ORGANIZATION 3M
+ORGANIZATION Aalst
+ORGANIZATION Aarau
+ORGANIZATION Aaxis
+ORGANIZATION Aaxis Limited
+ORGANIZATION ABC
+ORGANIZATION ABC News
+ORGANIZATION Aberdeen
+ORGANIZATION ABERDEEN
+ORGANIZATION ABN AMRO
+ORGANIZATION ABN-AMRO Hoare Govett
+ORGANIZATION Academic Staff Union of Universities
+ORGANIZATION ACC
+ORGANIZATION ACES
+ORGANIZATION AC Milan
+ORGANIZATION AC Sparta Praha
+ORGANIZATION Action Against Hunger
+ORGANIZATION AD
+ORGANIZATION Addameer Prisoners Support Association
+ORGANIZATION Add Hapoel Ironi
+ORGANIZATION AD-DIYAR
+ORGANIZATION AD DUSTOUR
+ORGANIZATION Adelaide
+ORGANIZATION Admira / Wacker
+ORGANIZATION AdOn
+ORGANIZATION AdOn GmbH
+ORGANIZATION ADV
+ORGANIZATION Advanced Medical
+ORGANIZATION Advanced Medical Inc.
+ORGANIZATION Aegon
+ORGANIZATION AEI
+ORGANIZATION AEI Iberfreight
+ORGANIZATION AEK
+ORGANIZATION AEK Larnaca
+ORGANIZATION Aerostan
+ORGANIZATION AFL
+ORGANIZATION African National Congress
+ORGANIZATION A.G. Edwards & Sons , Inc
+ORGANIZATION AGF-IART
+ORGANIZATION Agir Ensemble pour les Droits de l'Homme
+ORGANIZATION Agricultural Statistics Service
+ORGANIZATION Agriculture Ministry
+ORGANIZATION AGROTONZ TLUMACOV
+ORGANIZATION AHOLD
+ORGANIZATION Air Cargo Newsroom
+ORGANIZATION Air Corps
+ORGANIZATION Airdrieonians
+ORGANIZATION Air Express International
+ORGANIZATION Air Force
+ORGANIZATION Airport Facilities
+ORGANIZATION Airport Facilities Co Ltd
+ORGANIZATION Ajaccio
+ORGANIZATION Ajax
+ORGANIZATION AJAX
+ORGANIZATION Ajax Amsterdam
+ORGANIZATION Aki
+ORGANIZATION Akron
+ORGANIZATION al-Akhbar
+ORGANIZATION Alania Vladikavkaz
+ORGANIZATION Alaniya Vladikavkaz
+ORGANIZATION AL-ANWAR
+ORGANIZATION Alarm UK
+ORGANIZATION Alaska Milk
+ORGANIZATION AL ASWAQ
+ORGANIZATION Alba
+ORGANIZATION Albion
+ORGANIZATION Alcan
+ORGANIZATION Alcatel Alsthom
+ORGANIZATION Aldi
+ORGANIZATION Algeria TV
+ORGANIZATION al-Ingaz al-Watani
+ORGANIZATION All Blacks
+ORGANIZATION Allensbach
+ORGANIZATION All Fishermen 's Association
+ORGANIZATION Alliance-Menatep
+ORGANIZATION Alloa
+ORGANIZATION Alpha Technologies Group Inc
+ORGANIZATION Alpha Techs
+ORGANIZATION AL RAI
+ORGANIZATION al-Tadamun
+ORGANIZATION Alucasa
+ORGANIZATION Amazon Affairs Department
+ORGANIZATION America
+ORGANIZATION American
+ORGANIZATION American Airlines
+ORGANIZATION American Names Association
+ORGANIZATION American Stock Exchange
+ORGANIZATION American Studies
+ORGANIZATION American University
+ORGANIZATION America Online
+ORGANIZATION America Online Inc
+ORGANIZATION Americast
+ORGANIZATION Ameritech Corp.
+ORGANIZATION Amica Wronki
+ORGANIZATION Amoco
+ORGANIZATION Amoco Corp
+ORGANIZATION AMR
+ORGANIZATION AMR Corp
+ORGANIZATION Amsterdam Newsroom
+ORGANIZATION Amtrak
+ORGANIZATION AMTRAK
+ORGANIZATION Anatolian
+ORGANIZATION ANC
+ORGANIZATION Anderlecht
+ORGANIZATION Angels
+ORGANIZATION ANGELS
+ORGANIZATION AN-NAHAR
+ORGANIZATION ANP
+ORGANIZATION ANSA
+ORGANIZATION Antwerp
+ORGANIZATION Anyang
+ORGANIZATION AOL
+ORGANIZATION AOL Europe
+ORGANIZATION AOL Germany
+ORGANIZATION APA
+ORGANIZATION Apex Tannery
+ORGANIZATION AP Moller
+ORGANIZATION Apple
+ORGANIZATION Apple Computer Inc.
+ORGANIZATION Arbroath
+ORGANIZATION ARC
+ORGANIZATION Arch
+ORGANIZATION Archaeological Society
+ORGANIZATION Archives
+ORGANIZATION Arch Petroleum Inc
+ORGANIZATION Arequipa
+ORGANIZATION Arequipa Resources Ltd
+ORGANIZATION Arkansas State Police
+ORGANIZATION Arminia Bielefeld
+ORGANIZATION Army
+ORGANIZATION Aronkasei
+ORGANIZATION Aronkasei Co Ltd
+ORGANIZATION Arrows
+ORGANIZATION Arsenal
+ORGANIZATION Arthur Yates
+ORGANIZATION Arthur Yates and Co
+ORGANIZATION Artmedia Petrzalka
+ORGANIZATION ASARCO
+ORGANIZATION A.S. Bacau
+ORGANIZATION ASEC
+ORGANIZATION Asian Star TV
+ORGANIZATION AS-SAFIR
+ORGANIZATION Assembly
+ORGANIZATION Associated Cement Companies
+ORGANIZATION Association for Relations Across the Taiwan Straits
+ORGANIZATION Association of Lloyd 's
+ORGANIZATION Aston Villa
+ORGANIZATION Astros
+ORGANIZATION ASUU
+ORGANIZATION Atalanta
+ORGANIZATION Athens Metro
+ORGANIZATION Athens Newsroom
+ORGANIZATION Athletics
+ORGANIZATION Atlanta
+ORGANIZATION ATLANTA
+ORGANIZATION Atlanta Braves
+ORGANIZATION Atlante
+ORGANIZATION Atlas
+ORGANIZATION Atletico
+ORGANIZATION ATLETICO
+ORGANIZATION Atletico Madrid
+ORGANIZATION Atletico Mineiro
+ORGANIZATION Atletico Paranaense
+ORGANIZATION ATP
+ORGANIZATION Atria
+ORGANIZATION ATRIA
+ORGANIZATION Atria Oy
+ORGANIZATION Auchan
+ORGANIZATION Auckland
+ORGANIZATION Audi
+ORGANIZATION Audi AG
+ORGANIZATION Australian Democrats
+ORGANIZATION Australia Senate
+ORGANIZATION Austria Vienna
+ORGANIZATION Auth .
+ORGANIZATION Authority
+ORGANIZATION Auxerre
+ORGANIZATION AUXERRE
+ORGANIZATION Avellino
+ORGANIZATION AVIA
+ORGANIZATION Avianca
+ORGANIZATION Awami League
+ORGANIZATION Ayr
+ORGANIZATION AZ Alkmaar
+ORGANIZATION BABEL
+ORGANIZATION Baby Bells
+ORGANIZATION Bahia
+ORGANIZATION Bailard , Biehl and Kaiser
+ORGANIZATION Balkan Airlines
+ORGANIZATION Bally
+ORGANIZATION Ballybunion
+ORGANIZATION Baltika Kaliningrad
+ORGANIZATION Baltimore
+ORGANIZATION BALTIMORE
+ORGANIZATION Baltimore Orioles
+ORGANIZATION Bamerindus
+ORGANIZATION Banco de Mexico
+ORGANIZATION Bancomext
+ORGANIZATION Banc One Capital Corporation
+ORGANIZATION Banco Santander
+ORGANIZATION Banespa
+ORGANIZATION Banfield
+ORGANIZATION Banglabazar Patrika
+ORGANIZATION Bangladesh Nationalist Party
+ORGANIZATION Banik Ostrava
+ORGANIZATION Bank Duta
+ORGANIZATION Bank Indonesia
+ORGANIZATION Bank of Finland
+ORGANIZATION Bank of France
+ORGANIZATION Bank of Israel
+ORGANIZATION Bank of Japan
+ORGANIZATION Bank of New Zealand
+ORGANIZATION Bank of Spain
+ORGANIZATION Barcelona
+ORGANIZATION BARCELONA
+ORGANIZATION Bari
+ORGANIZATION Barnet
+ORGANIZATION Barnsley
+ORGANIZATION Barrick
+ORGANIZATION Barrick Gold Corp
+ORGANIZATION Barrington Research Associates Inc
+ORGANIZATION BARUM HOLDING
+ORGANIZATION Basle
+ORGANIZATION Basque Homeland and Freedom
+ORGANIZATION Bastia
+ORGANIZATION Battle Mountain
+ORGANIZATION Battle Mountain Gold
+ORGANIZATION Batumi
+ORGANIZATION Baxter International Inc
+ORGANIZATION BAYERISCHE VEREINSBANK
+ORGANIZATION Bayer Leverkusen
+ORGANIZATION Bayern
+ORGANIZATION BAYERN
+ORGANIZATION Bayern Munich
+ORGANIZATION BayerVB
+ORGANIZATION BBC radio
+ORGANIZATION BCH
+ORGANIZATION Becej
+ORGANIZATION Bedibunder
+ORGANIZATION Beirut Secondary Market
+ORGANIZATION Beirut Stock Exchange
+ORGANIZATION Bekescsaba
+ORGANIZATION Belenenses
+ORGANIZATION Belga
+ORGANIZATION Belgrade Newsroom
+ORGANIZATION BellSouth Corp.
+ORGANIZATION Benetton
+ORGANIZATION Benevolent Assoc .
+ORGANIZATION Benfica
+ORGANIZATION Berkshire Hathaway Inc
+ORGANIZATION Berkshire Wood Elves
+ORGANIZATION Berlex
+ORGANIZATION Berlex Laboratories
+ORGANIZATION Bernama
+ORGANIZATION Bertelsmann
+ORGANIZATION Bertelsmann AG
+ORGANIZATION Berwick
+ORGANIZATION Besiktas
+ORGANIZATION Bessemer
+ORGANIZATION Bessemer Venture Partners
+ORGANIZATION Best
+ORGANIZATION Bestop Inc
+ORGANIZATION Best Products Co
+ORGANIZATION Betar
+ORGANIZATION Betar Jerusalem
+ORGANIZATION Bhattarai
+ORGANIZATION Bhavnagar
+ORGANIZATION Bild am Sonntag
+ORGANIZATION Billa
+ORGANIZATION Biogen
+ORGANIZATION Biogen Inc
+ORGANIZATION BioVest Research , Inc
+ORGANIZATION Birmingham
+ORGANIZATION Blackburn
+ORGANIZATION BLACKBURN
+ORGANIZATION Blackpool
+ORGANIZATION Bloomsbury Minerals Economics
+ORGANIZATION BME
+ORGANIZATION BNP
+ORGANIZATION BNZ
+ORGANIZATION Board
+ORGANIZATION Board of Control for Cricket in India
+ORGANIZATION Boavista
+ORGANIZATION Boby Brno
+ORGANIZATION Boca Juniors
+ORGANIZATION Bochum
+ORGANIZATION Bodo / Glimt
+ORGANIZATION Boeing Co
+ORGANIZATION BOJ
+ORGANIZATION Boland
+ORGANIZATION BOLAND
+ORGANIZATION Bold / Ogilvy and Mather
+ORGANIZATION BOLD / OGILVY , MATHER
+ORGANIZATION Bollore
+ORGANIZATION Bologna
+ORGANIZATION BOLSWESSANEN
+ORGANIZATION Bolton
+ORGANIZATION Bombay Commodities
+ORGANIZATION Borac
+ORGANIZATION Bordeaux
+ORGANIZATION Borussia Dortmund
+ORGANIZATION Borussia Moenchengladbach
+ORGANIZATION Boskalis
+ORGANIZATION Bosnian Association for Refugees and Displaced Persons
+ORGANIZATION Boston
+ORGANIZATION BOSTON
+ORGANIZATION Boston Red Sox
+ORGANIZATION Botafogo
+ORGANIZATION Bournemouth
+ORGANIZATION BP
+ORGANIZATION Bradford
+ORGANIZATION Braga
+ORGANIZATION Bragantino
+ORGANIZATION Brann
+ORGANIZATION Brann Bergen
+ORGANIZATION Braves
+ORGANIZATION BRAVES
+ORGANIZATION Breakfast Soybean Procurement Assn
+ORGANIZATION Brechin
+ORGANIZATION Bremen
+ORGANIZATION Brent
+ORGANIZATION Brentford
+ORGANIZATION Brewers
+ORGANIZATION Brighton
+ORGANIZATION Brisbane
+ORGANIZATION BRISBANE
+ORGANIZATION Bristol
+ORGANIZATION Bristol City
+ORGANIZATION Bristol Rovers
+ORGANIZATION British Airways
+ORGANIZATION British Broadcasting Corporation
+ORGANIZATION British Data
+ORGANIZATION British Data Management
+ORGANIZATION British Heart Foundation
+ORGANIZATION British Land
+ORGANIZATION British Lions
+ORGANIZATION British Petrolem
+ORGANIZATION British Securities and Investments Board
+ORGANIZATION Brotherhood of Nations
+ORGANIZATION Broward County Sheriff 's Office
+ORGANIZATION Brush Wellman
+ORGANIZATION Brush Wellman Inc
+ORGANIZATION BSM
+ORGANIZATION Bucharest Newsroom
+ORGANIZATION Buducnost
+ORGANIZATION Buducnost ( P )
+ORGANIZATION Buducnost ( V )
+ORGANIZATION Buenos Aires Newsroom
+ORGANIZATION Buffalo Bills
+ORGANIZATION Building
+ORGANIZATION Bulatka
+ORGANIZATION Bundesbank
+ORGANIZATION Bunge
+ORGANIZATION Bureau of Alcohol , Tobacco and Firearms
+ORGANIZATION Bureau Veritas
+ORGANIZATION Burnley
+ORGANIZATION Bury
+ORGANIZATION BUSINESS RECORDER
+ORGANIZATION BVSC
+ORGANIZATION Cabinet
+ORGANIZATION Caen
+ORGANIZATION CAF
+ORGANIZATION Cagliari
+ORGANIZATION Caja de Madrid
+ORGANIZATION California
+ORGANIZATION CALIFORNIA
+ORGANIZATION California Angels
+ORGANIZATION Caltex
+ORGANIZATION CAMAT
+ORGANIZATION Cambridge
+ORGANIZATION Canberra
+ORGANIZATION Cannes
+ORGANIZATION Cardiff
+ORGANIZATION Cardinals
+ORGANIZATION Career Horizons
+ORGANIZATION Career Horizons Inc
+ORGANIZATION Cargill
+ORGANIZATION Cargill Inc
+ORGANIZATION Carlisle
+ORGANIZATION Carlton
+ORGANIZATION Carrefour
+ORGANIZATION Casino Graz
+ORGANIZATION Castilla
+ORGANIZATION Castleford
+ORGANIZATION Catholic Information office
+ORGANIZATION Catholic Information Office
+ORGANIZATION CBI
+ORGANIZATION CBOE
+ORGANIZATION CBSA
+ORGANIZATION CDU
+ORGANIZATION CDU 3
+ORGANIZATION CDU / CSU
+ORGANIZATION CDU No .
+ORGANIZATION CDU No.3
+ORGANIZATION Ceahlaul Piatra Neamt
+ORGANIZATION Celaya
+ORGANIZATION Celtic
+ORGANIZATION Central Bank
+ORGANIZATION Central European Free Trade Area
+ORGANIZATION Central Office of Statistics and Information
+ORGANIZATION Centre for Sociological Studies
+ORGANIZATION CentrInvest Securities
+ORGANIZATION Cercle Brugge
+ORGANIZATION Cesena
+ORGANIZATION CESKA SPORITELNA
+ORGANIZATION CFDT
+ORGANIZATION CGT
+ORGANIZATION Chamber of Economy
+ORGANIZATION Channel Two
+ORGANIZATION Charleroi
+ORGANIZATION Charlton
+ORGANIZATION Chart Thai
+ORGANIZATION Chase Securities Inc.
+ORGANIZATION Checker 's
+ORGANIZATION CheckFree
+ORGANIZATION CheckFree Corp
+ORGANIZATION Chelsea
+ORGANIZATION Chemlon Humenne
+ORGANIZATION Chernomorets Novorossiisk
+ORGANIZATION Chesapeake Police Department
+ORGANIZATION Chester
+ORGANIZATION Chesterfield
+ORGANIZATION Cheuvreux de Virieu
+ORGANIZATION Cheveley Park Stud
+ORGANIZATION Chevron Corp
+ORGANIZATION Chicago
+ORGANIZATION CHICAGO
+ORGANIZATION Chicago Board Options Exchange
+ORGANIZATION Chicago Cubs
+ORGANIZATION Chicago Newsdesk
+ORGANIZATION Chicago White Sox
+ORGANIZATION Chievo
+ORGANIZATION China Daily
+ORGANIZATION China National Nonferrous Metals Import and Export Corp
+ORGANIZATION China Securities
+ORGANIZATION Chindia Tirgoviste
+ORGANIZATION Chiron
+ORGANIZATION Chiron Corp
+ORGANIZATION Chisinau
+ORGANIZATION Chonan
+ORGANIZATION Chonbuk
+ORGANIZATION Chonnam
+ORGANIZATION Chornomorets
+ORGANIZATION Chornomorets Odessa
+ORGANIZATION Ciments Blancs
+ORGANIZATION Ciments Libanais
+ORGANIZATION Cincinnati
+ORGANIZATION CINCINNATI
+ORGANIZATION Cincinnati Reds
+ORGANIZATION CINCO DIAS
+ORGANIZATION Ciputra Development
+ORGANIZATION CIS
+ORGANIZATION City
+ORGANIZATION Civil Defence and Coast Guard
+ORGANIZATION Civil War Conservation Corps
+ORGANIZATION CKD PRAHA HOLDING
+ORGANIZATION Cleveland
+ORGANIZATION CLEVELAND
+ORGANIZATION Cleveland Indians
+ORGANIZATION Cleveland Newsdesk
+ORGANIZATION CLINTON AND CEDAR RAPIDS
+ORGANIZATION Club Brugge
+ORGANIZATION Clyde
+ORGANIZATION Clydebank
+ORGANIZATION CME
+ORGANIZATION CNB
+ORGANIZATION CNE
+ORGANIZATION CNIEC
+ORGANIZATION CNN
+ORGANIZATION CNR
+ORGANIZATION Coalition
+ORGANIZATION Coast Guard
+ORGANIZATION Codelco
+ORGANIZATION Cofinec
+ORGANIZATION COFINEC
+ORGANIZATION Cofinec S.A.
+ORGANIZATION Colchester
+ORGANIZATION Collingwood
+ORGANIZATION Collstrop
+ORGANIZATION Cologne
+ORGANIZATION Colon
+ORGANIZATION Colorado
+ORGANIZATION COLORADO
+ORGANIZATION Colorado Christian Home
+ORGANIZATION Colorado Health Fac .
+ORGANIZATION Colorado Rockies
+ORGANIZATION Columbia University
+ORGANIZATION COMEX
+ORGANIZATION Commission
+ORGANIZATION Commodity Credit Corp of USDA
+ORGANIZATION Commonwealth
+ORGANIZATION Communist United Marxist-Leninist
+ORGANIZATION Companion Building Material
+ORGANIZATION Companion Marble
+ORGANIZATION CompuServe Corp
+ORGANIZATION Confederation of British Industry
+ORGANIZATION Conference Board
+ORGANIZATION Congress
+ORGANIZATION Conservative New Democracy
+ORGANIZATION Consolidated Financial Data
+ORGANIZATION Constitutional Rights Project
+ORGANIZATION Construction Industry Council
+ORGANIZATION Constructorol
+ORGANIZATION Constructorul
+ORGANIZATION Constructorul Chisinau
+ORGANIZATION Continental
+ORGANIZATION Continental AG
+ORGANIZATION Cooperative
+ORGANIZATION Cooperative Bank
+ORGANIZATION Cooperative Bank of Taiwan
+ORGANIZATION Coopers and Lybrand
+ORGANIZATION Coordinate of Ecumenical Service
+ORGANIZATION Copper and Brass Servicenter Association
+ORGANIZATION Corinthians
+ORGANIZATION Coritiba
+ORGANIZATION Corporacion Venezolana de Guayana
+ORGANIZATION Correction Department
+ORGANIZATION Cosenza
+ORGANIZATION Costain
+ORGANIZATION Costain Group Plc
+ORGANIZATION Costa Rican Volcanic and Seismologicial Observatory
+ORGANIZATION Council
+ORGANIZATION Council of Europe
+ORGANIZATION Coventry
+ORGANIZATION Cowdenbeath
+ORGANIZATION Credit Rating and Information Systems Ltd
+ORGANIZATION Credit Suisse
+ORGANIZATION Cremonese
+ORGANIZATION Crewe
+ORGANIZATION CRH
+ORGANIZATION Criciuma
+ORGANIZATION Cricuma
+ORGANIZATION Criminal Investigation Department
+ORGANIZATION Cronulla
+ORGANIZATION CRP
+ORGANIZATION Cruz Azul
+ORGANIZATION Cruzeiro
+ORGANIZATION Crvena zvezda
+ORGANIZATION Crystal Palace
+ORGANIZATION Csepel
+ORGANIZATION CSKA
+ORGANIZATION CSKA Kiev
+ORGANIZATION CSKA Moscow
+ORGANIZATION Cubs
+ORGANIZATION CUBS
+ORGANIZATION Cukaricki
+ORGANIZATION Cukurova
+ORGANIZATION CVG
+ORGANIZATION CVRD
+ORGANIZATION Cyprus Grain Commission
+ORGANIZATION Czech National Bank
+ORGANIZATION DAC Dunajska Streda
+ORGANIZATION Dacom
+ORGANIZATION Dacom Corp
+ORGANIZATION Dacom International
+ORGANIZATION Dadabhoy Investment ( pvt ) Ltd
+ORGANIZATION Daewoo
+ORGANIZATION Daewoo Corp
+ORGANIZATION Daewoo Dacom Communications
+ORGANIZATION Daewoo Group
+ORGANIZATION Daewoo Information
+ORGANIZATION Daewoo Information Systems Co Ltd
+ORGANIZATION DAILY NEWS
+ORGANIZATION Daily Telegraph
+ORGANIZATION Daily Variety
+ORGANIZATION Darlington
+ORGANIZATION DAWN
+ORGANIZATION DBRS
+ORGANIZATION D.C. Coalition Against Domestic Violence
+ORGANIZATION Debrecen
+ORGANIZATION DECATUR
+ORGANIZATION Defence
+ORGANIZATION Defence and Aviation
+ORGANIZATION Defence Ministry
+ORGANIZATION Democratic Karen Buddhist Army
+ORGANIZATION Democratic National United Movement
+ORGANIZATION Democratic Party
+ORGANIZATION Democrat National Convention
+ORGANIZATION Den Norske Stats Oljeselskap AS
+ORGANIZATION Department of Humanitarian affairs
+ORGANIZATION Department of Transport
+ORGANIZATION Department of Transportation
+ORGANIZATION Deportivo Espanol
+ORGANIZATION Derby
+ORGANIZATION Derbyshire
+ORGANIZATION Detroit
+ORGANIZATION DETROIT
+ORGANIZATION Detroit Tigers
+ORGANIZATION Deutsche Bahn
+ORGANIZATION Deutsche Bahn AG
+ORGANIZATION Deutsche Lufthansa AG
+ORGANIZATION DHA
+ORGANIZATION Dhaka Stock Exchange
+ORGANIZATION Dia
+ORGANIZATION Diamond Shamrock Inc
+ORGANIZATION DIARIO 16
+ORGANIZATION DINAMINA
+ORGANIZATION Dinamo
+ORGANIZATION DINAMO
+ORGANIZATION Dinamo Bucharest
+ORGANIZATION Disney
+ORGANIZATION Distillers
+ORGANIZATION DIVAINA
+ORGANIZATION DKBA
+ORGANIZATION DLJ Merchant Banking Partners LP
+ORGANIZATION Dnevi Avaz
+ORGANIZATION DNEVNI AVAZ
+ORGANIZATION Dnipro
+ORGANIZATION Dnipro Dnipropetrovsk
+ORGANIZATION DNUM
+ORGANIZATION Dodgers
+ORGANIZATION DODGERS
+ORGANIZATION Doe Run
+ORGANIZATION Doetinchem
+ORGANIZATION Dole White House
+ORGANIZATION Dominion Bond Rating Service
+ORGANIZATION Donaldson Lufkin & Jenrette
+ORGANIZATION Doncaster
+ORGANIZATION Dortmund
+ORGANIZATION Doubletree Corp
+ORGANIZATION Dream Team
+ORGANIZATION Dreyfus Strategic Municipals Inc
+ORGANIZATION Dreyfus Strategic Munis
+ORGANIZATION DSE
+ORGANIZATION Dublin Newsroom
+ORGANIZATION Ducati
+ORGANIZATION Duff and Phelps
+ORGANIZATION Duff & Phelps
+ORGANIZATION Duisburg
+ORGANIZATION Dukla Banska Bystrica
+ORGANIZATION Duma
+ORGANIZATION Dumbarton
+ORGANIZATION Dundee
+ORGANIZATION Dundee United
+ORGANIZATION Dunfermline
+ORGANIZATION Dunnes Stores
+ORGANIZATION Durham
+ORGANIZATION Dutch PTT
+ORGANIZATION Dynamo
+ORGANIZATION Dynamo Batumi
+ORGANIZATION Dynamo Kiev
+ORGANIZATION Dynamo Moscow
+ORGANIZATION Earth First
+ORGANIZATION Eastern Cables
+ORGANIZATION Eastern Region Brigade
+ORGANIZATION East Fife
+ORGANIZATION East Stirling
+ORGANIZATION Eau Claire
+ORGANIZATION EC
+ORGANIZATION ECOMOG
+ORGANIZATION Economic Community of West African States
+ORGANIZATION Ecuadorian Oriente
+ORGANIZATION EEC
+ORGANIZATION EgyptAir
+ORGANIZATION Ek Chor China Motorcycle
+ORGANIZATION Ekeren
+ORGANIZATION Eksportfinans
+ORGANIZATION Electoral Research Group
+ORGANIZATION Elect Res
+ORGANIZATION Eletropaulo
+ORGANIZATION Eleusis
+ORGANIZATION Elf
+ORGANIZATION Eli Lilly
+ORGANIZATION Eli Lilly & Co
+ORGANIZATION El Jadida
+ORGANIZATION El Mundo
+ORGANIZATION EL MUNDO
+ORGANIZATION El Nuevo Diario
+ORGANIZATION EL PAIS
+ORGANIZATION El-Watan
+ORGANIZATION Emeraud
+ORGANIZATION EMKAM
+ORGANIZATION Emnid
+ORGANIZATION Empoli
+ORGANIZATION Empresa Nacional del Petroleo
+ORGANIZATION ENAP
+ORGANIZATION Environment Canada
+ORGANIZATION EOE
+ORGANIZATION EPA
+ORGANIZATION EPR
+ORGANIZATION Equitas
+ORGANIZATION ERP
+ORGANIZATION Escravos
+ORGANIZATION Espinho
+ORGANIZATION Essendon
+ORGANIZATION Essex
+ORGANIZATION ESSEX
+ORGANIZATION Essilor
+ORGANIZATION Essilor International
+ORGANIZATION Estudiantes
+ORGANIZATION ETA
+ORGANIZATION Eternit
+ORGANIZATION EU
+ORGANIZATION EU Commission
+ORGANIZATION Eugene
+ORGANIZATION Eurobourses
+ORGANIZATION EUROLIRA
+ORGANIZATION Europe 1
+ORGANIZATION European Coal and Steel Community
+ORGANIZATION European Commission
+ORGANIZATION European Court of Human Rights
+ORGANIZATION European Union
+ORGANIZATION Eurostat
+ORGANIZATION EUROSWISS
+ORGANIZATION Eva Tremila
+ORGANIZATION EVEREN
+ORGANIZATION EVEREN Securities Inc
+ORGANIZATION Everton
+ORGANIZATION Exeter
+ORGANIZATION EXPANSION
+ORGANIZATION Expos
+ORGANIZATION EXPRESS
+ORGANIZATION Fahnestock & Co
+ORGANIZATION F.A.I.
+ORGANIZATION Falkir
+ORGANIZATION Falkirk
+ORGANIZATION FARC
+ORGANIZATION Faulding
+ORGANIZATION Faulding Inc
+ORGANIZATION FBI
+ORGANIZATION F.B.I.
+ORGANIZATION F.C. Arges Dacia Pitesti
+ORGANIZATION FC Bohemians
+ORGANIZATION F.C. Brasov
+ORGANIZATION F.C. Chindia Tirgoviste
+ORGANIZATION F.C. Farul Constanta
+ORGANIZATION FC Karvina
+ORGANIZATION FC Kosice
+ORGANIZATION F.C. La Valletta
+ORGANIZATION FC Linz
+ORGANIZATION F.C. National Bucharest
+ORGANIZATION FC Nitra
+ORGANIZATION F.C. Petrolul Ploiesti
+ORGANIZATION FC Porto
+ORGANIZATION FC Rimavska Sobota
+ORGANIZATION FC Tirol Innsbruck
+ORGANIZATION F.C. Valletta
+ORGANIZATION F.C. VALLETTA
+ORGANIZATION FDA
+ORGANIZATION FDP
+ORGANIZATION Fed
+ORGANIZATION Federal Aviation Administration
+ORGANIZATION Federal Bureau of Investigation
+ORGANIZATION Federal office for motor vehicles
+ORGANIZATION Federal Reserve
+ORGANIZATION Federal Securities Corporation
+ORGANIZATION Federal Trade Commission and Justice Department
+ORGANIZATION Federation Syndicale Unitaire
+ORGANIZATION Fenerbahce
+ORGANIZATION Ferencvaros
+ORGANIZATION FERENCVAROS
+ORGANIZATION Ferrari
+ORGANIZATION Ferris , Baker Watts , Inc.
+ORGANIZATION Ferro Carril Oeste
+ORGANIZATION Feyenoord
+ORGANIZATION Feyenoord Rotterdam
+ORGANIZATION FFK
+ORGANIZATION F.H. Faulding & Co
+ORGANIZATION Fidelis Andria
+ORGANIZATION FIFA
+ORGANIZATION Finance
+ORGANIZATION Finance Ministry
+ORGANIZATION FINANCIAL KATHIMERINI
+ORGANIZATION FINANCIAL POST
+ORGANIZATION Financial Security Assurance
+ORGANIZATION Fiorentina
+ORGANIZATION FIORENTINA
+ORGANIZATION First Alliance
+ORGANIZATION First Alliance Corporation and Subsidiaries
+ORGANIZATION First Capital Corp
+ORGANIZATION First Pacific
+ORGANIZATION First Union
+ORGANIZATION First Union Corp
+ORGANIZATION First Union National Bank of Fla.
+ORGANIZATION First Union National Bank of Florida
+ORGANIZATION FIS
+ORGANIZATION Fitzroy
+ORGANIZATION FK Jablonec
+ORGANIZATION FK Teplice
+ORGANIZATION Flamengo
+ORGANIZATION Flamurtari Vlore
+ORGANIZATION FLNC
+ORGANIZATION Florida
+ORGANIZATION FLORIDA
+ORGANIZATION Florida Marlins
+ORGANIZATION Fluminense
+ORGANIZATION Fokker Aviation
+ORGANIZATION Fontaine
+ORGANIZATION Fontaine Co Ltd
+ORGANIZATION Football Association of Ireland
+ORGANIZATION Footscray
+ORGANIZATION Ford
+ORGANIZATION Ford China
+ORGANIZATION Ford Motor Co
+ORGANIZATION Foreign Affairs
+ORGANIZATION Foreign Ministry
+ORGANIZATION Foreign Office
+ORGANIZATION Foreldorado
+ORGANIZATION Forfar
+ORGANIZATION Formula Shell
+ORGANIZATION FORMULA SHELL
+ORGANIZATION Forsa
+ORGANIZATION Forschungsgruppe Wahlen
+ORGANIZATION Fortuna Duesseldorf
+ORGANIZATION Fortuna Sittard
+ORGANIZATION Four Nations TV Committee
+ORGANIZATION Fourth Circuit
+ORGANIZATION Fox Broadcasting
+ORGANIZATION France-Soir
+ORGANIZATION France Telecom
+ORGANIZATION Frankfurt Newsroom
+ORGANIZATION FRATERNITE MATIN
+ORGANIZATION Freedom Front
+ORGANIZATION Freiburg
+ORGANIZATION Fremantle
+ORGANIZATION French Archaeological Society
+ORGANIZATION Frontier
+ORGANIZATION FSA
+ORGANIZATION FSU
+ORGANIZATION FTC
+ORGANIZATION Fulham
+ORGANIZATION Fulmar
+ORGANIZATION GACETA DE LOS NEGOCIOS
+ORGANIZATION GAK
+ORGANIZATION GAL
+ORGANIZATION Galatasaray
+ORGANIZATION GAN
+ORGANIZATION Gartner Group
+ORGANIZATION Gateway Data Sciences
+ORGANIZATION Gazeta Shqiptare
+ORGANIZATION Gazeta Wyborcza
+ORGANIZATION Gazprom
+ORGANIZATION Geelong
+ORGANIZATION Gencor
+ORGANIZATION Gencor Ltd
+ORGANIZATION General Motors
+ORGANIZATION Genk
+ORGANIZATION Genoa
+ORGANIZATION GENOA
+ORGANIZATION Gente
+ORGANIZATION Gentext Optics Inc
+ORGANIZATION Ghent
+ORGANIZATION Giants
+ORGANIZATION GIANTS
+ORGANIZATION Gift of Love
+ORGANIZATION Giga Information Group
+ORGANIZATION Gillingham
+ORGANIZATION Gil Vicente
+ORGANIZATION Gimnasia-Jujuy
+ORGANIZATION Gimnasia-La Plata
+ORGANIZATION Ginebra San Miguel
+ORGANIZATION Gingrich Congress
+ORGANIZATION Gingrich / Dole Congress
+ORGANIZATION GKS Belchatow
+ORGANIZATION GKS Katowice
+ORGANIZATION Glamorgan
+ORGANIZATION Glasgow Rangers
+ORGANIZATION Glentoran
+ORGANIZATION Globo
+ORGANIZATION Gloria Bistrita
+ORGANIZATION GLORIA BISTRITA
+ORGANIZATION Gloucestershire
+ORGANIZATION Goias
+ORGANIZATION Gold Coast
+ORGANIZATION Golden Crescent
+ORGANIZATION Goldman Sachs
+ORGANIZATION Goldman , Sachs and Co .
+ORGANIZATION Goldman , Sachs & Co
+ORGANIZATION Goldman Sachs & Co
+ORGANIZATION Goldman Sachs & Co Wertpapier GmbH
+ORGANIZATION Gornik Zabrze
+ORGANIZATION Government Housing Bank
+ORGANIZATION Government of National Unity and Reconciliation
+ORGANIZATION GPG
+ORGANIZATION Graafschap
+ORGANIZATION Graafschap Doetinchem
+ORGANIZATION Grasshopper
+ORGANIZATION Grasshoppers
+ORGANIZATION Greenock
+ORGANIZATION Greenock Morton
+ORGANIZATION Greens
+ORGANIZATION Greenville
+ORGANIZATION Gremio
+ORGANIZATION Grimsby
+ORGANIZATION Griqualand West
+ORGANIZATION Groningen
+ORGANIZATION GRONINGEN
+ORGANIZATION GTE Corp
+ORGANIZATION GTE Corp.
+ORGANIZATION Guadalajara
+ORGANIZATION Guarani
+ORGANIZATION Guimaraes
+ORGANIZATION Guingamp
+ORGANIZATION Guinness Peat
+ORGANIZATION Guinness Peat Group Plc
+ORGANIZATION Gyor
+ORGANIZATION HAARETZ
+ORGANIZATION Haitai
+ORGANIZATION Hajduk
+ORGANIZATION Haladas
+ORGANIZATION Halifax
+ORGANIZATION Hamas
+ORGANIZATION Hambrecht & Quist
+ORGANIZATION Hamburg
+ORGANIZATION Hamilton
+ORGANIZATION Hammerson
+ORGANIZATION Hampshire
+ORGANIZATION Handgun Control Inc.
+ORGANIZATION Hansa Rostock
+ORGANIZATION Hanson
+ORGANIZATION Hanson Plc
+ORGANIZATION Hanwha
+ORGANIZATION Hapoel Beersheva
+ORGANIZATION Hapoel Beit She'an
+ORGANIZATION Hapoel Haifa
+ORGANIZATION Hapoel Ironi
+ORGANIZATION Hapoel Ironi Rishon
+ORGANIZATION Hapoel Jerusalem
+ORGANIZATION Hapoel Kfar Sava
+ORGANIZATION Hapoel Petah Tikva
+ORGANIZATION Hapoel Taibe
+ORGANIZATION Hapoel Tel Aviv
+ORGANIZATION Hapoel Zafririm Holon
+ORGANIZATION Harelbeke
+ORGANIZATION Harleysville Group
+ORGANIZATION Harper-Collins
+ORGANIZATION Hartlepool
+ORGANIZATION Hassania Agadir
+ORGANIZATION Havnar Boltfelag
+ORGANIZATION Hawthorn
+ORGANIZATION HCFA
+ORGANIZATION Health Care Financing Administration
+ORGANIZATION Health Insurance of Vermont
+ORGANIZATION Hearts
+ORGANIZATION Hebrew University
+ORGANIZATION Heerenveen
+ORGANIZATION Helsinki Newsroom
+ORGANIZATION Hemina
+ORGANIZATION Hereford
+ORGANIZATION Hess
+ORGANIZATION Hezb-i-Islami
+ORGANIZATION Hibernian
+ORGANIZATION Hina
+ORGANIZATION HINA
+ORGANIZATION Hizbollah
+ORGANIZATION HMG
+ORGANIZATION Hoechst Marion Roussel Inc
+ORGANIZATION HOEK LOOS
+ORGANIZATION Hoek Loos NV
+ORGANIZATION Holdings
+ORGANIZATION Honam
+ORGANIZATION Honda
+ORGANIZATION Hong Kong Central Moneymarkets Unit
+ORGANIZATION HONG KONG ECONOMIC TIMES
+ORGANIZATION Hong Kong Interbank
+ORGANIZATION Hong Kong Newsroom
+ORGANIZATION Hong Kong News Room
+ORGANIZATION House
+ORGANIZATION Housecall
+ORGANIZATION Housecall Medical Resources Inc
+ORGANIZATION House of Commons
+ORGANIZATION House of Representatives
+ORGANIZATION Houston
+ORGANIZATION HOUSTON
+ORGANIZATION Houston Astros
+ORGANIZATION H&R Block Inc
+ORGANIZATION HSBC Markets
+ORGANIZATION Huddersfield
+ORGANIZATION Hull
+ORGANIZATION Human Gene Therapy
+ORGANIZATION Human Rights National Observatory
+ORGANIZATION Huracan
+ORGANIZATION Huracan-Corrientes
+ORGANIZATION Husaberg
+ORGANIZATION Husqvarna
+ORGANIZATION Hutnik Krakow
+ORGANIZATION Hwa Kay Thai Holdings Ltd
+ORGANIZATION Hyundai
+ORGANIZATION IBCA
+ORGANIZATION Iberia
+ORGANIZATION ICAC
+ORGANIZATION IFK Gothenburg
+ORGANIZATION IFOR
+ORGANIZATION IHC
+ORGANIZATION IHC Caland
+ORGANIZATION Ihlas
+ORGANIZATION III.ker.TVE
+ORGANIZATION Illawarra
+ORGANIZATION Iltalehti
+ORGANIZATION IMED
+ORGANIZATION IMED Corp.
+ORGANIZATION IMERISIA
+ORGANIZATION Immigration Service
+ORGANIZATION Immuno International AG
+ORGANIZATION Impala
+ORGANIZATION Impala Platinum Holdings Ltd
+ORGANIZATION Imphold
+ORGANIZATION Implats
+ORGANIZATION INA
+ORGANIZATION Inc
+ORGANIZATION , Inc.
+ORGANIZATION Independent Commission Against Corruption
+ORGANIZATION Independiente
+ORGANIZATION Indian Fisheries Department
+ORGANIZATION Indian Oil Corp
+ORGANIZATION Indians
+ORGANIZATION INDIANS
+ORGANIZATION Individual
+ORGANIZATION Indonesian Democratic Party
+ORGANIZATION Indusind Bank
+ORGANIZATION Information Ministry
+ORGANIZATION ING
+ORGANIZATION ING Barings
+ORGANIZATION ING Group
+ORGANIZATION Ingwe
+ORGANIZATION Ingwe Coal Corporation Ltd
+ORGANIZATION In Home Health
+ORGANIZATION In Home Health Inc
+ORGANIZATION Institute for Human Gene Therapy
+ORGANIZATION Inter
+ORGANIZATION Interacciones
+ORGANIZATION Interbank
+ORGANIZATION Inter Bratislava
+ORGANIZATION Interfax
+ORGANIZATION Interior
+ORGANIZATION interior ministry
+ORGANIZATION Interior Ministry
+ORGANIZATION Inter Milan
+ORGANIZATION Internacional
+ORGANIZATION International Bonds
+ORGANIZATION International Business Machines Corp
+ORGANIZATION International Business Machines Corp.
+ORGANIZATION International Monetary Fund
+ORGANIZATION International Petroleum Exchange
+ORGANIZATION International Philippine
+ORGANIZATION International Red Crescent
+ORGANIZATION Internazionale
+ORGANIZATION Internet Startup
+ORGANIZATION Interpol
+ORGANIZATION Inverness
+ORGANIZATION IOC
+ORGANIZATION IPE
+ORGANIZATION IPO
+ORGANIZATION Ipsos
+ORGANIZATION Ipswich
+ORGANIZATION Iraqi Community Association
+ORGANIZATION Iraqi Kurdish Patriotic Union of Kurdistan
+ORGANIZATION Iraqi News Agency
+ORGANIZATION Irish Department of Enterprise and Employment
+ORGANIZATION IRISH INDEPENDENT
+ORGANIZATION Irish Navy
+ORGANIZATION Irish Permanent
+ORGANIZATION IRISH TIMES
+ORGANIZATION IRNA
+ORGANIZATION Isbank
+ORGANIZATION Iscor
+ORGANIZATION Islamic Revolutionary Court
+ORGANIZATION Islamic Salvation Front
+ORGANIZATION Israel Radio
+ORGANIZATION ISS
+ORGANIZATION ISS Inc
+ORGANIZATION Istanbul Newsroom
+ORGANIZATION Itar-Tass
+ORGANIZATION IVAC
+ORGANIZATION IVAC Medical
+ORGANIZATION IVAC Medical Systems Inc.
+ORGANIZATION Ivernia
+ORGANIZATION Jakarta Post
+ORGANIZATION Jamaat-i-Islami
+ORGANIZATION Janakantha
+ORGANIZATION Japan Aluminium Federation
+ORGANIZATION Japan Credit Rating Agency
+ORGANIZATION Japanese Food Agency
+ORGANIZATION JAS Bardejov
+ORGANIZATION JavaSoft
+ORGANIZATION Javedan Cement
+ORGANIZATION JD Group
+ORGANIZATION JERUSALEM POST
+ORGANIZATION Jeunesse Massira
+ORGANIZATION Jiangling Motors Corp
+ORGANIZATION Jiangling Motors Group
+ORGANIZATION Jiul Petrosani
+ORGANIZATION J.J. KENNY
+ORGANIZATION Jockey Club
+ORGANIZATION JOHNSON CO
+ORGANIZATION Jomhuri Eslami
+ORGANIZATION Jomo
+ORGANIZATION Jordan
+ORGANIZATION Jordanian Arab Socialist Baath Party
+ORGANIZATION JORDAN TIMES
+ORGANIZATION JORNAL DE ANGOLA
+ORGANIZATION Journal
+ORGANIZATION Journal of the Royal College of Physicians
+ORGANIZATION Judicial Police
+ORGANIZATION Jumbish-i-Milli
+ORGANIZATION JUMHOURIYA
+ORGANIZATION Jungle Command
+ORGANIZATION Justice
+ORGANIZATION Juventude
+ORGANIZATION Juventus
+ORGANIZATION KABLO KLADNO
+ORGANIZATION Kabul Radio
+ORGANIZATION Kalf , Voorhis & Co
+ORGANIZATION Kamaz Naberezhnye Chelny
+ORGANIZATION KANSAS CITY
+ORGANIZATION Kansas City Royals
+ORGANIZATION Karabach Agdam
+ORGANIZATION Karachi Stock Exchange
+ORGANIZATION Kareda Siauliai
+ORGANIZATION Karen National Union
+ORGANIZATION Karlsruhe
+ORGANIZATION Karpaty
+ORGANIZATION Karpaty Lviv
+ORGANIZATION Kathmandu Post
+ORGANIZATION Kaucuk Opava
+ORGANIZATION Ka Wah Bank
+ORGANIZATION Kawasaki
+ORGANIZATION KDP
+ORGANIZATION KDPI
+ORGANIZATION Keane
+ORGANIZATION Keane Inc
+ORGANIZATION Kekkila
+ORGANIZATION KEKKILA
+ORGANIZATION Kekkila Oy
+ORGANIZATION Kent
+ORGANIZATION Kerametal Dubnica
+ORGANIZATION KERDOS
+ORGANIZATION Khmer
+ORGANIZATION Khmer Rouge
+ORGANIZATION Khouribga
+ORGANIZATION Kilmarnock
+ORGANIZATION KinderCare Learning Centers Inc
+ORGANIZATION Kingston
+ORGANIZATION Kingston Technology Co
+ORGANIZATION Kinross
+ORGANIZATION Kinross Gold Corp
+ORGANIZATION Kispest
+ORGANIZATION Kispest Honved
+ORGANIZATION Kleiner Perkins
+ORGANIZATION Kleiner Perkins Caufield & Byers
+ORGANIZATION KNU
+ORGANIZATION Koha Jone
+ORGANIZATION Kolbenschmidt
+ORGANIZATION KOMERCNI BANKA
+ORGANIZATION Kongsvinger
+ORGANIZATION Koninklijke Boskalis Westminster NV
+ORGANIZATION Koninklijke PTT Nederland NV
+ORGANIZATION Konpolis
+ORGANIZATION Kotaik Abovyan
+ORGANIZATION Kpaitan Stankov
+ORGANIZATION KPC
+ORGANIZATION Kredietbank
+ORGANIZATION Kremin
+ORGANIZATION Kremin Kremenchuk
+ORGANIZATION Krpaco
+ORGANIZATION Krpaco a.s.
+ORGANIZATION Krylya Sovetov Samara
+ORGANIZATION Kryvbas
+ORGANIZATION Kryvbas Kryvy Rig
+ORGANIZATION KSE
+ORGANIZATION KTM
+ORGANIZATION Kurdistan Democratic Party
+ORGANIZATION Kurdistan Democratic Party of Iran
+ORGANIZATION Kurdistan Workers Party
+ORGANIZATION Labor Party
+ORGANIZATION Labour
+ORGANIZATION La Corse
+ORGANIZATION Lada Togliatti
+ORGANIZATION La Jornada
+ORGANIZATION Lamonts
+ORGANIZATION Lamonts Apparel
+ORGANIZATION Lamonts Apparel Inc
+ORGANIZATION La Nacion
+ORGANIZATION Lancashire
+ORGANIZATION Lancet
+ORGANIZATION Land Securities
+ORGANIZATION LANKADEEPA
+ORGANIZATION Lanus
+ORGANIZATION LA PRESSE
+ORGANIZATION Lausanne
+ORGANIZATION La Voie
+ORGANIZATION LA VOIE
+ORGANIZATION Lazio
+ORGANIZATION LDP
+ORGANIZATION Lebanese Association for the Democracy of Elections
+ORGANIZATION Lebanon First
+ORGANIZATION Le Canard Enchaine
+ORGANIZATION Lecce
+ORGANIZATION Lech Poznan
+ORGANIZATION LECIVA PRAHA
+ORGANIZATION Leeds
+ORGANIZATION LEEDS
+ORGANIZATION Leeds United
+ORGANIZATION Le Figaro
+ORGANIZATION Legal Department
+ORGANIZATION Legia Warsaw
+ORGANIZATION Le Havre
+ORGANIZATION Lehman
+ORGANIZATION Lehman Brothers International
+ORGANIZATION Leicester
+ORGANIZATION Leicestershire
+ORGANIZATION LE JOUR
+ORGANIZATION Le Matin
+ORGANIZATION Le Monde
+ORGANIZATION LE MONDE
+ORGANIZATION Lens
+ORGANIZATION LENS
+ORGANIZATION Lenzing
+ORGANIZATION Lenzing AG
+ORGANIZATION Leon
+ORGANIZATION Le Populaire
+ORGANIZATION Les Echos
+ORGANIZATION LE TEMPS
+ORGANIZATION Leverkusen
+ORGANIZATION Levski Sofia
+ORGANIZATION Leyton Orient
+ORGANIZATION LG
+ORGANIZATION LG Caltex
+ORGANIZATION LG Electronics Inc.
+ORGANIZATION Liberal Democratic party
+ORGANIZATION Liberal Democratic Party
+ORGANIZATION Liberal Party
+ORGANIZATION Liberation Tigers of Tamil Eelam
+ORGANIZATION Liberia Council
+ORGANIZATION Liberte
+ORGANIZATION Lichtwer Pharma GmbH
+ORGANIZATION Lidl
+ORGANIZATION Lierse
+ORGANIZATION Life Insurance Co of Georgia
+ORGANIZATION Life of Georgia
+ORGANIZATION LIFFE
+ORGANIZATION Ligier
+ORGANIZATION Lihir
+ORGANIZATION Likud
+ORGANIZATION Lille
+ORGANIZATION Lillestrom
+ORGANIZATION Lincoln
+ORGANIZATION Linzer ASK
+ORGANIZATION LIONS
+ORGANIZATION Lisbon
+ORGANIZATION Liu Chong Hing
+ORGANIZATION Liu Chong Hing Investment Ltd
+ORGANIZATION Liverpool
+ORGANIZATION Livingston
+ORGANIZATION LKS Lodz
+ORGANIZATION Llansantffraid
+ORGANIZATION Lloyd 's
+ORGANIZATION Lloyd 's of London
+ORGANIZATION Lloyds Shipping
+ORGANIZATION Lloyds Shipping Intelligence Service
+ORGANIZATION LME
+ORGANIZATION Lockhart
+ORGANIZATION Lockhart Industries Inc
+ORGANIZATION Lokeren
+ORGANIZATION Lokomotiva Kosice
+ORGANIZATION Lokomotiv Moscow
+ORGANIZATION Lokomotiv Nizhny Novgorod
+ORGANIZATION Lommel
+ORGANIZATION London
+ORGANIZATION London Broncos
+ORGANIZATION London International Financial Futures Exchange
+ORGANIZATION London Metal Exchange
+ORGANIZATION London Newsroom
+ORGANIZATION London Securities & Derivatives Exchange
+ORGANIZATION Lonrho Plc
+ORGANIZATION Los Angeles
+ORGANIZATION LOS ANGELES
+ORGANIZATION Los Angeles Dodgers
+ORGANIZATION Lotte
+ORGANIZATION Louis Dreyfus Corp
+ORGANIZATION Loxley
+ORGANIZATION Loxley Publications Plc
+ORGANIZATION Loznica
+ORGANIZATION Ltd
+ORGANIZATION LTTE
+ORGANIZATION Lucchese
+ORGANIZATION Lucerne
+ORGANIZATION Lufthansa
+ORGANIZATION Lufthansa Cargo AG
+ORGANIZATION Lufthanseat
+ORGANIZATION Lugano
+ORGANIZATION LUKoil
+ORGANIZATION Luton
+ORGANIZATION Lyngby
+ORGANIZATION Lyon
+ORGANIZATION MAARIV
+ORGANIZATION Maccabi Haifa
+ORGANIZATION Maccabi Herzliya
+ORGANIZATION Maccabi Petah Tikva
+ORGANIZATION Macedonian Communist Party
+ORGANIZATION Madrid Newsroom
+ORGANIZATION MainStay International Funds
+ORGANIZATION Malbak
+ORGANIZATION Malbak Ltd
+ORGANIZATION Mallinckrodt Group Inc
+ORGANIZATION Manchester City
+ORGANIZATION MANCHESTER CITY
+ORGANIZATION Manchester United
+ORGANIZATION Man City
+ORGANIZATION Manly
+ORGANIZATION Mansfield
+ORGANIZATION Mapei
+ORGANIZATION Mariners
+ORGANIZATION Marines
+ORGANIZATION Marion County Board of Education
+ORGANIZATION Marlins
+ORGANIZATION Maronite
+ORGANIZATION Marrakesh
+ORGANIZATION Marseille
+ORGANIZATION MARSEILLE
+ORGANIZATION Marubeni
+ORGANIZATION Massachusetts Association of Realtors
+ORGANIZATION Matahari
+ORGANIZATION M'bishi Gas
+ORGANIZATION MCC
+ORGANIZATION McCarthy
+ORGANIZATION McLaren
+ORGANIZATION MDS
+ORGANIZATION Mechelen
+ORGANIZATION Mediaset
+ORGANIZATION Meknes
+ORGANIZATION Melbourne
+ORGANIZATION Mentmore
+ORGANIZATION Mentmore Abbey
+ORGANIZATION Mercantile & General
+ORGANIZATION Merrill Lynch
+ORGANIZATION Merrion Insurance Company Inc
+ORGANIZATION Metalurg
+ORGANIZATION Metalurg Zaporizhya
+ORGANIZATION Metro
+ORGANIZATION Metro Holdings
+ORGANIZATION METROSTAV
+ORGANIZATION Mets
+ORGANIZATION Metz
+ORGANIZATION Mexican Army
+ORGANIZATION MFS
+ORGANIZATION MFS Communications Co Inc
+ORGANIZATION MG-Technogym
+ORGANIZATION Miami Herald
+ORGANIZATION Microsoft
+ORGANIZATION Microsoft Corp.
+ORGANIZATION Middlesbrough
+ORGANIZATION Middlesex
+ORGANIZATION Mid-East Minerals Ltd
+ORGANIZATION Milan
+ORGANIZATION MILAN
+ORGANIZATION Military College
+ORGANIZATION Millwall
+ORGANIZATION Milwaukee
+ORGANIZATION MILWAUKEE
+ORGANIZATION Milwaukee Brewers
+ORGANIZATION Minardi
+ORGANIZATION MING PAO DAILY NEWS
+ORGANIZATION Ministry of Commerce
+ORGANIZATION Ministry of Finance
+ORGANIZATION Ministry of Petroleum and Minerals
+ORGANIZATION Minnesota
+ORGANIZATION MINNESOTA
+ORGANIZATION Minnesota Twins
+ORGANIZATION Minorco
+ORGANIZATION Mironivka
+ORGANIZATION Mironivka Wheat Institute
+ORGANIZATION Missionaries of Charity
+ORGANIZATION Miss Universe Inc
+ORGANIZATION Miss Universe Inc.
+ORGANIZATION Miss Venezuela Organisation
+ORGANIZATION MIT
+ORGANIZATION Mitsubishi
+ORGANIZATION Mitsubishi Gas Chemical Co Ltd
+ORGANIZATION Mitsui
+ORGANIZATION Mladost ( BJ )
+ORGANIZATION Mladost ( L )
+ORGANIZATION MOF
+ORGANIZATION Mohajir National Movement
+ORGANIZATION Mohammedia
+ORGANIZATION Mohib Textile Mills
+ORGANIZATION Molde
+ORGANIZATION Molenbeek
+ORGANIZATION Monaco
+ORGANIZATION Monstrose
+ORGANIZATION Monterrey
+ORGANIZATION Montpellier
+ORGANIZATION Montreal
+ORGANIZATION MONTREAL
+ORGANIZATION Montreal Expos
+ORGANIZATION Montrose
+ORGANIZATION Monza
+ORGANIZATION Moody 's
+ORGANIZATION MOODY 'S
+ORGANIZATION Moody 's Investors Service
+ORGANIZATION MORAV.CHEMIC. ZAV
+ORGANIZATION Morelia
+ORGANIZATION Morgan Stanley
+ORGANIZATION Morgan Stanley and Co Inc
+ORGANIZATION Morton
+ORGANIZATION Moscow Newsroom
+ORGANIZATION Mosenergo
+ORGANIZATION Moss
+ORGANIZATION Moss Landing Marine Laboratories
+ORGANIZATION Mostostal
+ORGANIZATION Mostostal Z
+ORGANIZATION Mostostal Zabrze Holding SA
+ORGANIZATION Motherwell
+ORGANIZATION Motorola
+ORGANIZATION Mouscron
+ORGANIZATION Movement of Socialist Democrats
+ORGANIZATION MQM
+ORGANIZATION M&R
+ORGANIZATION MSK Zilina
+ORGANIZATION MSV Duisberg
+ORGANIZATION MSV Duisburg
+ORGANIZATION MTK
+ORGANIZATION Mujahideen Khalq
+ORGANIZATION Munich 1860
+ORGANIZATION Muslim Commercial Bank
+ORGANIZATION MX Onda
+ORGANIZATION Mypa-47
+ORGANIZATION MyPa-47
+ORGANIZATION NAC
+ORGANIZATION NAC Breda
+ORGANIZATION NAN
+ORGANIZATION Nancy
+ORGANIZATION Nantes
+ORGANIZATION Napoli
+ORGANIZATION Nasr
+ORGANIZATION National
+ORGANIZATION National Abortion Rights Action League
+ORGANIZATION National Archives
+ORGANIZATION National Assembly
+ORGANIZATION National Association of Securities Dealers
+ORGANIZATION National Bank
+ORGANIZATION National Bank of Hungary
+ORGANIZATION National Basketball Association
+ORGANIZATION National Conference of Bishops of Brazil
+ORGANIZATION National Council of Christian Churches of Brazil
+ORGANIZATION National Customs Board
+ORGANIZATION National Democratic Alliance
+ORGANIZATION National Election Commission
+ORGANIZATION National Farmers Union
+ORGANIZATION National Guard
+ORGANIZATION National Human Rights Commission
+ORGANIZATION National Hurricane Center
+ORGANIZATION National Islamic Front
+ORGANIZATION National Park Service
+ORGANIZATION National Party
+ORGANIZATION National Rifle Association
+ORGANIZATION National Security Council
+ORGANIZATION National Socialist Battle Cry
+ORGANIZATION National Socialist German Workers ' Party Foreign Organisation
+ORGANIZATION National Transportation Safety Board
+ORGANIZATION National Unity Party
+ORGANIZATION NATO
+ORGANIZATION Natural Law Party
+ORGANIZATION Nature
+ORGANIZATION Navy
+ORGANIZATION NBA
+ORGANIZATION NBC
+ORGANIZATION NBH
+ORGANIZATION NCB
+ORGANIZATION ND
+ORGANIZATION Necaxa
+ORGANIZATION NEC Nijmegen
+ORGANIZATION Nepali Congress
+ORGANIZATION Neptune Crux
+ORGANIZATION Networks Services Division
+ORGANIZATION Neuchatel
+ORGANIZATION NEUCHATEL
+ORGANIZATION Neuchatel Xamax
+ORGANIZATION New Aspiration Party
+ORGANIZATION Newcastle
+ORGANIZATION NEWCASTLE
+ORGANIZATION Newcrest
+ORGANIZATION Newcrest Mining Ltd
+ORGANIZATION Newcrest Q4
+ORGANIZATION New democracy
+ORGANIZATION New Democracy
+ORGANIZATION Newell Old Boys
+ORGANIZATION Newell 's Old Boys
+ORGANIZATION New Media
+ORGANIZATION New Party Sakigake
+ORGANIZATION News
+ORGANIZATION News Agency of Nigeria
+ORGANIZATION New Scientist
+ORGANIZATION News Corp
+ORGANIZATION News Corp Ltd
+ORGANIZATION New York
+ORGANIZATION NEW YORK
+ORGANIZATION New York Commodities
+ORGANIZATION New York Energy Desk
+ORGANIZATION New York Mets
+ORGANIZATION New York Newsdesk
+ORGANIZATION New York Post
+ORGANIZATION New York Power Desk
+ORGANIZATION New York Stock Exchange
+ORGANIZATION New York Times
+ORGANIZATION New York Yankees
+ORGANIZATION New Zealand Press Association
+ORGANIZATION Neza
+ORGANIZATION NFU
+ORGANIZATION Nice
+ORGANIZATION NICE
+ORGANIZATION NIDA'A AL-WATAN
+ORGANIZATION Nijmeh
+ORGANIZATION Ninth Circuit
+ORGANIZATION Niugini
+ORGANIZATION Niugini Mining
+ORGANIZATION Niugini Mining Ltd
+ORGANIZATION Nocerina
+ORGANIZATION Nomura
+ORGANIZATION Nomura Research Institute Ltd
+ORGANIZATION Nomura Securities Co Ltd
+ORGANIZATION Noranda
+ORGANIZATION Northampton
+ORGANIZATION Northamptonshire
+ORGANIZATION North Atlantic Treaty Organisation
+ORGANIZATION Northcote College
+ORGANIZATION Northern League
+ORGANIZATION Northern States Power Co
+ORGANIZATION Northern Transvaal
+ORGANIZATION North Melbourne
+ORGANIZATION North Queensland
+ORGANIZATION Northsea Chaser
+ORGANIZATION North Sydney
+ORGANIZATION Norwich
+ORGANIZATION Noticias
+ORGANIZATION NOTICIAS
+ORGANIZATION Nottingham Forest
+ORGANIZATION Nottinghamshire
+ORGANIZATION Notts
+ORGANIZATION Notts County
+ORGANIZATION NSDAP-AO
+ORGANIZATION NS Kampfruf
+ORGANIZATION NTB
+ORGANIZATION NTV
+ORGANIZATION Nutricia
+ORGANIZATION Nyva
+ORGANIZATION Nyva Ternopil
+ORGANIZATION Nyva Vinnytsya
+ORGANIZATION NZPA
+ORGANIZATION Oakland
+ORGANIZATION OAKLAND
+ORGANIZATION Oakland Athletics
+ORGANIZATION Oakley Inc
+ORGANIZATION Oasis
+ORGANIZATION OB
+ORGANIZATION Obilic
+ORGANIZATION OCEI
+ORGANIZATION Odra
+ORGANIZATION Odra Wodzislaw
+ORGANIZATION OFFICIAL JOURNAL
+ORGANIZATION OFK Beograd
+ORGANIZATION OFK Kikinda
+ORGANIZATION O Globo
+ORGANIZATION OHIO BUILDING AUTHORITY
+ORGANIZATION OIC
+ORGANIZATION OJ
+ORGANIZATION OKD
+ORGANIZATION Oklahoma State University
+ORGANIZATION Oklahoma Wheat Commission
+ORGANIZATION Oldham
+ORGANIZATION Olimpija
+ORGANIZATION Olympiakos
+ORGANIZATION OLYMPIAKOS
+ORGANIZATION OM
+ORGANIZATION OM Gruppen
+ORGANIZATION OM Gruppen AB
+ORGANIZATION OMLX
+ORGANIZATION OM Stockholm
+ORGANIZATION ONIC
+ORGANIZATION Opel AG
+ORGANIZATION Oppenheimer Capital
+ORGANIZATION Oppenheimer Capital LP
+ORGANIZATION Oracle Systems
+ORGANIZATION Organisation for Security and Cooperation in Europe
+ORGANIZATION Organisation of the Islamic Conference
+ORGANIZATION Oriente
+ORGANIZATION Orii
+ORGANIZATION Orii Corp
+ORGANIZATION Orioles
+ORGANIZATION ORIOLES
+ORGANIZATION OSCE
+ORGANIZATION OSLOBODJENJE
+ORGANIZATION Otelul Galati
+ORGANIZATION Oujda
+ORGANIZATION Overseas Development Administration
+ORGANIZATION Oxford
+ORGANIZATION Oxford University
+ORGANIZATION PA
+ORGANIZATION Pachuca
+ORGANIZATION Pacific Stock Exchange
+ORGANIZATION Padres
+ORGANIZATION Pakistan Muslim League
+ORGANIZATION Pakistan People 's Party
+ORGANIZATION Palermo
+ORGANIZATION Palestine Liberation Organisation
+ORGANIZATION Palestinian Authority
+ORGANIZATION Palestinian Information Ministry
+ORGANIZATION Palestinian Legislative Council
+ORGANIZATION Palestinian self-rule Authority
+ORGANIZATION Palmans
+ORGANIZATION Palmeiras
+ORGANIZATION PAO
+ORGANIZATION Pao de Acucar
+ORGANIZATION PAP
+ORGANIZATION Paramount
+ORGANIZATION Paramount Pictures
+ORGANIZATION Parana
+ORGANIZATION Paribas
+ORGANIZATION Paribas Capital Markets OTC
+ORGANIZATION Paris
+ORGANIZATION Paris Newsroom
+ORGANIZATION Paris Saint-Germain
+ORGANIZATION Paris SG
+ORGANIZATION Paris St Germain
+ORGANIZATION Parkway Middle School
+ORGANIZATION Parma
+ORGANIZATION PARMA
+ORGANIZATION Parmalat / Fehervar FC
+ORGANIZATION Parramatta
+ORGANIZATION Partick
+ORGANIZATION Partizan
+ORGANIZATION Party of Social Democracy
+ORGANIZATION Pasok
+ORGANIZATION Patriotic Salvation Movement
+ORGANIZATION Patriotic Union of Kurdistan
+ORGANIZATION PBR
+ORGANIZATION PC Data Inc
+ORGANIZATION PDI
+ORGANIZATION PDS
+ORGANIZATION PDSR
+ORGANIZATION PEC
+ORGANIZATION Pecs
+ORGANIZATION Penn Treaty
+ORGANIZATION Penn Treaty American Corp
+ORGANIZATION Penrith
+ORGANIZATION Pentagon
+ORGANIZATION People 's Daily
+ORGANIZATION Peronists
+ORGANIZATION Perugia
+ORGANIZATION Pescara
+ORGANIZATION Peterborough
+ORGANIZATION Petra
+ORGANIZATION Petra Drnovice
+ORGANIZATION Petrimex Prievidza
+ORGANIZATION Petrobulk Rainbow
+ORGANIZATION Petroecuador
+ORGANIZATION PF IKS KB PLUS
+ORGANIZATION Philadelphia
+ORGANIZATION PHILADELPHIA
+ORGANIZATION Philadelphia Phillies
+ORGANIZATION Philip Morris
+ORGANIZATION Philip Morris Cos Inc
+ORGANIZATION Philippine Basketball Association
+ORGANIZATION Phillies
+ORGANIZATION PHILLIES
+ORGANIZATION Physicians Insurance Co
+ORGANIZATION Piacenza
+ORGANIZATION Piper Jaffray
+ORGANIZATION Piper Jaffray Inc
+ORGANIZATION Pirates
+ORGANIZATION Pittsburgh
+ORGANIZATION PITTSBURGH
+ORGANIZATION Pittsburgh Pirates
+ORGANIZATION PKK
+ORGANIZATION Platense
+ORGANIZATION Platignum
+ORGANIZATION PLO
+ORGANIZATION PLO Council
+ORGANIZATION Plymouth
+ORGANIZATION Plymouth Argyle
+ORGANIZATION PMC
+ORGANIZATION PMC-Sierra
+ORGANIZATION PNW
+ORGANIZATION Pohang
+ORGANIZATION Polish Development Bank
+ORGANIZATION Politehnica Timisoara
+ORGANIZATION Polonia Warsaw
+ORGANIZATION Polonia Warszawa
+ORGANIZATION Polti
+ORGANIZATION Popular Party
+ORGANIZATION Popular Revolutionary Army
+ORGANIZATION Porsche
+ORGANIZATION Port Christine
+ORGANIZATION Porto
+ORGANIZATION PORTO
+ORGANIZATION Portsmouth
+ORGANIZATION Portuguesa
+ORGANIZATION Port Vale
+ORGANIZATION Post
+ORGANIZATION Power
+ORGANIZATION Power Corp
+ORGANIZATION Power Corp of Canada
+ORGANIZATION Power Financial Corp
+ORGANIZATION Power New Zealand
+ORGANIZATION Power NZ ODV
+ORGANIZATION PP
+ORGANIZATION Prague Newsroom
+ORGANIZATION Prague Stock Exchange
+ORGANIZATION Prem Dan
+ORGANIZATION Press Trust of India
+ORGANIZATION Preston
+ORGANIZATION Primedia
+ORGANIZATION Privatisation Commission
+ORGANIZATION Proleter
+ORGANIZATION Promodes
+ORGANIZATION Property Capital
+ORGANIZATION Property Capital Trust
+ORGANIZATION Provisional Election Commission
+ORGANIZATION Prudential
+ORGANIZATION Prykarpattya
+ORGANIZATION Prykarpattya Ivano-Frankivsk
+ORGANIZATION PSA
+ORGANIZATION PSC
+ORGANIZATION PSE
+ORGANIZATION PSG
+ORGANIZATION PSI Net
+ORGANIZATION PSV
+ORGANIZATION PSV Eindhoven
+ORGANIZATION PT Matahari Putra Prima
+ORGANIZATION PTT
+ORGANIZATION PT VDH Teguh Sakti
+ORGANIZATION Public Service Association
+ORGANIZATION Public Service Commission
+ORGANIZATION Public Service , Labour and Social Welfare
+ORGANIZATION Public Transport Corporation
+ORGANIZATION Puchon
+ORGANIZATION Puebla
+ORGANIZATION PUK
+ORGANIZATION PULPEX
+ORGANIZATION PUNR
+ORGANIZATION Purdue Frederick Co
+ORGANIZATION Purefoods Hotdogs
+ORGANIZATION Purepac
+ORGANIZATION Purepac Pharamceutical
+ORGANIZATION Pusan
+ORGANIZATION QADISSIYA
+ORGANIZATION Queen of the
+ORGANIZATION Queen of the South
+ORGANIZATION Queen 's Park
+ORGANIZATION Queen 's Park Rangers
+ORGANIZATION Queens Park Rangers
+ORGANIZATION Rabobank
+ORGANIZATION RABOBANK
+ORGANIZATION Rabobank Nederland BA
+ORGANIZATION Racing Club
+ORGANIZATION Rad
+ORGANIZATION Radical Cause
+ORGANIZATION Radio New Zealand
+ORGANIZATION Radnicki
+ORGANIZATION Radnicki ( N )
+ORGANIZATION RAF Riga
+ORGANIZATION Raith
+ORGANIZATION Raith Rovers
+ORGANIZATION RAITH ROVERS
+ORGANIZATION Raith Rovers FC
+ORGANIZATION Raja Casablanca
+ORGANIZATION Rajapat Institute
+ORGANIZATION Rakow Czestochowa
+ORGANIZATION Rally for the Return of Refugees and Democracy in Rwanda
+ORGANIZATION Rangers
+ORGANIZATION RAO Gazprom
+ORGANIZATION Rapid Bucharest
+ORGANIZATION Rapid Vienna
+ORGANIZATION Rapid Wien
+ORGANIZATION Ravenna
+ORGANIZATION RBA
+ORGANIZATION RBI
+ORGANIZATION RDR
+ORGANIZATION Re
+ORGANIZATION Reading
+ORGANIZATION Real Madrid
+ORGANIZATION Red Brigade
+ORGANIZATION Red Cross
+ORGANIZATION Red Lion Hotels Inc
+ORGANIZATION Reds
+ORGANIZATION Red Sox
+ORGANIZATION Red Star
+ORGANIZATION RED STAR
+ORGANIZATION Red Star Belgrade
+ORGANIZATION Reform Party
+ORGANIZATION Reggiana
+ORGANIZATION Rennes
+ORGANIZATION RENNES
+ORGANIZATION Repsol
+ORGANIZATION Republican Front
+ORGANIZATION Republican House
+ORGANIZATION Republican Party
+ORGANIZATION Resalat
+ORGANIZATION Reserve Bank of Australia
+ORGANIZATION Reserve bank of India
+ORGANIZATION Reserve Bank of India
+ORGANIZATION Resistance
+ORGANIZATION Reuter London Newsroom
+ORGANIZATION Reuters
+ORGANIZATION Reuters Chicago Newsdesk
+ORGANIZATION Reuters Ottawa Burea
+ORGANIZATION Reuters Television
+ORGANIZATION Reuters Toronto Bureau
+ORGANIZATION Revolutionary Armed Forces of Colombia
+ORGANIZATION Revolutionary United Front
+ORGANIZATION Revolutionary Workers ' Party
+ORGANIZATION Rewe
+ORGANIZATION Rewe-Handelsgruppe
+ORGANIZATION Rhone Poulenc
+ORGANIZATION RIA
+ORGANIZATION Richmond
+ORGANIZATION RIF
+ORGANIZATION Rishon
+ORGANIZATION River Medical Inc.
+ORGANIZATION River Plate
+ORGANIZATION RKC
+ORGANIZATION RKC Waalijk
+ORGANIZATION RKC Waalwijk
+ORGANIZATION RMT
+ORGANIZATION Road Alert
+ORGANIZATION Roberston Stephens & Co
+ORGANIZATION Robert W. Baird
+ORGANIZATION Robert W. Baird & Co .
+ORGANIZATION Rochdale
+ORGANIZATION Roda JC
+ORGANIZATION Roda JC Kerkrade
+ORGANIZATION Roma
+ORGANIZATION ROMA
+ORGANIZATION Romanian Soccer Federation
+ORGANIZATION Rosario Central
+ORGANIZATION Rosenborg
+ORGANIZATION Ross County
+ORGANIZATION Rostelekom
+ORGANIZATION Rostselmash Rostov
+ORGANIZATION Rotherham
+ORGANIZATION Rothschild & Cie
+ORGANIZATION Rotor Volgograd
+ORGANIZATION Rovers
+ORGANIZATION Royal Armed Forces
+ORGANIZATION Royal Meteorological Institute
+ORGANIZATION Royal Oak
+ORGANIZATION Royal Oak Mines Inc
+ORGANIZATION Royals
+ORGANIZATION RSA Data Security
+ORGANIZATION RSR
+ORGANIZATION RTRS
+ORGANIZATION Ruch Chorzow
+ORGANIZATION Rudar
+ORGANIZATION RUF
+ORGANIZATION Rugby Football Union
+ORGANIZATION RUGBY UNION
+ORGANIZATION Ruhunu University
+ORGANIZATION Russian Weather Service
+ORGANIZATION Sakigake
+ORGANIZATION Salomon
+ORGANIZATION Salomon Brothers
+ORGANIZATION Salomon Brothers Inc
+ORGANIZATION Salomon & Taylor
+ORGANIZATION Salomon & Taylor Made Co Ltd
+ORGANIZATION Sampdoria
+ORGANIZATION Samsung
+ORGANIZATION San Diego
+ORGANIZATION SAN DIEGO
+ORGANIZATION San Diego Padres
+ORGANIZATION SAN FRANCISCO
+ORGANIZATION San Francisco Giants
+ORGANIZATION San Lorenzo
+ORGANIZATION Santos
+ORGANIZATION Sao Paulo
+ORGANIZATION Sao Paulo-Santos
+ORGANIZATION Saskatchewan Pork International Marketing Group
+ORGANIZATION Saskatchewan Wheat Pool
+ORGANIZATION Sauber
+ORGANIZATION Saudi Press Agency
+ORGANIZATION SBC Communications
+ORGANIZATION SBC Warburg
+ORGANIZATION S.B.K- Brooks Investment Corp
+ORGANIZATION SC
+ORGANIZATION Scac Delmas Vileujeux
+ORGANIZATION Scarborough
+ORGANIZATION SC Espinho
+ORGANIZATION Schalke
+ORGANIZATION Schalke 04
+ORGANIZATION Schering AG
+ORGANIZATION Scor
+ORGANIZATION Scorpion
+ORGANIZATION Scorpion Minerals Inc
+ORGANIZATION Scunthorpe
+ORGANIZATION SDA
+ORGANIZATION SDV
+ORGANIZATION Seasongood & Mayer
+ORGANIZATION Seat
+ORGANIZATION Seattle
+ORGANIZATION SEATTLE
+ORGANIZATION Seattle Mariners
+ORGANIZATION SEC
+ORGANIZATION Securities and Exchange Commission
+ORGANIZATION Securities and Exchnage Commission
+ORGANIZATION Securities Products Business
+ORGANIZATION Security Council
+ORGANIZATION Security Dynamics Technologies Inc.
+ORGANIZATION Security Ministry
+ORGANIZATION Selection Committee
+ORGANIZATION SELIKO
+ORGANIZATION Senate
+ORGANIZATION Seoul Newsroom
+ORGANIZATION Servette
+ORGANIZATION Settat
+ORGANIZATION Setubal
+ORGANIZATION Shakhtar
+ORGANIZATION Shakhtar Donetsk
+ORGANIZATION Shanghai Automobile Corporation
+ORGANIZATION Shanghai Ek Chor
+ORGANIZATION Shanghai-Ek Chor
+ORGANIZATION Shanghai-Ek Chor Motorcycle Co
+ORGANIZATION Shanghai Post and Telecomm
+ORGANIZATION Shanghai Posts and Telecommunications Equipment Co
+ORGANIZATION Sheffield
+ORGANIZATION Sheffield United
+ORGANIZATION Sheffield Wednesday
+ORGANIZATION Shelbourne
+ORGANIZATION Shell
+ORGANIZATION Shen
+ORGANIZATION Shining Path
+ORGANIZATION Shishu Bhavan
+ORGANIZATION Shrewsbury
+ORGANIZATION Siam Commercial
+ORGANIZATION Siam Commercial Bank
+ORGANIZATION Siam Commercial Bank Plc
+ORGANIZATION Sibonina
+ORGANIZATION Sidi Kacem
+ORGANIZATION Sidor
+ORGANIZATION Sidwell Friends School
+ORGANIZATION Sierra
+ORGANIZATION Sierra Semiconductor
+ORGANIZATION Sierra Semiconductor Corp
+ORGANIZATION Sietco
+ORGANIZATION Sigma Olomouc
+ORGANIZATION SIMEX
+ORGANIZATION SIMEX Brent
+ORGANIZATION Sindh High Court
+ORGANIZATION Singapore International Monetary Exchange
+ORGANIZATION Singapore Newsroom
+ORGANIZATION Singapore Petroleum Company
+ORGANIZATION Singapore Refining Company
+ORGANIZATION Sino-Thai
+ORGANIZATION Sint Truiden
+ORGANIZATION Siofok
+ORGANIZATION Sion
+ORGANIZATION SK Ceske Budejovice
+ORGANIZATION Skeid
+ORGANIZATION SK Hradec Kralove
+ORGANIZATION SKODA PLZEN
+ORGANIZATION SK Slavia Praha
+ORGANIZATION SKS Tana
+ORGANIZATION Sky
+ORGANIZATION Slask Wroclaw
+ORGANIZATION Sloboda
+ORGANIZATION Sloga Jugomagnat
+ORGANIZATION Slough
+ORGANIZATION Slough Estates
+ORGANIZATION Slough Estates Plc
+ORGANIZATION Slovan Bratislava
+ORGANIZATION Slovan Liberec
+ORGANIZATION SNCF
+ORGANIZATION SNET
+ORGANIZATION SoCal Edison
+ORGANIZATION Social Democratic Party
+ORGANIZATION Socialist Party
+ORGANIZATION Sofia Newsroom
+ORGANIZATION Softbank
+ORGANIZATION Softbank Corp
+ORGANIZATION SOKOLOVSKA UHELNA
+ORGANIZATION Sokol Tychy
+ORGANIZATION SOLIDERE
+ORGANIZATION Somerset
+ORGANIZATION Somerset Jewellers
+ORGANIZATION Soundview Financial Group
+ORGANIZATION South
+ORGANIZATION South African Hockey Association
+ORGANIZATION Southampton
+ORGANIZATION SOUTH CHINA MORNING POST
+ORGANIZATION Southend
+ORGANIZATION Southern California Edison Co
+ORGANIZATION Southern Illinois University at Carbondale
+ORGANIZATION Southern New England
+ORGANIZATION Southern New England Telecommunciations Corp
+ORGANIZATION Southern New England Telecommunications Corp.
+ORGANIZATION Southland Life
+ORGANIZATION Southland Life Insurance Co
+ORGANIZATION South Queensland
+ORGANIZATION South Sydney
+ORGANIZATION S&P
+ORGANIZATION Spal
+ORGANIZATION Spar AG
+ORGANIZATION Sparta
+ORGANIZATION Spartak
+ORGANIZATION Spartak Moscow
+ORGANIZATION Spartak Trnava
+ORGANIZATION Sparta Prague
+ORGANIZATION Sparta Rotterdam
+ORGANIZATION SPD
+ORGANIZATION Specia
+ORGANIZATION SPIF CESKY
+ORGANIZATION SPLA
+ORGANIZATION Sporting
+ORGANIZATION SPORTING
+ORGANIZATION Sporting Sale
+ORGANIZATION Sport Recife
+ORGANIZATION Sportul Studentesc
+ORGANIZATION Springbok
+ORGANIZATION Springboks
+ORGANIZATION SPT TELECOM
+ORGANIZATION SRC
+ORGANIZATION Ssangbangwool
+ORGANIZATION St.
+ORGANIZATION Stabaek
+ORGANIZATION Stadler
+ORGANIZATION Stagecoach
+ORGANIZATION Stagecoach Holdings Plc
+ORGANIZATION Standard Liege
+ORGANIZATION Star magazine
+ORGANIZATION Start
+ORGANIZATION State ( central ) Bank
+ORGANIZATION State Council
+ORGANIZATION State Customs Committee
+ORGANIZATION State Department
+ORGANIZATION State National Bank of Greece
+ORGANIZATION State Planning Commission
+ORGANIZATION Statistics Canada
+ORGANIZATION Statoil
+ORGANIZATION Status Weekly
+ORGANIZATION Steaua Bucharest
+ORGANIZATION Steel Industry Center
+ORGANIZATION Stenhousemuir
+ORGANIZATION Stentex
+ORGANIZATION Steptoe & Johnson
+ORGANIZATION St Gallen
+ORGANIZATION St George
+ORGANIZATION St Helens
+ORGANIZATION ST HELENS
+ORGANIZATION Stinnes
+ORGANIZATION Stirling
+ORGANIZATION St Johnstone
+ORGANIZATION St Kilda
+ORGANIZATION St Leger
+ORGANIZATION St Louis
+ORGANIZATION ST LOUIS
+ORGANIZATION St. Louis Cardinals
+ORGANIZATION St Mirren
+ORGANIZATION Stock Exchange
+ORGANIZATION Stockport
+ORGANIZATION Stoke
+ORGANIZATION Stomil Olsztyn
+ORGANIZATION Stork
+ORGANIZATION St Pauli
+ORGANIZATION ST PAULI
+ORGANIZATION Stranraer
+ORGANIZATION Strasbourg
+ORGANIZATION Stromsgodset
+ORGANIZATION Sturm Graz
+ORGANIZATION Stuttgart
+ORGANIZATION Subaru
+ORGANIZATION Sudan Airways
+ORGANIZATION Sudan People 's Liberation Army
+ORGANIZATION Suedwest LB
+ORGANIZATION Sui Northern Gas
+ORGANIZATION Sui Southern Gas
+ORGANIZATION Sumitomo
+ORGANIZATION Sumitomo Corp
+ORGANIZATION Sun Co
+ORGANIZATION Sunderland
+ORGANIZATION SunGard
+ORGANIZATION SunGard Data Systems Inc
+ORGANIZATION SunGard Shareholder Systems Inc
+ORGANIZATION Sun Microsystems
+ORGANIZATION Sun Microsystems Inc.
+ORGANIZATION Super Indah Makmur
+ORGANIZATION Supreme Coordination Council alliance
+ORGANIZATION Supreme Court
+ORGANIZATION Supreme Federal Tribunal
+ORGANIZATION Surrey
+ORGANIZATION Sussex
+ORGANIZATION Sutjeska
+ORGANIZATION Suwon
+ORGANIZATION Suzuki
+ORGANIZATION SVCD Bulgaria
+ORGANIZATION SV Hamburg
+ORGANIZATION SV Ried
+ORGANIZATION SV Salzburg
+ORGANIZATION Swansea
+ORGANIZATION Swebus
+ORGANIZATION Swebus AB
+ORGANIZATION Swindon
+ORGANIZATION Swiss Bank Corp
+ORGANIZATION SWP
+ORGANIZATION Sydney
+ORGANIZATION Sydney Bulldogs
+ORGANIZATION Sydney City
+ORGANIZATION Sydney Newsroom
+ORGANIZATION Sydney Tigers
+ORGANIZATION Symantec Corp.
+ORGANIZATION TABAK
+ORGANIZATION Tafawa Balewa University
+ORGANIZATION Taibe
+ORGANIZATION Taichung division
+ORGANIZATION Taipei Newsroom
+ORGANIZATION Taiwan Flour Mills Assn
+ORGANIZATION Tallinna Sadam
+ORGANIZATION Tamil Tiger
+ORGANIZATION Tanjug
+ORGANIZATION Tankan
+ORGANIZATION Tarmac
+ORGANIZATION Tarmac Plc
+ORGANIZATION Tass
+ORGANIZATION Tatran Presov
+ORGANIZATION Tavria
+ORGANIZATION Taylor Asset Managers
+ORGANIZATION TBC
+ORGANIZATION TBN
+ORGANIZATION Tekstilshchik Kamyshin
+ORGANIZATION Tekstilshik Kamyshin
+ORGANIZATION Tel Aviv
+ORGANIZATION Telekom
+ORGANIZATION Television New Zealand
+ORGANIZATION TELO
+ORGANIZATION Telstra
+ORGANIZATION Tenacity
+ORGANIZATION Tetouan
+ORGANIZATION Texaco Inc
+ORGANIZATION Texas
+ORGANIZATION TEXAS
+ORGANIZATION Texas Agricultural Statistics Service
+ORGANIZATION Texas Rangers
+ORGANIZATION Texas Wheat Producers
+ORGANIZATION THAWRA
+ORGANIZATION The Canaries
+ORGANIZATION THE ISLAND
+ORGANIZATION The Land is Ours
+ORGANIZATION THE MUSLIM
+ORGANIZATION THE NATION
+ORGANIZATION The Natural Law Party
+ORGANIZATION THE NEWS
+ORGANIZATION The New York Times
+ORGANIZATION The Statesman
+ORGANIZATION The Sun
+ORGANIZATION The Times
+ORGANIZATION THE TIMES
+ORGANIZATION The Wall Street Journal
+ORGANIZATION The Walt Disney Co
+ORGANIZATION The Washington Post
+ORGANIZATION THINAKARAN
+ORGANIZATION Thomson BankWatch
+ORGANIZATION Tiber
+ORGANIZATION Tigers
+ORGANIZATION Tilcon Inc
+ORGANIZATION Times of London
+ORGANIZATION TM
+ORGANIZATION T&N
+ORGANIZATION T&N Plc
+ORGANIZATION Tokyo Commodities Desk
+ORGANIZATION Tokyo-Mitsubishi Bank
+ORGANIZATION Tokyo Soir
+ORGANIZATION Tokyo Soir Co Ltd
+ORGANIZATION Toluca
+ORGANIZATION Torino
+ORGANIZATION Toronto
+ORGANIZATION TORONTO
+ORGANIZATION Toronto Blue Jays
+ORGANIZATION Torpedo
+ORGANIZATION Torpedo Moscow
+ORGANIZATION Torpedo Zaporizhya
+ORGANIZATION Torquay
+ORGANIZATION Tosco Corp
+ORGANIZATION Total Petroleum ( North America ) Ltd
+ORGANIZATION Tottenham
+ORGANIZATION Tottenham Hotspur
+ORGANIZATION Touchstone Software Corp.
+ORGANIZATION Towers Perrin
+ORGANIZATION Toyota
+ORGANIZATION Toyota Australia
+ORGANIZATION Trade and Industry
+ORGANIZATION Tranmere
+ORGANIZATION Transkaryotic Therapies Inc
+ORGANIZATION Transportation Ministry
+ORGANIZATION Trax Petroleums Ltd
+ORGANIZATION Treasuries
+ORGANIZATION Treasury
+ORGANIZATION Treasury Department
+ORGANIZATION TRINECKE ZELEZARNY
+ORGANIZATION Triple-A Columbus
+ORGANIZATION Tromso
+ORGANIZATION Truth and Reconciliation Commission
+ORGANIZATION TV Globo
+ORGANIZATION TV Guide
+ORGANIZATION TVM
+ORGANIZATION TVX
+ORGANIZATION TVX Gold Inc
+ORGANIZATION TWA
+ORGANIZATION Twente Enschede
+ORGANIZATION Twins
+ORGANIZATION Tyndall Australia Ltd
+ORGANIZATION Tyrrell
+ORGANIZATION UAG
+ORGANIZATION UBS
+ORGANIZATION Udinese
+ORGANIZATION UDINESE
+ORGANIZATION UEFA
+ORGANIZATION UES
+ORGANIZATION UIC
+ORGANIZATION Ujpest
+ORGANIZATION Ujpest TE
+ORGANIZATION UKCM
+ORGANIZATION Ukrainian Academy of Agrarian Sciences
+ORGANIZATION ULIMO-J
+ORGANIZATION Ulsan
+ORGANIZATION Ulster Petroleums Ltd
+ORGANIZATION UML
+ORGANIZATION UN
+ORGANIZATION U.N.
+ORGANIZATION UNAM
+ORGANIZATION U.N. Department of Humanitarian Affairs
+ORGANIZATION U.N. General Assembly
+ORGANIZATION U.N. Human Rights Commission
+ORGANIZATION Uniceramic
+ORGANIZATION Union
+ORGANIZATION Unita
+ORGANIZATION United
+ORGANIZATION United Coconut Associations of the Philippines
+ORGANIZATION United Daughters of the Confederacy
+ORGANIZATION United Nations
+ORGANIZATION UNITED NATIONS
+ORGANIZATION United Nations General Assembly
+ORGANIZATION United Nations Human Rights Commission
+ORGANIZATION United Nations Special Commission
+ORGANIZATION United News of India
+ORGANIZATION United People 's Front Nepal
+ORGANIZATION Unitog Co
+ORGANIZATION Universitatea Cluj
+ORGANIZATION Universitatea Craiova
+ORGANIZATION University of Oklahoma
+ORGANIZATION University of Pennsylvania
+ORGANIZATION University of the Witwatersrand
+ORGANIZATION UNP
+ORGANIZATION UNSCOM
+ORGANIZATION U.N. Security Council
+ORGANIZATION UN Security Council
+ORGANIZATION Uralmash Yekaterinburg
+ORGANIZATION U.S. Court of Appeals
+ORGANIZATION USDA
+ORGANIZATION U.S. Defense Logistics Agency
+ORGANIZATION U.S. Department of Health and Human Services
+ORGANIZATION U.S. District Court
+ORGANIZATION U.S. DLA
+ORGANIZATION U.S. Federal District Court
+ORGANIZATION U.S. Food and Drug Administration
+ORGANIZATION US Luxembourg
+ORGANIZATION U.S. Municipal Desk
+ORGANIZATION U.S. Navy
+ORGANIZATION U.S. Postal
+ORGANIZATION US Postal
+ORGANIZATION U.S. Securities and Exchange Commission
+ORGANIZATION U.S. Senate Intelligence Committee
+ORGANIZATION U.S. State Department
+ORGANIZATION USTA
+ORGANIZATION U.S. Transportation Department
+ORGANIZATION U.S. Treasuries
+ORGANIZATION U.S. Treasury
+ORGANIZATION UTI Bank
+ORGANIZATION Utrecht
+ORGANIZATION Vac
+ORGANIZATION Vale
+ORGANIZATION Vale do Rio Doce
+ORGANIZATION Valerenga
+ORGANIZATION Valero Energy Corp
+ORGANIZATION Vancouver Sun
+ORGANIZATION Van Der Horst
+ORGANIZATION Varteks Varazdin
+ORGANIZATION Vasas
+ORGANIZATION Vasco da Gama
+ORGANIZATION VEERAKESARI
+ORGANIZATION Velez Sarsfield
+ORGANIZATION Venalum
+ORGANIZATION Venantius
+ORGANIZATION VENANTIUS AB
+ORGANIZATION Veracruz
+ORGANIZATION VeriSign
+ORGANIZATION Verona
+ORGANIZATION VfB Stuttgart
+ORGANIZATION VfL Bochum
+ORGANIZATION Viacom
+ORGANIZATION Vicenza
+ORGANIZATION Vicorp Restaurants
+ORGANIZATION Vicorp Restaurants Inc
+ORGANIZATION Videoton
+ORGANIZATION Videoton(*
+ORGANIZATION Viking
+ORGANIZATION Viktoria Plzen
+ORGANIZATION Viktoria Zizkov
+ORGANIZATION Vital Information System
+ORGANIZATION Vitesse
+ORGANIZATION Vitesse Arnhem
+ORGANIZATION Vitoria
+ORGANIZATION VNU
+ORGANIZATION Vnukovo Airlines
+ORGANIZATION VODNI STAVBY PRAHA
+ORGANIZATION Vogue
+ORGANIZATION Vojvodina
+ORGANIZATION Volendam
+ORGANIZATION Volkswagen
+ORGANIZATION Volkswagen AG
+ORGANIZATION Vorskla
+ORGANIZATION Vorskla Poltava
+ORGANIZATION VTM
+ORGANIZATION VW
+ORGANIZATION Waalwijk
+ORGANIZATION wall Street
+ORGANIZATION Wall Street bureau
+ORGANIZATION Wall Street Journal
+ORGANIZATION Walsall
+ORGANIZATION Warrington
+ORGANIZATION Warsaw Newsroom
+ORGANIZATION Warwickshire
+ORGANIZATION WARWICKSHIRE
+ORGANIZATION Washington Post
+ORGANIZATION Waterworks Authority
+ORGANIZATION Watford
+ORGANIZATION WBUR-FM
+ORGANIZATION Weather Services Corporation
+ORGANIZATION Welsh National Farmers ' Union
+ORGANIZATION Welspun
+ORGANIZATION Welspun Stahl Rohren Ltd
+ORGANIZATION WEN WEI PO
+ORGANIZATION Werder Bremen
+ORGANIZATION WesBanco Bank
+ORGANIZATION West Bromwich
+ORGANIZATION West Coast
+ORGANIZATION Western European Union
+ORGANIZATION Western Province
+ORGANIZATION Western Reds
+ORGANIZATION Western Suburbs
+ORGANIZATION West Ham
+ORGANIZATION White Sox
+ORGANIZATION Widad Casablanca
+ORGANIZATION Widad Fes
+ORGANIZATION Widzew
+ORGANIZATION Widzew Lodz
+ORGANIZATION Wigan
+ORGANIZATION Willem II Tilburg
+ORGANIZATION Williams
+ORGANIZATION Wimbledon
+ORGANIZATION Wisla Krakow
+ORGANIZATION Wolverhampton
+ORGANIZATION Worcestershire
+ORGANIZATION Workington
+ORGANIZATION World Bridge
+ORGANIZATION WorldCom
+ORGANIZATION WorldCom Inc
+ORGANIZATION World XI
+ORGANIZATION Wrexham
+ORGANIZATION Writers Association
+ORGANIZATION WSC-India
+ORGANIZATION WSRL
+ORGANIZATION Wycombe
+ORGANIZATION x-AEK Athens
+ORGANIZATION x-Anderlecht
+ORGANIZATION x-Cercle Brugge
+ORGANIZATION x-Club Brugge
+ORGANIZATION Xinhua
+ORGANIZATION x-Olympiakos
+ORGANIZATION x-PAO
+ORGANIZATION Yamaha
+ORGANIZATION Yankees
+ORGANIZATION YANKEES
+ORGANIZATION Yedioth
+ORGANIZATION Yedioth Ahronoth
+ORGANIZATION YEDIOTH AHRONOTH
+ORGANIZATION YMCA
+ORGANIZATION Yonsei University
+ORGANIZATION York
+ORGANIZATION Yorkshire
+ORGANIZATION Young Boys
+ORGANIZATION Yugo Zastava
+ORGANIZATION Zaglebie Lubin
+ORGANIZATION Zagreb Money Market
+ORGANIZATION Zagreb Newsroom
+ORGANIZATION Zapatista
+ORGANIZATION Zastava
+ORGANIZATION ZDF
+ORGANIZATION Zelesnik
+ORGANIZATION Zeleznik
+ORGANIZATION Zemun
+ORGANIZATION Zeneca Group Plc
+ORGANIZATION Zenith
+ORGANIZATION Zenit St Petersburg
+ORGANIZATION Zeri i Popullit
+ORGANIZATION Zhemchuzhina Sochi
+ORGANIZATION ZIFA
+ORGANIZATION Zimbabwe Football Association
+ORGANIZATION Zirka-Nibas
+ORGANIZATION Zirka-Nibas Kirovohrad
+ORGANIZATION ZTE
+ORGANIZATION Zurich
+ORGANIZATION Zurich Editorial
+PERSON 1ama
+PERSON Aamir Sohail
+PERSON Aaron Slight
+PERSON Abdala Bucaram
+PERSON Abdellaoui
+PERSON Abdul-Karim al-Kabariti
+PERSON Abdul Rahman
+PERSON Abdul Rahman Haj Yihye
+PERSON Abdul Rashid Dostum
+PERSON Abdulsamad Hameed Ali
+PERSON Abdul Samad Ismail
+PERSON Abel Anton
+PERSON Abimael Guzman
+PERSON Abolhassan Banisadr
+PERSON Abraham Lincoln
+PERSON A. Brown
+PERSON Abu Mazen
+PERSON Abu Rdainah
+PERSON Abyss DeJesus
+PERSON A. Campbell
+PERSON A. Cottey
+PERSON A. Cowan
+PERSON Acre
+PERSON Adam Fedoruk
+PERSON Adam Hollioake
+PERSON Adams
+PERSON Adelbert Knobl
+PERSON Adel Ibrahim
+PERSON Adelt
+PERSON Adem Hodzic
+PERSON A.de Silva
+PERSON Adnan Xhelili
+PERSON Adolf Hitler
+PERSON Adolfo
+PERSON Adriana Serra-Zanetti
+PERSON Adrian Knup
+PERSON Adrian Nastase
+PERSON Adrian Voinea
+PERSON Adrian Warner
+PERSON Affleck
+PERSON A. Flower
+PERSON A. Fraser
+PERSON Agassi
+PERSON A. Giles
+PERSON Agnes Goinxha Bejaxhiu
+PERSON Agnieszka Godras
+PERSON Agnieszka Kotlarska
+PERSON Agota Kuperman
+PERSON Agrins Zarins
+PERSON Aguirre
+PERSON A. Harris
+PERSON Ahmad Shah Masood
+PERSON Ahmed Barada
+PERSON Ahmed Faizy
+PERSON Ahmed Hashem Zighayer
+PERSON Ahmed Kafawin
+PERSON Ahmed Korei
+PERSON Ahmed Mestiri
+PERSON Ahmed Sekou Toure
+PERSON Ahmed Yassin
+PERSON Aime Jacquet
+PERSON Ainars Kiksis
+PERSON Aishwarya
+PERSON Ai Sugiyama
+PERSON A. Jadeja
+PERSON Ajay Jadeja
+PERSON A. Kapoor
+PERSON Akashi
+PERSON Akbel
+PERSON Aki
+PERSON Akira Ryo
+PERSON Akpoborie
+PERSON Akram
+PERSON A. Kumble
+PERSON Alain Caveglia
+PERSON Alain Juppe
+PERSON Alami
+PERSON Alan Ackerman
+PERSON Alan Ball
+PERSON Alan Elsner
+PERSON Alan Greenspan
+PERSON Alan Hunte
+PERSON Alan Kelly
+PERSON Alan Kernaghan
+PERSON Alan Lovell
+PERSON Alan McLoughlin
+PERSON Alan Moore
+PERSON Alan Mullally
+PERSON Alan Shearer
+PERSON Alastair Macdonald
+PERSON Albert
+PERSON Albert Belle
+PERSON Albert Emon
+PERSON Albert Ferrer
+PERSON Alberto Berasategui
+PERSON Alberto Costa
+PERSON Alberto Piotti
+PERSON Albert Schweitzer
+PERSON Alec Stewart
+PERSON Aleix Vidal-Quadras
+PERSON Alejandro Lanusse
+PERSON Aleksander Kwasniewski
+PERSON Aleksander Lebed
+PERSON Aleksandra Olsza
+PERSON Alessandro Baronti
+PERSON Alessandro Lambruschini
+PERSON Alessandro Melli
+PERSON Alexander Babayan
+PERSON Alexander Barkhatov
+PERSON Alexander Cejka
+PERSON Alexander Downer
+PERSON Alexander III
+PERSON Alexander Lebed
+PERSON Alexander Paris
+PERSON Alexander Popov
+PERSON Alexander Volkov
+PERSON Alexander Zickler
+PERSON Alexandra Fusai
+PERSON Alexandre Barros
+PERSON Alexandre Comisetti
+PERSON Alexandre Gontchenkov
+PERSON Alex Arias
+PERSON Alex Belometti
+PERSON Alex Boraine
+PERSON Alex Corretja
+PERSON Alex Criville
+PERSON Alexei Markov
+PERSON Alex Ferguson
+PERSON Alex Fernandez
+PERSON Alexia Dechaume-Balleret
+PERSON Alex O'Brien
+PERSON Alex Radulescu
+PERSON Alex Rodriguez
+PERSON Alfred Berkeley
+PERSON Alfred Sant
+PERSON Al Gore
+PERSON Alhadji Kromah
+PERSON Ali Alatas
+PERSON Alicia
+PERSON Alicia Machado
+PERSON Ali Fallahiyan
+PERSON Alina Astafei
+PERSON Ali Shah
+PERSON Alistair Brown
+PERSON Alistair Campbell
+PERSON Aliuska Lopez
+PERSON Allahu
+PERSON Allan Donald
+PERSON Allan Mullally
+PERSON Allan Wells
+PERSON Allen
+PERSON Allen Johnson
+PERSON Ally McCoist
+PERSON Al Martin
+PERSON Alomar
+PERSON Alonso Cervera
+PERSON Aloys Nizigama
+PERSON Alvarado
+PERSON Amanda Coetzer
+PERSON Amer Hishem Ali Mohammed
+PERSON Amina Muhammad
+PERSON Amr Moussa
+PERSON Amrollah
+PERSON Amr Shabana
+PERSON A. Mullally
+PERSON Amy Frazier
+PERSON Ana Fidelia Quirot
+PERSON Anatoly Shkirko
+PERSON Anders Forsbrand
+PERSON Anders Haglund
+PERSON Anders Olofsson
+PERSON Andersson
+PERSON Anders Thoren
+PERSON Andi Kanstinger
+PERSON Andre
+PERSON Andrea Collinelli
+PERSON Andrea Ferrigato
+PERSON Andre Agassi
+PERSON Andrea Gaudenzi
+PERSON Andrea Giaconi
+PERSON Andrea Glass
+PERSON Andrea Muller
+PERSON Andreas Andersson
+PERSON Andreas Kappes
+PERSON Andreas Koepke
+PERSON Andreas Moeller
+PERSON Andre Bois
+PERSON Andre Caboche
+PERSON Andre Cloete
+PERSON Andrei Chesnokov
+PERSON Andrei Medvedev
+PERSON Andrei Olhovskiy
+PERSON Andrei Pavel
+PERSON Andrei Tchmil
+PERSON Andrejez Wozniak
+PERSON Andre Markgraaff
+PERSON Andres Galarraga
+PERSON Andre Snyman
+PERSON Andre Trulsen
+PERSON Andrew
+PERSON Andrew Coltart
+PERSON Andrew Gray
+PERSON Andrew Huddart
+PERSON Andrew Hudson
+PERSON Andrew Mehrtens
+PERSON Andrews
+PERSON Andrew Symonds
+PERSON Andrew Wakefield
+PERSON Andruw Jones
+PERSON Andy Ballace
+PERSON Andy Benes
+PERSON Andy Caddick
+PERSON Andy Etchebarren
+PERSON Andy Flower
+PERSON Andy Hinchcliffe
+PERSON Andy Townsend
+PERSON Angel Aguirre
+PERSON Angeles Montolio
+PERSON Angelica Gavaldon
+PERSON Angel Miranda
+PERSON Angelo Medeghini
+PERSON Anil Kumble
+PERSON Anis Ahmed
+PERSON Anita Gradin
+PERSON Anja Smolders
+PERSON Anke Huber
+PERSON An Marchal
+PERSON Annabel Ellwood
+PERSON Anna Knoroz
+PERSON Anna Kournikova
+PERSON Anne-Gaelle Sidot
+PERSON Anneke Matthijs
+PERSON Anne Marken
+PERSON Anne Miller
+PERSON Anne Murray
+PERSON Anne Thily
+PERSON Annette Peters
+PERSON Annett Neumann
+PERSON Ann Grossman
+PERSON Ann Mercken
+PERSON Ann Stephens
+PERSON Anthony Gobert
+PERSON Anthony Hill
+PERSON Anthony Nyakyi
+PERSON Anthony Sullivan
+PERSON Anthony Washington
+PERSON Anthuan Maybank
+PERSON Anto Drobnjak
+PERSON Antoine
+PERSON Antoine Kombouare
+PERSON Antoine Lebouc
+PERSON Anton Bruckner
+PERSON Anton Drobnjak
+PERSON Anton Ferreira
+PERSON Antonio Esposito
+PERSON Antonio Folha
+PERSON Antonio Kandir
+PERSON Antonio Oliveira
+PERSON Antonio Quarracino
+PERSON Anton Schutte
+PERSON Anwar
+PERSON Aoki
+PERSON A. Penberthy
+PERSON Arafat
+PERSON Arantxa
+PERSON Arantxa Sanchez Vicario
+PERSON Aravinda de Silva
+PERSON Arce
+PERSON Arjuna Ranatunga
+PERSON Arkadiusz Bak
+PERSON Arlen Specter
+PERSON Armando Reynoso
+PERSON Armstrong
+PERSON Arnaud Boetsch
+PERSON Arnold
+PERSON Arnold Ruutel
+PERSON Aron Winter
+PERSON Arrigo Sacchi
+PERSON Art Howe
+PERSON Arthur Levitt
+PERSON Arthur Numan
+PERSON Artur Jorge
+PERSON Artyom Danielyan
+PERSON Arulanandam
+PERSON Arwel Jones
+PERSON Aryeh Shumer
+PERSON Asa Carlsson
+PERSON Asanka Gurusinha
+PERSON A. Shah
+PERSON Ashia Hansen
+PERSON Ashish Kapoor
+PERSON Ashley Mocude
+PERSON Asif Ali
+PERSON Asif Ali Zardari
+PERSON Asif Mujtaba
+PERSON Aslan Mashadov
+PERSON Aslan Maskhadov
+PERSON Aslan Shabazov
+PERSON Assad
+PERSON A. Stewart
+PERSON A. Symonds
+PERSON Ata-ur-Rehman
+PERSON Atherton
+PERSON Ato Boldon
+PERSON Avraham Tamir
+PERSON Awdankiewicz
+PERSON A. Wells
+PERSON Axworthy
+PERSON Azharuddin
+PERSON Bachirou Salou
+PERSON Baeron
+PERSON Bailey
+PERSON BAILEY
+PERSON Baker
+PERSON Balakov
+PERSON Balakow
+PERSON Baldato
+PERSON Baldwin
+PERSON Ball
+PERSON BALL
+PERSON Ballanger
+PERSON BALLANGER
+PERSON Ballesteros
+PERSON BAN
+PERSON Bancarel
+PERSON Banda
+PERSON Banharn
+PERSON Banharn Silpa-archa
+PERSON Banisadr
+PERSON Barbara Paulus
+PERSON Barbara Rittner
+PERSON Barbara Schett
+PERSON Baret
+PERSON Barry Bonds
+PERSON Barry Lane
+PERSON Barry Larkin
+PERSON Bartlomiej Jamroz
+PERSON Bartoli
+PERSON Barton
+PERSON Bart Voskamp
+PERSON Basie Smit
+PERSON Basuki
+PERSON Batchelor
+PERSON Batigol
+PERSON Batistuta
+PERSON BATISTUTA
+PERSON Batterby
+PERSON Battersby
+PERSON Beatrix
+PERSON Beaver
+PERSON Becanovic
+PERSON Bedie
+PERSON Begum Khaleda Zia
+PERSON Belim
+PERSON Belinda Goldsmith
+PERSON Belmondo
+PERSON Belometti
+PERSON Benazir
+PERSON Benazir Bhutto
+PERSON Benedict Birnberg
+PERSON Ben Ellwood
+PERSON Benes
+PERSON Benito Santiago
+PERSON Benjamin Menendez
+PERSON Benjamin Netanyahu
+PERSON Benoit Cauet
+PERSON Benson Koech
+PERSON Berger
+PERSON Bernard
+PERSON Bernard Barmasai
+PERSON Bernard Halford
+PERSON Bernard Hickey
+PERSON Bernardo Arce
+PERSON Bernard Tapie
+PERSON Bernard Weinstein
+PERSON Bernd Karbacher
+PERSON Bernd Mauruschat
+PERSON Bernd Schiphorst
+PERSON Bernd Schmidbauer
+PERSON Bernhard Langer
+PERSON Bernini
+PERSON Berri
+PERSON Berry
+PERSON Berti Vogts
+PERSON Bertram
+PERSON B. Hogg
+PERSON Bhutto
+PERSON Biljana Plavsic
+PERSON Bill Berkrot
+PERSON Bill Birch
+PERSON Bill Clinton
+PERSON Bill Russell
+PERSON Billy Mayfair
+PERSON Billy Swift
+PERSON Birenda
+PERSON Birendra
+PERSON Birnberg
+PERSON B. Julian
+PERSON Black
+PERSON Blair Larsen
+PERSON Blake Bath
+PERSON Blind
+PERSON BLIND
+PERSON Boardman
+PERSON BOARDMAN
+PERSON Bobbie Goulding
+PERSON Bob Brett
+PERSON Bobby Bonilla
+PERSON Bobby Robson
+PERSON Bobby Valentine
+PERSON Bob Dole
+PERSON Bobic
+PERSON Bob Janis
+PERSON Bob Kennedy
+PERSON Bob May
+PERSON Bob Moore
+PERSON Bob Wickman
+PERSON Bob Willis
+PERSON Bob Wollek
+PERSON Bob Woolmer
+PERSON Boeta Wessels
+PERSON Bogdan Prusek
+PERSON Bohdan Ulihrach
+PERSON Bohinen
+PERSON Bombarda
+PERSON Bonds
+PERSON BONDS
+PERSON Bongo
+PERSON Bonilla
+PERSON Bonnet
+PERSON BONNET
+PERSON Boraine
+PERSON Boris Becker
+PERSON Boris Yeltsin
+PERSON Borkus
+PERSON Borsuk
+PERSON Bose
+PERSON Bossi
+PERSON Botha
+PERSON Botham
+PERSON BOTHAM
+PERSON Botta
+PERSON Bourlet
+PERSON Boutoille
+PERSON Boutros Boutros-Ghali
+PERSON Boutros Harb
+PERSON Brad Ausmus
+PERSON Brad Bryant
+PERSON Brad Clontz
+PERSON Brad Hogg
+PERSON Bradley Hughes
+PERSON Brady
+PERSON Brady Anderson
+PERSON Bradys
+PERSON Bragg
+PERSON Brandes
+PERSON Brenda Schultz-McCarthy
+PERSON Brenden Pappas
+PERSON Brett Martin
+PERSON Breukink
+PERSON Brian Bronson
+PERSON Brian Currin
+PERSON Brian De Palma
+PERSON Brian Gilbertson
+PERSON Brian Homewood
+PERSON Brian McMillan
+PERSON Brian McRae
+PERSON Brian Wellman
+PERSON Brigita Bukovec
+PERSON Brooke
+PERSON Brooks
+PERSON Brown
+PERSON Bruce Grobbelaar
+PERSON Bruno Adelt
+PERSON Bruno Eichmann
+PERSON Bruno Risi
+PERSON Bruno Thiry
+PERSON Brunswijk
+PERSON Bruny Surin
+PERSON Bryan Robson
+PERSON Bscher
+PERSON Bucaram
+PERSON Budge Weidman
+PERSON Buffett
+PERSON Bugno
+PERSON BUGNO
+PERSON Bunce
+PERSON Burcin Mavituna
+PERSON Burhanuddin Rabbani
+PERSON Butch
+PERSON Butch Harmon
+PERSON Buyoya
+PERSON Byas
+PERSON B. Yeltsin
+PERSON Byron Black
+PERSON Caddick
+PERSON Caesar Mazzolari
+PERSON Cal Eldred
+PERSON Cal Ripken
+PERSON Calvin Davis
+PERSON Cam Battersby
+PERSON C. Ambrose
+PERSON Camerlengo
+PERSON Campbell
+PERSON Candiotti
+PERSON Capiot
+PERSON Carla Sacramento
+PERSON Carl Fogarty
+PERSON CARLING
+PERSON Carl Lewis
+PERSON Carl Mason
+PERSON Carlo Ancelotti
+PERSON Carlo Hoffmann
+PERSON Carlos Bianchi
+PERSON Carlos Checa
+PERSON Carlos Costa
+PERSON Carlos Delgado
+PERSON Carlos Moya
+PERSON Carlos Pavon
+PERSON Carlos Sainz
+PERSON Carlos Secretario
+PERSON Carl Suneson
+PERSON Carl-Uwe Steeb
+PERSON Caroline
+PERSON Carol Norris
+PERSON Carol Perry
+PERSON Carsten Wolf
+PERSON Casey
+PERSON Catherine McKiernan
+PERSON Cathy Freeman
+PERSON Caveglia
+PERSON Cecil Mamiit
+PERSON Cedric
+PERSON Cedric Pioline
+PERSON Cesare dal Maso
+PERSON Cevaer
+PERSON C. Evans
+PERSON Chad Curtis
+PERSON Chakravarty Rangarajan
+PERSON Chalmers
+PERSON Chaminda Vaas
+PERSON Chamorro
+PERSON Chan Chia Fong
+PERSON Chanda Rubin
+PERSON CHANDA RUBIN
+PERSON Chandra Sturrup
+PERSON Chandrika Kumaratunga
+PERSON Chang
+PERSON CHANG
+PERSON Chaouch
+PERSON Charles
+PERSON Charles Austin
+PERSON Charles Bauza Donwahi
+PERSON Charles McGilley
+PERSON Charles Nagy
+PERSON Charles Taylor
+PERSON Charmaine Crooks
+PERSON Charvet
+PERSON Chatichai Choonhavan
+PERSON Chavalit Yongchaiyudh
+PERSON Cheah Soon Kit
+PERSON Chelsea
+PERSON Chelsea Clinton
+PERSON Chen Gang
+PERSON Chernomyrdin
+PERSON Cheung
+PERSON Cheung Siu Man
+PERSON Chiate
+PERSON Chili Davis
+PERSON Chiluba
+PERSON Chinnathambi
+PERSON Chiquinho Conde
+PERSON Chistian
+PERSON Chong
+PERSON C. Hooper
+PERSON Choudhury
+PERSON Chris Boardman
+PERSON Chris Hoiles
+PERSON Chris Lewis
+PERSON Chris Patten
+PERSON Chris Rutter
+PERSON Christian Cevaer
+PERSON Christian Cullen
+PERSON Christian Meidlinger
+PERSON Christian Rudd
+PERSON Christian Ruud
+PERSON Christian Ruuttu
+PERSON Christian Springer
+PERSON Christian Ziege
+PERSON Christie
+PERSON CHRISTIE
+PERSON Christina Singer
+PERSON Christine Magnusson
+PERSON Christine Wachtel
+PERSON Christophe Bonvin
+PERSON Christophe Capelle
+PERSON Christophe Impens
+PERSON Christophe Ohrel
+PERSON Christopher Reeve
+PERSON Christopher Wreh
+PERSON Chris Walker
+PERSON Chris Widness
+PERSON Chris Woodruff
+PERSON Chris Zuleeg
+PERSON Chryste Gaines
+PERSON Chua
+PERSON Chua Jui
+PERSON Chuck Adams
+PERSON Chuck Finley
+PERSON Ciller
+PERSON Cimicchi
+PERSON Cindana
+PERSON Ciriaco Sforza
+PERSON Clarence Rose
+PERSON Clarence Seedorf
+PERSON Claude Lelouche
+PERSON Claudio Moura
+PERSON Claus
+PERSON Claus Manne Nielsen
+PERSON Claverie
+PERSON Clemens
+PERSON C. Lewis
+PERSON Clinton
+PERSON Cocu
+PERSON COCU
+PERSON Coetzee
+PERSON Coetzer
+PERSON Colin Edwards
+PERSON Colin Hope
+PERSON Colin Jackson
+PERSON Colin McRae
+PERSON Colin Montgomerie
+PERSON Colleen Siegel
+PERSON Colleter
+PERSON Collin Dugmore
+PERSON Collinelli
+PERSON Colonna
+PERSON COLONNA
+PERSON Coltart
+PERSON Conchita Martinez
+PERSON Conde
+PERSON Conroy
+PERSON Constand Viljoen
+PERSON Constantine Mitsotakis
+PERSON Conte
+PERSON Cooper
+PERSON Coppinger
+PERSON Cor Euser
+PERSON Corey Pavin
+PERSON Corey Pointer
+PERSON Corina Morariu
+PERSON Cork
+PERSON Corser
+PERSON Costantino Rocca
+PERSON Costas Simitis
+PERSON Costas Skandalidis
+PERSON Costis Stephanopoulos
+PERSON Costis Stephnopoulos
+PERSON Coughlan
+PERSON Couples
+PERSON Courtney Walsh
+PERSON Courtois
+PERSON Cozma
+PERSON Craig Brown
+PERSON Craig Dowd
+PERSON Craig Evans
+PERSON Craig Held
+PERSON Craig MacLean
+PERSON Craig Matthews
+PERSON Craig Parry
+PERSON Craig Stadler
+PERSON Craig Stromme
+PERSON Craig Wishart
+PERSON C. Rangarajan
+PERSON Crawley
+PERSON CRAWLEY
+PERSON Cristina Torrens-Valero
+PERSON Croft
+PERSON CROFT
+PERSON Crohn
+PERSON Cruise
+PERSON Cruyff
+PERSON Culhane
+PERSON Currin
+PERSON Curtis Fleming
+PERSON Curtis Lee White II
+PERSON C. White
+PERSON C. Wishart
+PERSON Cynthia McKinney
+PERSON Cyprien
+PERSON CYPRIEN
+PERSON Cy Young
+PERSON Dahl Tomasson
+PERSON Dahman
+PERSON Dai
+PERSON Dai Houying
+PERSON Dalai Lama
+PERSON Dalglish
+PERSON DALGLISH
+PERSON Dally Randriantefy
+PERSON Dal Maso
+PERSON Damein Fleming
+PERSON Damian Ejiohuo
+PERSON Damien Lynch
+PERSON Damion Easley
+PERSON Damon Hill
+PERSON Dana Rohrabacher
+PERSON Dan Dietsch
+PERSON Dan Glickman
+PERSON Dani
+PERSON Daniel Chopra
+PERSON Daniel Ducruet
+PERSON Daniele Polverino
+PERSON Daniel Komen
+PERSON Danielle Murray
+PERSON Daniel Levy
+PERSON Daniel Nestor
+PERSON Daniel Vacek
+PERSON Daniel Westlake
+PERSON Danie van Schalkwyk
+PERSON Dan Jensen
+PERSON Dan Jenson
+PERSON Dan Jewell
+PERSON Danny Blind
+PERSON Danny Rose
+PERSON Danny Theybers
+PERSON Dan Pudvah
+PERSON Dante Bichette
+PERSON Danut Lupu
+PERSON Daoud
+PERSON Daoud Makkawi
+PERSON Darius Milhaud
+PERSON Dariusz Jackiewicz
+PERSON Dariusz Rosati
+PERSON Darren Anderton
+PERSON Darren Gough
+PERSON Darren McKenzie-Potter
+PERSON Darryll King
+PERSON Darryn Hill
+PERSON Daryll Cullinan
+PERSON Das
+PERSON Daschle
+PERSON Date
+PERSON Dave McPherson
+PERSON Dave Nilsson
+PERSON Davenport
+PERSON Dave Pearson
+PERSON Dave Richardson
+PERSON Davey Johnson
+PERSON DAVEY JOHNSON
+PERSON David
+PERSON David Batty
+PERSON David Brabham
+PERSON David Byas
+PERSON David Caldwell
+PERSON David Carter
+PERSON David Coulthard
+PERSON David Cowan
+PERSON David Endt
+PERSON David Evans
+PERSON David Gilford
+PERSON David Ginola
+PERSON David Harding
+PERSON David Howell
+PERSON David Hulse
+PERSON David J. Russell
+PERSON David Kelly
+PERSON David Levy
+PERSON David Millns
+PERSON David Nainkin
+PERSON David Naish
+PERSON David Prinosil
+PERSON David Richards
+PERSON David Rikl
+PERSON David Rowland
+PERSON David Segui
+PERSON David Sesa
+PERSON David Skoch
+PERSON Davidson Ezinwa
+PERSON David Wheaton
+PERSON David Williams
+PERSON Davies
+PERSON Davis
+PERSON Davis Kamoga
+PERSON Davis Love
+PERSON D.A. Weibring
+PERSON Dawn Bowles
+PERSON D. Cork
+PERSON D. Cox
+PERSON Dean Gorre
+PERSON Dean Headley
+PERSON Dean Palmer
+PERSON Dean Richards
+PERSON Debbah
+PERSON Debbie Graham
+PERSON Deby
+PERSON Decheiver
+PERSON Decker
+PERSON Dejan Savicevic
+PERSON Dejan Stefanovic
+PERSON DeJesus
+PERSON Dekker
+PERSON de Klerk
+PERSON De Kock
+PERSON De la Pena
+PERSON Del Harris
+PERSON della Noce
+PERSON Demel
+PERSON Den Bakker
+PERSON Denham Peiris
+PERSON Denis Irwin
+PERSON Dennis Bergkamp
+PERSON Dennis Lillee
+PERSON Dennis Mitchell
+PERSON Dennis Ross
+PERSON Denny Neagle
+PERSON de Nooijer
+PERSON DENVER
+PERSON Deon Hemmings
+PERSON Derek Crookes
+PERSON Derek Jeter
+PERSON Derek Mills
+PERSON Derek Ringer
+PERSON Derek Ryan
+PERSON Derrick
+PERSON Derrick Adkins
+PERSON Des
+PERSON Desi Bouterse
+PERSON de Silva
+PERSON Desmond Tutu
+PERSON Des Smyth
+PERSON Detroux
+PERSON Devers
+PERSON Devon White
+PERSON D. Flemming
+PERSON D. Fulton
+PERSON D. Gough
+PERSON Dharmasena
+PERSON D. Headley
+PERSON Dheeraj
+PERSON Dhiraj K.C.
+PERSON Diana
+PERSON Dianne Feinstein
+PERSON Dick Morris
+PERSON Dickson
+PERSON Dick Spring
+PERSON Diego Borrego
+PERSON Dieter Eilts
+PERSON Dieter U
+PERSON Dietmar Lalcher
+PERSON Dimas Teixeira
+PERSON Dimitrios Georgalis
+PERSON Dimitris Kontogiannis
+PERSON Dimitris Reppas
+PERSON Dionne Rose
+PERSON Dirk Coetzee
+PERSON Dirk Dier
+PERSON D. Millns
+PERSON Dmitry Kuznets
+PERSON Dmitry Solovyov
+PERSON Dole
+PERSON Domingo Hospital
+PERSON Domingos
+PERSON Domingos Oliveira
+PERSON Dominic Cork
+PERSON Dominic Hewson
+PERSON Dominique Van Roost
+PERSON Donald Tsang
+PERSON Donizetti
+PERSON Donkow
+PERSON Don Loewen
+PERSON Don McKinnon
+PERSON Donna Sells
+PERSON Donne Wall
+PERSON Donovan Bailey
+PERSON Don Wengert
+PERSON Doreen Siow
+PERSON Dore Gold
+PERSON Dos Santos
+PERSON Dostum
+PERSON Douati Alphonse
+PERSON Double Trigger
+PERSON Doug Flach
+PERSON Doug Turner
+PERSON Downer
+PERSON Dragutin Stanojlovic
+PERSON Drazen Beser
+PERSON Drew
+PERSON Driller
+PERSON D. Ripley
+PERSON D. Robinson
+PERSON Drobnjak
+PERSON Dubnicoff
+PERSON Ducruet
+PERSON Duffy Waldorf
+PERSON Dugmore
+PERSON Duncan Ferguson
+PERSON Duncan Shiels
+PERSON Dundee
+PERSON Dusan Kovacs
+PERSON Dutra
+PERSON Dutroux
+PERSON Ealham
+PERSON Eamonn Darcy
+PERSON Earl Feugill
+PERSON E. Auchard
+PERSON Ebe Huizinga
+PERSON E. Brandes
+PERSON Edberg
+PERSON EDBERG
+PERSON Ed de Goey
+PERSON Eddie Hedaya
+PERSON Eddie Irvine
+PERSON Eddo Brandes
+PERSON Edgar
+PERSON Edgar Davids
+PERSON Edgar Martinez
+PERSON Edgar Renteria
+PERSON Edhem Efendija Camdzic
+PERSON Edna Fernandes
+PERSON Edouard Gritson
+PERSON Edouard Gritsoun
+PERSON Eduardo Bernini
+PERSON Eduardo Romero
+PERSON Edvard Grieg
+PERSON Ed Vosberg
+PERSON Edward Dmytryk
+PERSON Edward Said
+PERSON Edward Smith
+PERSON Edwin van der Sar
+PERSON Eefje
+PERSON Eefje Lambrecks
+PERSON E.F. ( Fritz ) Schumacher
+PERSON Eichmann
+PERSON Ejup Bajgora
+PERSON Ejup Ganic
+PERSON Ekeus
+PERSON Ekimov
+PERSON Elena Likhovtseva
+PERSON Elena Makarova
+PERSON Elena Wagner
+PERSON Eleonora Berlanda
+PERSON El Hassane Lahssini
+PERSON Eliahu Ben-Elissar
+PERSON Elias Moosa
+PERSON Elijah Maru
+PERSON Elisha Shamay
+PERSON Eliud Barngetuny
+PERSON Ellina Zvereva
+PERSON Ellis Burks
+PERSON Els Callens
+PERSON Emajuddin Ahmed
+PERSON Emanuele Canonica
+PERSON Emanuil Ceausu
+PERSON Emelia Sithole
+PERSON Emese Bartha
+PERSON Emilio Valle
+PERSON Emmanuel Sobral
+PERSON Emmanuel Tetteh
+PERSON Emon
+PERSON EMON
+PERSON Enderle
+PERSON Endrio Leoni
+PERSON Endt
+PERSON Engquist
+PERSON Enn Markvart
+PERSON Enqvist
+PERSON Enrico Chiesa
+PERSON Enrique Centeno
+PERSON Enzo
+PERSON Enzo Scifo
+PERSON Erbakan
+PERSON Erdei
+PERSON Erdmann
+PERSON Erekat
+PERSON Eric Bernard
+PERSON Eric Davis
+PERSON Eric Rush
+PERSON Eric Wymeersch
+PERSON Erik Breukink
+PERSON Erik Camerlengo
+PERSON Erik Dekker
+PERSON Erik Hanson
+PERSON Eriksson
+PERSON Erik Zabel
+PERSON Ernest Faber
+PERSON Ernesto Samper
+PERSON Ernie Els
+PERSON Erwin van der Looi
+PERSON Esnaider
+PERSON Etienne Mendy
+PERSON Eugene de Kock
+PERSON Eugen Voica
+PERSON Eva Boudova
+PERSON Evelyn Leopold
+PERSON Eveningperformance
+PERSON Evert
+PERSON Ewald Brenner
+PERSON Ezer Weizman
+PERSON Faber
+PERSON Fabien Giroix
+PERSON Fabien Lefevre
+PERSON Fabio Baldato
+PERSON Fabrizio Ravanelli
+PERSON Fagan
+PERSON Faheem Khan
+PERSON Falilat Ogunkoya
+PERSON Fallah Sewa
+PERSON Fanie de Villiers
+PERSON Fannie Johnson
+PERSON Fatima Cristina
+PERSON Fatima Yussuf
+PERSON Fatos Nano
+PERSON Faure
+PERSON Faustino Asprilla
+PERSON Featherstone
+PERSON Federico Colonna
+PERSON Feinstein
+PERSON Feldhoff
+PERSON Felicia Ballanger
+PERSON Felipe Lira
+PERSON Felix Mantilla
+PERSON Ferdy Vierklau
+PERSON Ferenc Horvath
+PERSON Ferguson
+PERSON FERGUSON
+PERSON Ferhaoui
+PERSON Fernanda Ribeiro
+PERSON Fernandez
+PERSON Fernando Couto
+PERSON Fernando Henrique Cardoso
+PERSON Fernando Meligeni
+PERSON Fernando Roca
+PERSON Ferreira
+PERSON Ferrigato
+PERSON FERRIGATO
+PERSON Feugill
+PERSON Fili Houteman
+PERSON Filip Dewulf
+PERSON Filipovic
+PERSON Filippo Veglio
+PERSON Fiona May
+PERSON Firmin Gatera
+PERSON Fischler
+PERSON Fita Bayesa
+PERSON Fitzpatrick
+PERSON Flavin
+PERSON Flemming
+PERSON Fleuchaus
+PERSON Fleurian
+PERSON Florencia Labat
+PERSON Florian Rousseau
+PERSON Flower
+PERSON Foe
+PERSON Fogarty
+PERSON Foster
+PERSON Fowler
+PERSON FOWLER
+PERSON Fox
+PERSON Francesca Lubiani
+PERSON Francesco Casagrande
+PERSON Francesco Toldo
+PERSON Francis Agyepong
+PERSON Francisco Cea
+PERSON Francisco Clavet
+PERSON Francis Moreau
+PERSON Franco Baresi
+PERSON Francois-Rene ( Vicomte de ) Chateaubriand
+PERSON Franka Dietzsch
+PERSON Frank Asselman
+PERSON Frank Bunce
+PERSON Frank de Boer
+PERSON Frankie Fredericks
+PERSON Frankie Rodriguez
+PERSON Frank LeBoeuf
+PERSON Franklin D. Roosevelt
+PERSON Frank Nobilo
+PERSON Frank Quilter
+PERSON Frank Vandenbroucke
+PERSON Franny
+PERSON Franny Weld
+PERSON Franz Fischler
+PERSON Franz Konrad
+PERSON Franz Stocher
+PERSON Fraser
+PERSON Fred
+PERSON Fred Couples
+PERSON Freddy Pinas
+PERSON Frederick Chiluba
+PERSON Fredericks
+PERSON Frederic Magne
+PERSON Frederic Malardeau
+PERSON Frederic Vialle
+PERSON Frederic Vitoux
+PERSON Fred Funk
+PERSON Fredi Bobic
+PERSON Fred McGriff
+PERSON Fred Trueman
+PERSON Frowick
+PERSON Fujiwara
+PERSON Fulcheri
+PERSON Funar
+PERSON Fung Permadi
+PERSON F.W. de Klerk
+PERSON F.W. De Klerk
+PERSON Gabi Rokmeier
+PERSON Gabor Sitanyi
+PERSON Gabrich
+PERSON GABRICH
+PERSON Gabriel
+PERSON Gabriela Sabatini
+PERSON Gabriel Batistuta
+PERSON Gabriel Curuchet
+PERSON Gabriele Colombo
+PERSON Gail Devers
+PERSON Gaissmayer
+PERSON Gajdos
+PERSON Gala Leon Garcia
+PERSON Gale Norton
+PERSON Galina Enioukhina
+PERSON Galina Malchugina
+PERSON Gallagher
+PERSON Galo Blanco
+PERSON Ganguly
+PERSON Garang
+PERSON G. Archer
+PERSON Gareth Farrelly
+PERSON Garret Anderson
+PERSON Garrett Lambert
+PERSON Garrity
+PERSON Garry Weiss
+PERSON Garry West
+PERSON Gary Breen
+PERSON Gary DiSarcina
+PERSON Gary Emerson
+PERSON Gary Kelly
+PERSON Gary Kirsten
+PERSON Gary Lauck
+PERSON Gary Neiwand
+PERSON Gary Orr
+PERSON Gary Sheffield
+PERSON Gary Teichmann
+PERSON Gaston Taument
+PERSON Gatera
+PERSON GATTING
+PERSON Gavin Featherstone
+PERSON Gavin Levenson
+PERSON Gcaleka
+PERSON Geert de Clercq
+PERSON Gennadi Markov
+PERSON Gennadi Skidan
+PERSON Geoff Marsh
+PERSON Geoffrey Fieger
+PERSON George Bush
+PERSON George Duffield
+PERSON George Garang
+PERSON George Georgiopoulos
+PERSON George Grech
+PERSON George Hincapie
+PERSON George Joulwan
+PERSON Georges Simenon
+PERSON Georges Zicot
+PERSON George Weah
+PERSON Georgios Chimonetos
+PERSON Georgy Mamedov
+PERSON Gephardt
+PERSON Gerald Machnee
+PERSON Gerard
+PERSON Gerard Kiely
+PERSON Gerard Pignon
+PERSON Gerd Ruch
+PERSON Gerhard Berger
+PERSON Geronimo
+PERSON Gert Jan Van Doorn
+PERSON G. Flower
+PERSON G. Gooch
+PERSON Gheorghe Funar
+PERSON Gianfranco Stevanin
+PERSON Gianluca Corini
+PERSON Gianluca Pozzi
+PERSON Gianluca Vialli
+PERSON Gianni Bugno
+PERSON Gianni Versace
+PERSON Gibbs
+PERSON GIBBS
+PERSON Gideon Chirchir
+PERSON Gigi Fernandez
+PERSON Gilbert Agius
+PERSON Gilbert Facchinetti
+PERSON Gilbert Gress
+PERSON Gilbert Le Gras
+PERSON Gilbert Schaller
+PERSON Gilbertson
+PERSON Gildea
+PERSON Giles Bonnet
+PERSON Gillian Russell
+PERSON Gina Tillman
+PERSON Gingrich
+PERSON Giovanni
+PERSON Giovanni Lavaggi
+PERSON Giovanni Lombardi
+PERSON Giovanni van Bronckhorst
+PERSON Giuly
+PERSON Giunluca Gorini
+PERSON .Giuseppe Citterio
+PERSON Giuseppe Citterio
+PERSON Gjon Buzuku
+PERSON Glafcos Xenos
+PERSON Glenallen Hill
+PERSON Glen Hoddle
+PERSON Glenn Hoddle
+PERSON Glenn McGrath
+PERSON Glenn Taylor
+PERSON Glen Osborne
+PERSON Glickman
+PERSON G. Lloyd
+PERSON Gloria Pizzichini
+PERSON Glyn Davies
+PERSON G. McGrath
+PERSON God
+PERSON Godee
+PERSON Goldman
+PERSON Goldstein
+PERSON Goncharova
+PERSON Gong Zhichao
+PERSON Gooch
+PERSON GOOCH
+PERSON Goosen
+PERSON Gopal Sharma
+PERSON Goran Ivanisevic
+PERSON Goran Koprinovic
+PERSON Gordana Kukic
+PERSON Gordon Parsons
+PERSON Gordon Smith
+PERSON Gore
+PERSON Gorre
+PERSON Goschen
+PERSON Gough
+PERSON Goulnara Fatkoullina
+PERSON Gounon
+PERSON G. Parsons
+PERSON Grabowksi
+PERSON Grabowski
+PERSON Grace Kelly
+PERSON Graef
+PERSON Graeme Hick
+PERSON Graeme Obree
+PERSON Graf
+PERSON GRAF
+PERSON Graham Gooch
+PERSON Graham Lloyd
+PERSON Graham Sharman
+PERSON Graham Thorpe
+PERSON Graham Watts
+PERSON Gramoz Ruci
+PERSON Granic
+PERSON Grant Flower
+PERSON Grant Stafford
+PERSON Gravelaine
+PERSON Green
+PERSON Greer
+PERSON GREER
+PERSON Greg
+PERSON Greg Chappell
+PERSON Greg Frost
+PERSON Greg Gagne
+PERSON Greg Norman
+PERSON Gregory Carraz
+PERSON Gregory Randolph
+PERSON Greg Rusedski
+PERSON Greg Turner
+PERSON Gress
+PERSON Grobbelaar
+PERSON GROBBELAAR
+PERSON G. Rose
+PERSON Grzegorz Krejner
+PERSON G. Thorpe
+PERSON Gualtiero Fulcheri
+PERSON Guenter Bertram
+PERSON Guillaume Raoux
+PERSON Guivarch
+PERSON Guivarc'h
+PERSON Gujral
+PERSON Gulbuddin Hekmatyar
+PERSON Guldimann
+PERSON Gupta
+PERSON Guus Hiddink
+PERSON Guy Forget
+PERSON Guy Whittall
+PERSON Guy Whittingham
+PERSON Guzman
+PERSON Gwen Torrence
+PERSON G. Whittall
+PERSON Gyaicain
+PERSON Gyaicain Norbu
+PERSON Haas
+PERSON Habsudova
+PERSON Haessler
+PERSON Hafez al-
+PERSON Haga
+PERSON Hagner
+PERSON Haile Gebreselassie
+PERSON Hall
+PERSON Hal Morris
+PERSON Hal Sutton
+PERSON Hamid Ibrahimi
+PERSON Hamilton
+PERSON Hamming
+PERSON Hana Benesova
+PERSON Handrik Dreekmann
+PERSON Hanifah Komala
+PERSON Hanna Haugland
+PERSON Hannes Strydom
+PERSON Hans de Clerq
+PERSON Hansie Cronje
+PERSON Hansma
+PERSON Hanson
+PERSON Hans-Otto Sieg
+PERSON Hans Segers
+PERSON Harald Spoerl
+PERSON Harding
+PERSON Hari Maya Poudels
+PERSON Hariri
+PERSON Harrison Dillard
+PERSON Haruchika
+PERSON Harvey
+PERSON Harwood
+PERSON Hasan Muratovic
+PERSON Hasely Crawford
+PERSON Hashan
+PERSON Hashan Tillekeratne
+PERSON Hashimoto
+PERSON Hasina
+PERSON Hassan al-Turabi
+PERSON Hassan Hafidh
+PERSON Hassan Rastegar
+PERSON Hatoyama
+PERSON Havel
+PERSON H.D. Deve Gowda
+PERSON Head
+PERSON Headley
+PERSON Healy
+PERSON Heath Streak
+PERSON Hector Campora
+PERSON Heike Drechsler
+PERSON Heiki Kranich
+PERSON Heiko Szonn
+PERSON Heinrich
+PERSON Heinz-Harald Frentzen
+PERSON Heinz-Peter Thul
+PERSON Hekmatyar
+PERSON Helder
+PERSON Helder Cristovao
+PERSON Helena Sukova
+PERSON Helmer
+PERSON Helmut Kohl
+PERSON Hendrik Dreekman
+PERSON Hendrix
+PERSON Heng Suan Lim
+PERSON Henke Larsson
+PERSON Hennady Udovenko
+PERSON Henrietta Nagyova
+PERSON Henri Konan Bedie
+PERSON Henry
+PERSON Henry Candy
+PERSON Henry Tricks
+PERSON Hentgen
+PERSON Herbert Demel
+PERSON Herman Gumy
+PERSON Herman Wijffels
+PERSON Hermawan Susanto
+PERSON Hernan Gumy
+PERSON Herschelle
+PERSON Herschelle Gibbs
+PERSON Herschelle Gibs
+PERSON Hershiser
+PERSON Herve de Charette
+PERSON Herve Thuet
+PERSON Hever Golf Rose
+PERSON Hicham Arazi
+PERSON Hicham El Guerrouj
+PERSON Hick
+PERSON Hiddink
+PERSON Hidemichi Tanaka
+PERSON Hidemichi Tanaki
+PERSON Hideo Nomo
+PERSON Hilary Gush
+PERSON Hill
+PERSON Hillary Rodham Clinton
+PERSON Hinchcliffe
+PERSON HINCHCLIFFE
+PERSON Hingis
+PERSON Hintsa
+PERSON Hirsch
+PERSON Hitler
+PERSON H. Morris
+PERSON Hoddle
+PERSON Hogg
+PERSON Hong Bui
+PERSON Hoogma
+PERSON Hope
+PERSON Horst Siegl
+PERSON Hosni Mubarak
+PERSON Houteman
+PERSON Howard
+PERSON Howard Johnson
+PERSON Howard Wilkinson
+PERSON Hristo Stoichkov
+PERSON Hryhory Borsuk
+PERSON H. Streak
+PERSON Huber
+PERSON HUBER
+PERSON Hubert Grossard
+PERSON Humayun Rasheed Choudhury
+PERSON Humberto Hueite Zyrecha
+PERSON Hurte Sierd Zylstra
+PERSON Husein Micijevic
+PERSON Hussain
+PERSON Hussein
+PERSON Hussein Khalaf
+PERSON Huw Jones
+PERSON Hu Zhilan
+PERSON H. Wada
+PERSON Hwa Kay
+PERSON Hwang
+PERSON Iain Pyman
+PERSON Ian
+PERSON Ian Botham
+PERSON Ian Harte
+PERSON Ian Healy
+PERSON Ian Jones
+PERSON Ian Mackie
+PERSON Ian McGeechan
+PERSON Ian Pyman
+PERSON Ian Rush
+PERSON Ian Salisbury
+PERSON Ian Woosnam
+PERSON Ibrahim
+PERSON Idalecio
+PERSON Idriss Deby
+PERSON Ieng Mouly
+PERSON Ieng Sary
+PERSON Ignacio Olascoaga Mugica
+PERSON I. Healy
+PERSON Ijaya Indra
+PERSON Ijaz
+PERSON Ijaz Ahmed
+PERSON I.K. Gujral
+PERSON Ikimi
+PERSON Ileana Bell
+PERSON Ilian Simeonov
+PERSON Ilie Lazar
+PERSON Iliescu
+PERSON Ilke Wyludda
+PERSON Ilkka Laasonen
+PERSON Ilott
+PERSON Imran Khan
+PERSON Inderjit Gupta
+PERSON Indra Wijaya
+PERSON Ines Gorrochategui
+PERSON Inez Turner
+PERSON Inga Babakova
+PERSON Inger Miller
+PERSON Ingrid Haringa
+PERSON Innocent Butare
+PERSON Inspector Maigret
+PERSON Inzamam-ul-Haq
+PERSON Ion Iliescu
+PERSON Irani
+PERSON Irene Marushko
+PERSON Irina Privalova
+PERSON Irina Spirlea
+PERSON Irina Yatchenko
+PERSON Isaac Galvez-Lopez
+PERSON Isaac Viciosa
+PERSON I. Salisbury
+PERSON Ischinger
+PERSON Isel Lopez
+PERSON Ishwari Boopathy
+PERSON Ismail Boulahya
+PERSON Ismail Nacar
+PERSON Issa Alloush
+PERSON Italo Pineda
+PERSON Itamar Rabinovich
+PERSON Iva Majoli
+PERSON Ivan Garcia
+PERSON Ivanisevic
+PERSON Ivan Odnosum
+PERSON Ivan Rodriguez
+PERSON Iwan Cesar Gabrich
+PERSON Jaap Stam
+PERSON Jacek Berensztain
+PERSON Jacek Dembinski
+PERSON Jack
+PERSON Jack Berry
+PERSON Jack Charlton
+PERSON Jackie Frank
+PERSON Jackie Lee
+PERSON Jackie McNamara
+PERSON Jack Kemp
+PERSON Jack Kevorkian
+PERSON Jack Russell
+PERSON Jackson
+PERSON Jacky Martens
+PERSON Jacob Brumfield
+PERSON Jacob Hlasek
+PERSON Jacqueline Martin
+PERSON Jacqueline Wong
+PERSON Jacques Chirac
+PERSON Jacques Kallis
+PERSON Jacques Toubon
+PERSON Jacques Villeneuve
+PERSON Jadeja
+PERSON Jaha
+PERSON Jaime Oncins
+PERSON Jakob Hlasek
+PERSON Jalal Talabani
+PERSON James
+PERSON James Baker
+PERSON James Baldwin
+PERSON James Brady
+PERSON James Debbah
+PERSON James Harvey
+PERSON James Lee Williams
+PERSON James Poland
+PERSON James Scott Brady Jr
+PERSON James Weaver
+PERSON Jamie
+PERSON Jamie Baulch
+PERSON Jamie Moyer
+PERSON Jamir Cvetko
+PERSON Jana Kandarr
+PERSON Jana Novotna
+PERSON Jan Buettner
+PERSON Jane Chi
+PERSON Jane Quigley
+PERSON Janet Reno
+PERSON Janette Husarova
+PERSON Janez Drnovsek
+PERSON Jan Kroslak
+PERSON Janne Ojanen
+PERSON Jannie Gagiano
+PERSON Jan Ove Pedersen
+PERSON Jansher Khan
+PERSON Jan Siemerink
+PERSON Jans Koerts
+PERSON Jan Van Eiden
+PERSON Jan Van Eijden
+PERSON Japie Mulder
+PERSON Jared Palmer
+PERSON Jari Litmanen
+PERSON Jarmo Kytolehto
+PERSON Jason Dickson
+PERSON Jason McAteer
+PERSON Jason Rouser
+PERSON Jason Stoltenberg
+PERSON Jason Weaver
+PERSON Jason Webb
+PERSON Jason Wong
+PERSON Javagal Srinath
+PERSON Javier Frana
+PERSON Javier Gomez de Liano
+PERSON Javier Sanchez
+PERSON Jayasuriya
+PERSON JAYASURIYA
+PERSON Jay Buhner
+PERSON J. Bovill
+PERSON J. Crawley
+PERSON Jean
+PERSON Jean Alesi
+PERSON Jean-Claude Nadon
+PERSON Jean-Denis Deletraz
+PERSON Jean-Louis Debre
+PERSON Jean-Marc Gounon
+PERSON Jean-Michel Bayle
+PERSON Jean-Michel Monin
+PERSON Jean-Paul Bruwier
+PERSON Jean-Paul van Gastel
+PERSON Jean-Philippe Fleurian
+PERSON Jean-Pierre Cyprien
+PERSON Jean-Pierre Van Zyl
+PERSON Jean Van de Velde
+PERSON Jeff Bagwell
+PERSON Jeff Hawksworth
+PERSON Jeff Kenna
+PERSON Jeffrey
+PERSON Jeff Tarango
+PERSON Jeff Williams
+PERSON Jeff Wilson
+PERSON Jennifer Capriati
+PERSON Jennifer Flavin
+PERSON Jennifer Hurley
+PERSON Jens Fiedler
+PERSON Jens Lehman
+PERSON Jens Todt
+PERSON Jens Veggerby
+PERSON Jeremy Guscott
+PERSON Jeremy Lovell
+PERSON Jeroen Blijlevens
+PERSON Jeroen Van Dijk
+PERSON Jerome Egurugbe
+PERSON Jerome Turner
+PERSON Jerry Bieszk
+PERSON Jerry Schein
+PERSON Jerzy L.
+PERSON Jesse Owens
+PERSON Jesus
+PERSON Jesus Tavarez
+PERSON Jetsi Hendrika Coers
+PERSON Jetty Kors
+PERSON Jewell
+PERSON Jiang
+PERSON Jiang Zemin
+PERSON Jill Craybas
+PERSON Jim
+PERSON Jim Bidzos
+PERSON Jim Bolger
+PERSON Jim Brady
+PERSON Jim Brumm
+PERSON Jim Courier
+PERSON Jim Edmonds
+PERSON Jim Furyk
+PERSON Jim Grabb
+PERSON Jim Hines
+PERSON Jimi Hendrix
+PERSON J immi Madsen
+PERSON Jimmy
+PERSON Jimmy Key
+PERSON Jimmy Thomson
+PERSON Jim Payne
+PERSON Jim Telfer
+PERSON Jim Thome
+PERSON Jimy Szymanski
+PERSON Jiri Dopita
+PERSON Jiri Novak
+PERSON Joakim Haeggman
+PERSON Joannette Kruger
+PERSON Joao Pinto
+PERSON Joao Vale de Almeida
+PERSON Joao Vieira Pinto
+PERSON Jodie Foster
+PERSON Jody Reed
+PERSON Joe Carter
+PERSON Joel Smets
+PERSON Joel Stranksy
+PERSON Joel Stransky
+PERSON Joey Hamilton
+PERSON Johan Boonen
+PERSON Johan Capiot
+PERSON Johan de Kock
+PERSON Johan Lisabeth
+PERSON Johan Museeuw
+PERSON Johansson
+PERSON Johan Van Der Merwe
+PERSON John Allen
+PERSON John Bissell
+PERSON John Boles
+PERSON John Cook
+PERSON John Crawley
+PERSON John Deere
+PERSON John den Braber
+PERSON John Ericks
+PERSON John Fashanu
+PERSON John Gilardi
+PERSON John Grant Fagan
+PERSON John Hagelin
+PERSON John Hart
+PERSON John Hartson
+PERSON John Head
+PERSON John Hinckley
+PERSON John Hinckley Jr
+PERSON John Howard
+PERSON John Inienger
+PERSON John Jaha
+PERSON John Kerry
+PERSON John Kocinski
+PERSON John Kornblum
+PERSON John Lloyd Jones
+PERSON John Marzano
+PERSON John Mayock
+PERSON John McNamara
+PERSON John Newcombe
+PERSON Johnny Bench
+PERSON Johnny Damon
+PERSON Johnny Herbert
+PERSON John Regis
+PERSON John Ridgeon
+PERSON John Sheehan
+PERSON John Simon
+PERSON John Smiley
+PERSON John Smoltz
+PERSON Johnson
+PERSON JOHNSON
+PERSON John Stephenson
+PERSON John Talen
+PERSON John Veldman
+PERSON John White
+PERSON Jolene Watanabe
+PERSON Jonah Lomu
+PERSON Jonas Bjorkman
+PERSON Jonas Savimbi
+PERSON Jonathan Bachini
+PERSON Jonathan Birt
+PERSON Jonathan Edwards
+PERSON Jonathan Lomas
+PERSON Jonathan N'Senga
+PERSON Jonathan Stark
+PERSON Jonathon Power
+PERSON Jon Dahl Tomasson
+PERSON Jon Drummond
+PERSON Jones
+PERSON Jongsma
+PERSON JONK
+PERSON Jon Preston
+PERSON Jonty Rhodes
+PERSON Jonzon
+PERSON Joost van der Westhuizen
+PERSON Jordan
+PERSON Jordi Burillo
+PERSON Jordi Cruyff
+PERSON Jorge
+PERSON JORGE
+PERSON Jorge Cadete
+PERSON Jorge Costa
+PERSON Jose Antonio Ortega Lara
+PERSON Jose Barroso
+PERSON Jose Coceres
+PERSON Jose Eduardo Dutra
+PERSON Jose Escuredo
+PERSON Josef Stalin
+PERSON Jose Herrera
+PERSON Jose Luis Vidigal
+PERSON Jose Manuel Prieto
+PERSON Jose Maria Aznar
+PERSON Jose Maria Canizares
+PERSON Jose-Maria Canizares
+PERSON Jose Maria Olazabal
+PERSON Jose Moreno
+PERSON Jose Offerman
+PERSON Joseph Keter
+PERSON Joseph Kneipp
+PERSON Joseph Kuhn
+PERSON Joseph Tanny
+PERSON Jose Rivero
+PERSON Jose Rosado
+PERSON Jose Valentin
+PERSON Josh Kronfeld
+PERSON Jos Verstappen
+PERSON Joyce Liu
+PERSON J. Pooley
+PERSON J. Russell
+PERSON J.S. Bach
+PERSON J. Srinath
+PERSON Juan Carlos
+PERSON Juan Carlos Lago
+PERSON Juan Carlos Pinero
+PERSON Juan Castro
+PERSON Juan Curuchet
+PERSON Juan Domingo Peron
+PERSON Juan Eduardo Esnaider
+PERSON Juan Esnaider
+PERSON Juan Guillermo Londono
+PERSON Juan Guzman
+PERSON Juan Llaneras
+PERSON Juan Lopez
+PERSON Juan Somavia
+PERSON Judith Arndt
+PERSON Judith Crosson
+PERSON Judith Curren
+PERSON Judith Wiesner
+PERSON Juergen Klinsmann
+PERSON Juergen Kohler
+PERSON Juergen Schult
+PERSON Juha Kankkunen
+PERSON Juha Ylonen
+PERSON Julen Lopetegui
+PERSON Julia Carling
+PERSON Julia Ferguson
+PERSON Juliana
+PERSON Julian Tavarez
+PERSON Julian Wellings
+PERSON Julia Vaquero
+PERSON Julie
+PERSON Julie Baumann
+PERSON Julie Lejeune
+PERSON Julien Bonetat
+PERSON Juliet Cuthbert
+PERSON Julie Tolkacheva
+PERSON Julio Cesar Dely Valdes
+PERSON Julio Cesar Vega Rojas
+PERSON Julius Nyrere
+PERSON Jumbish
+PERSON Juppe
+PERSON Justice K.T. Thomas
+PERSON Justin Leonard
+PERSON Justin Marshall
+PERSON Justin Thompson
+PERSON Jyrki Lumme
+PERSON Kaba
+PERSON Kabariti
+PERSON Kader Ferhaoui
+PERSON Kafelnikov
+PERSON Kahalani
+PERSON Kallis
+PERSON Kaluwitharana
+PERSON Kamiel Maase
+PERSON Kamuzu Banda
+PERSON Kan
+PERSON Kankkunen
+PERSON KANKKUNEN
+PERSON Kankunnen
+PERSON Kapil Dev
+PERSON Kapoor
+PERSON Karem Haj Yihye
+PERSON Karen Pierog
+PERSON Karim Alami
+PERSON Karina Adams
+PERSON Karina Habsudova
+PERSON Karin Kschwendt
+PERSON Karl Inderfurth
+PERSON Karl Marx
+PERSON Karol Kucera
+PERSON Karsten Baeron
+PERSON Karsten Richardt
+PERSON Kaspars Ozers
+PERSON Katarina Studenikova
+PERSON Kate Michelman
+PERSON Kathrin Freitag
+PERSON Kathy Etchingham
+PERSON Kathy Rinaldi Stunkel
+PERSON Kazimierz Socha
+PERSON K. Barnett
+PERSON K. Brown
+PERSON K. Curran
+PERSON KEANE
+PERSON Keiichi Kitigawa
+PERSON Keiji Kojima
+PERSON Keiron Henderson
+PERSON Keith Fletcher
+PERSON Keith O'Neill
+PERSON Keller
+PERSON Kelly
+PERSON KELLY
+PERSON Kemp
+PERSON Ken Caminiti
+PERSON Ken Goldstein
+PERSON Kengo wa Dondo
+PERSON Ken Griffey Jr
+PERSON Ken Hill
+PERSON Kennedy
+PERSON Kennedy Ochieng
+PERSON Kennedys
+PERSON Kenneth Carlsen
+PERSON Kenneth Chiate
+PERSON Kenneth Eriksson
+PERSON Kenny Cunningham
+PERSON Kenny Dalglish
+PERSON Kenny Harrison
+PERSON Kenny Lofton
+PERSON Kenny Rogers
+PERSON Ken Saro-Wiwa
+PERSON Kevin Brown
+PERSON Kevin Foster
+PERSON Kevin Keegan
+PERSON Kevin Kim
+PERSON Kevin Mitchell
+PERSON Kevin Seitzer
+PERSON Kevorkian
+PERSON Khadga
+PERSON Khaled al-Qidra
+PERSON Khalfallah
+PERSON Khalid Boulami
+PERSON Khan
+PERSON Khemais Chammari
+PERSON Khum Bahadur Khadga
+PERSON Kiely
+PERSON Kieran Murray
+PERSON Kim Anderson
+PERSON Kimberly Po
+PERSON Kim Graham
+PERSON Kimiko Date
+PERSON Kim White
+PERSON Kim Young Sam
+PERSON King Hassan
+PERSON Kinkel
+PERSON Klas
+PERSON Klas Eriksson
+PERSON Klaus Baader
+PERSON Klaus Kinkel
+PERSON Kleinova
+PERSON Klimis Alexandrou
+PERSON Klinsmann
+PERSON Knight
+PERSON Knup
+PERSON KNUP
+PERSON Kocinski
+PERSON Koerts
+PERSON Kohl
+PERSON Kolumbina Bencevic
+PERSON Komala
+PERSON Komarica
+PERSON Kombouare
+PERSON KOMBOUARE
+PERSON Korda
+PERSON Kornblum
+PERSON Korneev
+PERSON Kostantin Matusevitch
+PERSON Kostas Malekos
+PERSON Kotlarska
+PERSON Krajicek
+PERSON Kris Goossens
+PERSON Kristie Boogert
+PERSON Kristina Brandi
+PERSON Krzysztof Piskula
+PERSON Krzysztof Warzycha
+PERSON Krzysztof Zagorski
+PERSON K. Spiring
+PERSON Kubilay Turkyilmaz
+PERSON Kubo
+PERSON Kucan
+PERSON Kuchma
+PERSON Kumara Dharmasena
+PERSON Kumble
+PERSON Kuperman
+PERSON Kurt Abbott
+PERSON Kurt Betschart
+PERSON Kurt Schork
+PERSON Kwasniewski
+PERSON Kyle Abbott
+PERSON Kyoko Nagatsuka
+PERSON Laasonen
+PERSON Laban Rotich
+PERSON Lacher
+PERSON Lachlan Drummond
+PERSON Lajos Horvath
+PERSON Lambert
+PERSON Lambrecks
+PERSON Lamm
+PERSON Lamont Smith
+PERSON Lampros
+PERSON Lance Armstrong
+PERSON Lance Gibbs
+PERSON Lanner
+PERSON Lansana Conte
+PERSON Lanusse
+PERSON Larbi El Khattabi
+PERSON Larisa Neiland
+PERSON Larry Fine
+PERSON Larry Walker
+PERSON Lars Riedel
+PERSON Larsson
+PERSON Lasa-Zabala
+PERSON Lasse Lampi
+PERSON Lauck
+PERSON Laurence Courtois
+PERSON Laurence McQuillan
+PERSON Lauren Ottoz
+PERSON Laurent Gane
+PERSON Laurent Jalabert
+PERSON Laurent Ottoz
+PERSON Lawrence Sheets
+PERSON Laxmi Poruri
+PERSON L. Botham
+PERSON Leah Pells
+PERSON Leander Paes
+PERSON Lebed
+PERSON Lee Ki-choo
+PERSON Lee Sharpe
+PERSON Lee Tinsley
+PERSON Lee Wan Wah
+PERSON Lee Westwood
+PERSON Lefevre
+PERSON Leila Corcoran
+PERSON Lelouche
+PERSON Lennart Meri
+PERSON Leonardo
+PERSON Leonard Santorelli
+PERSON Leon Barkho
+PERSON Leonid Kuchma
+PERSON Leon van der Wath
+PERSON Les Ferdinand
+PERSON Leslie Gevirtz
+PERSON Letitia Vriesde
+PERSON Levy
+PERSON Lewis
+PERSON LEWIS
+PERSON Lewis Martin
+PERSON Liam
+PERSON Liam Botham
+PERSON Liam Daish
+PERSON Liam Fox Fox
+PERSON Liam Gallagher
+PERSON Lien
+PERSON Lien Chan
+PERSON Lietti
+PERSON Li Feng
+PERSON Lila Osterloh
+PERSON Liliana Semerdjieva
+PERSON Lincoln
+PERSON Linda Wild
+PERSON Lindsay Davenport
+PERSON Lindsay Owen-Jones
+PERSON Lindy Remigino
+PERSON Linford Christie
+PERSON Li Peng
+PERSON Lisa Raymond
+PERSON Lisbet Stuer-Lauridsen
+PERSON Little
+PERSON Liu Lu
+PERSON Liu Lufung
+PERSON Liutauras Stremaitis
+PERSON Lixion Avila
+PERSON Lloyd Axworthy
+PERSON Lloyd Bentsen
+PERSON Loko
+PERSON Lombardi
+PERSON LOMBARDI
+PERSON Loren Roberts
+PERSON Lori McNeil
+PERSON Lotte
+PERSON Lou Gehrig
+PERSON Louis Booy
+PERSON Louise McPaul
+PERSON Louise Siebens
+PERSON Louis Freeh
+PERSON Louis Viannet
+PERSON Loyola de Palacio
+PERSON Lubarskij
+PERSON Luca Cadalora
+PERSON Lucas Moreira Neves
+PERSON Luciano della Noce
+PERSON Luciano Pessina
+PERSON Luc Nilis
+PERSON Ludmila Engquist
+PERSON Ludmila Ninova
+PERSON Ludmila Richterova
+PERSON Luehrs
+PERSON Luigi Seguy
+PERSON Luis Baltasar
+PERSON Luis Castilla
+PERSON Luis Figo
+PERSON Luis Miguel Predrosa
+PERSON Luis Polonia
+PERSON Luis Raul Matos Azocar
+PERSON Luke Jensen
+PERSON Luke Kipkosgei
+PERSON Luminzu Shimaponda
+PERSON Lumir Mistr
+PERSON Luo Yigang
+PERSON Lupu
+PERSON Lyman
+PERSON Lynch
+PERSON Lynda Chalker
+PERSON Lynne O'Donnell
+PERSON Maakinen
+PERSON Maarten den Bakker
+PERSON Machado
+PERSON Machnee
+PERSON Madhusudan Munakarmi
+PERSON Magali Faure
+PERSON Magdalena Grzybowska
+PERSON Magdalena Maleeva
+PERSON Maggie Maleeva
+PERSON Magnus Gustafsson
+PERSON Magnus Larsson
+PERSON Mahmoud Abbas
+PERSON Maicel Malone
+PERSON Majid Takht Ravanchi
+PERSON Majoli
+PERSON Makinen
+PERSON MAKINEN
+PERSON Malcolm Marshall
+PERSON Malcolm Rifkind
+PERSON Maleeva
+PERSON MALEEVA
+PERSON Malgorzata Rydz
+PERSON Malivai Washington
+PERSON MaliVai Washington
+PERSON M. Alleyne
+PERSON Malu
+PERSON Mandolina Zelic
+PERSON Manfred Kanther
+PERSON Mangala Das
+PERSON Manuel Alvarado
+PERSON Marc Dollendorf
+PERSON Marc Dutroux
+PERSON Marc Duvillard
+PERSON Marcel Desailly
+PERSON Marcel Malone
+PERSON Marcelo
+PERSON MARCELO
+PERSON Marcelo Filippini
+PERSON Marcelo Levingston
+PERSON Marcelo Rios
+PERSON Marcelo Salas
+PERSON Marchal
+PERSON Marc Hottiger
+PERSON Marcin Mieciel
+PERSON Marcio Santos
+PERSON Marco Bode
+PERSON Marco Giampaolo
+PERSON Marco Lietti
+PERSON Marco Pascolo
+PERSON Marcos Ondruska
+PERSON Marco Vaccari
+PERSON Marc Overmars
+PERSON Marco Villa
+PERSON Marc Rosset
+PERSON Marcus Gronholm
+PERSON Marcus O'Sullivan
+PERSON Marcus Wills
+PERSON Marc-Vivien Foe
+PERSON Marc Wilkins
+PERSON Marek Citko
+PERSON Margaret Crowley
+PERSON Margaret McCullough
+PERSON Margit Borg
+PERSON Margret Crowley
+PERSON Mariaan de Swardt
+PERSON Maria Antonio Sanchez Lorenzo
+PERSON Mariacarla Bresciani
+PERSON Maria Jose Gaidano
+PERSON Maria Marco
+PERSON Maria Mutola
+PERSON Marianne Werdel Witmeyer
+PERSON Mariano Friedick
+PERSON Mariano Juan
+PERSON Maria Szabo
+PERSON Marie-Jose Perec
+PERSON Mar'ie Muhammad
+PERSON Marina Andrievskaqya
+PERSON Marina Trandenkova
+PERSON Marina Volkova
+PERSON Mariner Darren Bragg
+PERSON Mario Basler
+PERSON Mario Covas
+PERSON Mario Jardel
+PERSON Mario Stieglmair
+PERSON Mariusz
+PERSON Mark
+PERSON Mark Acre
+PERSON Mark Brooks
+PERSON Mark Cairns
+PERSON Mark Chaloner
+PERSON Mark Davis
+PERSON Mark Dekker
+PERSON Mark Dutroux
+PERSON Mark Ealham
+PERSON Mark Gildea
+PERSON Mark Gleeson
+PERSON Markgraaff
+PERSON Mark Hodges
+PERSON Mark Hutton
+PERSON Mark Ilott
+PERSON Mark Kennedy
+PERSON Mark Knowles
+PERSON Mark McNulty
+PERSON Mark Mouland
+PERSON Mark O'Meara
+PERSON Mark Pembridge
+PERSON Mark Petkovsek
+PERSON Mark Philippoussis
+PERSON Mark Prescott
+PERSON Mark Richardson
+PERSON Mark Roe
+PERSON Mark Rutherford
+PERSON Mark Spitz
+PERSON Mark Thompson
+PERSON Mark Trevelyan
+PERSON Markus Babbel
+PERSON Markus Feldhoff
+PERSON Mark Waugh
+PERSON Mark Wolf
+PERSON Mark Woodforde
+PERSON Marlene Thomsen
+PERSON Marriner
+PERSON Marta Fajardo
+PERSON Martens
+PERSON Martin
+PERSON Martina Hingis
+PERSON Martin Ayres
+PERSON Martin Brooks
+PERSON Martin Brundle
+PERSON Martin Damm
+PERSON Martin Erdmann
+PERSON Martinez
+PERSON MARTINEZ
+PERSON Martin Gates
+PERSON Martin Heath
+PERSON Martin Keino
+PERSON Martin Max
+PERSON Martin Stenning
+PERSON Martin Wolk
+PERSON Marty Cordova
+PERSON Marty Jemison
+PERSON Marty Nothstein
+PERSON Maruyama
+PERSON Marwan Muasher
+PERSON Mary Batchelor
+PERSON Maryborough
+PERSON Mary Joe Fernandez
+PERSON Mary Onyali
+PERSON Mary Pierce
+PERSON Masanaga Shiohara
+PERSON Masayoshi Takemura
+PERSON Maskhadov
+PERSON Maslova
+PERSON Masood
+PERSON Masserigne Ndiaye
+PERSON Massoud Barzani
+PERSON Massoud Rajavi
+PERSON Masterkova
+PERSON MASTERKOVA
+PERSON Mate Granic
+PERSON M. Atherton
+PERSON Mathias Ntawulikura
+PERSON Matos
+PERSON Mats
+PERSON Mats Lanner
+PERSON Mats Wilander
+PERSON Matthew Maynard
+PERSON Matthew Pinsent
+PERSON Matthias Sammer
+PERSON Matt Lawton
+PERSON Matt Stairs
+PERSON Matt Windows
+PERSON Maureen Carey
+PERSON Maureen Garrity
+PERSON Mauricio Hadad
+PERSON Maurizio Fondriest
+PERSON Max
+PERSON Max Anglert
+PERSON Max Delbruck
+PERSON Max Marriner
+PERSON Max Sciandri
+PERSON Max van Heeswijk
+PERSON Mayfair
+PERSON Mayfiar
+PERSON Mayor Antonio Gonzalez Garcia
+PERSON M. Azharuddin
+PERSON M. Bevan
+PERSON McCarthy
+PERSON McCullough
+PERSON McCurry
+PERSON McEwen
+PERSON McGrath
+PERSON McGriff
+PERSON MCMANAMAN
+PERSON MCRAE
+PERSON M. Dekker
+PERSON M. Dowman
+PERSON Medvedev
+PERSON MEDVEDEV
+PERSON Megawati
+PERSON Megawati Sukarnoputri
+PERSON Meghann Shaughnessy
+PERSON Mehmet Scholl
+PERSON Mehrtens
+PERSON MEHRTENS
+PERSON Melanie Cheary
+PERSON Melanie Schnell
+PERSON Melissa
+PERSON Melissa Russo
+PERSON Meluawati
+PERSON Melvin Nieves
+PERSON Meredith McGrath
+PERSON Meri
+PERSON Merlene Ottey
+PERSON Mette Bergmann
+PERSON Mia
+PERSON Michael
+PERSON Michael Andersson
+PERSON Michael Astrue
+PERSON Michael Atherton
+PERSON Michael Barton
+PERSON Michael Bevan
+PERSON Michael Campbell
+PERSON Michael Chang
+PERSON Michael Conlon
+PERSON Michael Doohan
+PERSON Michael Faust
+PERSON Michael Hubner
+PERSON Michael Johnson
+PERSON Michael Jones
+PERSON Michael Jonzon
+PERSON Michael Joyce
+PERSON Michael Marsh
+PERSON Michael Mollenbeck
+PERSON Michael Penrose
+PERSON Michael Perelstein
+PERSON Michael Posner
+PERSON Michael Reiziger
+PERSON Michael Sandstod
+PERSON Michael Schumacher
+PERSON Michael Slater
+PERSON Michael Stich
+PERSON Michael Stroud
+PERSON Michael Tebbutt
+PERSON Michael Tucker
+PERSON Michael van der Wolf
+PERSON Michel Bourlet
+PERSON Michele Bartoli
+PERSON Michele Buiatti
+PERSON Michele Fanton
+PERSON Michelle Ferris
+PERSON Michelle Freeman
+PERSON Michelle Harper
+PERSON Michelle Martin
+PERSON Michel Zanoli
+PERSON Mickelson
+PERSON MICKELSON
+PERSON Mickey Cochrane
+PERSON Mick McCarthy
+PERSON Miguel Angel Jimenez
+PERSON Miguel Angel Martin
+PERSON Mikael Tillstrom
+PERSON Mika Hakkinen
+PERSON Mika Salo
+PERSON Mike
+PERSON Mike Atherton
+PERSON Mike Clayton
+PERSON Mike Devereaux
+PERSON Mike Gatting
+PERSON Mike McCurry
+PERSON Mike Piazza
+PERSON Mike Stanley
+PERSON Mike Williams
+PERSON Miladin
+PERSON Miladin Becanovic
+PERSON Milan Kucan
+PERSON Milenko Kovasevic
+PERSON Miles Kan
+PERSON Miles Tunnicliff
+PERSON Milinko Pantic
+PERSON Miljenko Mumler
+PERSON MILLNS
+PERSON Milosevic
+PERSON Miltiadis Evert
+PERSON MILTIADIS EVERT
+PERSON Mind Games
+PERSON Mirhunisa Komarica
+PERSON Miriam Oremans
+PERSON Miron Cozma
+PERSON Miroslav Bak
+PERSON Mir Zaman Gul
+PERSON Misael Valerio
+PERSON Mitchell
+PERSON MITCHELL
+PERSON M. Karunanidhi
+PERSON M. Lathwell
+PERSON M. Lynch
+PERSON M. Maynard
+PERSON M. Moxon
+PERSON Moada
+PERSON Mobutu
+PERSON Mobutu Sese Seko
+PERSON Moeller
+PERSON Mohamed Abu Liwaya
+PERSON Mohamed Ali Khalfallah
+PERSON Mohamed Azharuddin
+PERSON Mohamed Fahim Rayyan
+PERSON Mohamed Moada
+PERSON Mohamed Zejjari
+PERSON Mohammad Akam
+PERSON Mohammad Akram
+PERSON Mohammad Dahman
+PERSON Mohammed
+PERSON Mohammed Azharuddin
+PERSON Mohammed Saleh
+PERSON Moin
+PERSON Moin Khan
+PERSON Moira Lynch
+PERSON Mokhoff
+PERSON Molata
+PERSON Monica Seles
+PERSON Mons Ivar Mjelde
+PERSON Montgomerie
+PERSON Moore
+PERSON Moreau
+PERSON Morris
+PERSON Morton
+PERSON Moses Kiptanui
+PERSON Moshe Sabag
+PERSON Mosier
+PERSON Mother
+PERSON Mother Teresa
+PERSON Mothusi Nkgowe
+PERSON Moura
+PERSON Moussa
+PERSON Mo Vaughn
+PERSON Movladi Udugov
+PERSON Moyer
+PERSON M. Ramprakash
+PERSON Mr Clean
+PERSON M. Saggers
+PERSON M. Sivasiththamparam
+PERSON M. Slater
+PERSON Mubarak
+PERSON Mulder
+PERSON MULDER
+PERSON Mullally
+PERSON Munakarmi
+PERSON Muralitharan
+PERSON Muratovic
+PERSON Murat Yakin
+PERSON Murphy Jensen
+PERSON Musa Hamiti
+PERSON Museeuw
+PERSON Mushota
+PERSON Mushtaq Ahmed
+PERSON Mustapha Ben Jaafar
+PERSON Mustapha Hadji
+PERSON Muster
+PERSON Mutawakel Taha
+PERSON Muthiah Muralitharan
+PERSON Mutola
+PERSON Muttiah Muralitharan
+PERSON M. Vaughan
+PERSON M. Walker
+PERSON M. Watkinson
+PERSON M. Waugh
+PERSON Myles Frechette
+PERSON Nabil Abu Rdainah
+PERSON Nacar
+PERSON Nadarajah Muralidaran
+PERSON Nahed Dahlan
+PERSON Nail Besirovic
+PERSON Naina
+PERSON Naina Yeltsin
+PERSON Naish
+PERSON Nana Miyaga
+PERSON Nana Miyagi
+PERSON Nancy Reagan
+PERSON Nanda Gopal Bhattacharya
+PERSON Nani Palkhivala
+PERSON Nanne Dahlman
+PERSON Naoko Kijimuta
+PERSON Naoko Sawamatsu
+PERSON Naoto Kan
+PERSON Napoleon III
+PERSON Narciso
+PERSON Nasser Hussain
+PERSON Nastase
+PERSON Nastja Rysich
+PERSON Natalia Baudone
+PERSON Natalia Voronova
+PERSON Natalya Sadova
+PERSON Natalya Shikolenko
+PERSON Natalya Sypron
+PERSON Natalya Torshina
+PERSON Natalya Voronova
+PERSON Natasha Zvereva
+PERSON Nathalie Dechy
+PERSON Nathalie Lancien
+PERSON Nathalie Tauziat
+PERSON Navjot Singh Sidhu
+PERSON Nawaz Sharif
+PERSON Nayan Mongia
+PERSON Neagle
+PERSON NEAGLE
+PERSON Neal Briggs
+PERSON Neale Fraser
+PERSON Necmettin Erbakan
+PERSON Neil Fairbrother
+PERSON Neil Hodgson
+PERSON Neil Williams
+PERSON Nele Zilinskiene
+PERSON Nelson Mandela
+PERSON Nelson Miles
+PERSON Nestor
+PERSON Netanyahu
+PERSON Neumann
+PERSON Neville Godwin
+PERSON Newcombe
+PERSON NEWCOMBE
+PERSON Newt Gingrich
+PERSON N. Fairbrother
+PERSON N. Furuya
+PERSON N. Hussain
+PERSON Niall Quinn
+PERSON Nicholas Gcaleka
+PERSON Nicholas Shaxson
+PERSON Nick Faldo
+PERSON Nick Knight
+PERSON Nicklas Kulti
+PERSON Nick Mokhoff
+PERSON Nick Nieland
+PERSON Nicky Boje
+PERSON Niclas Fasth
+PERSON Nicolas Charlier
+PERSON Nicolas Lapentti
+PERSON Nicolas Pereira
+PERSON Nicole Arendt
+PERSON Nicole Bradtke
+PERSON Nicole Brown Simpson
+PERSON Nicoleta Grasu
+PERSON Nigel Mobbs
+PERSON Nikki Campbell
+PERSON Nikolaus van der Pas
+PERSON Nilis
+PERSON NINE
+PERSON Nissan Kapeta
+PERSON Nitto Santapaola
+PERSON N.J. Bose
+PERSON N. Knight
+PERSON N. Lenham
+PERSON N. Llong
+PERSON N. Mongia
+PERSON Noel
+PERSON Noel Gallagher
+PERSON Nomo
+PERSON Norifumi Abe
+PERSON Norihiko Fujiwara
+PERSON Noriyuki Haga
+PERSON Norman
+PERSON Norm Charlton
+PERSON Norris
+PERSON North Island
+PERSON Norton
+PERSON Noureddine Morceli
+PERSON Nsanze Terence
+PERSON N. Speak
+PERSON Nunung Subandoro
+PERSON Nuour Marial
+PERSON N. Williams
+PERSON Obree
+PERSON O'Brien
+PERSON Oceano Cruz
+PERSON Odnosum
+PERSON O.J. Simpson
+PERSON O.K. Likkason
+PERSON Oksana Grichina
+PERSON Oksana Ovchinnikova
+PERSON Olaf Ludwig
+PERSON Olazabal
+PERSON OLAZABAL
+PERSON Olga Boshova
+PERSON Olga Chernyavskaya
+PERSON Oliver Bierhoff
+PERSON Oliver Kahn
+PERSON Oliver Ludwig
+PERSON Oliver Reck
+PERSON Olivia
+PERSON Olivier Grouillard
+PERSON Olivier Panis
+PERSON Olly
+PERSON Olo Brown
+PERSON Olofsson
+PERSON Olsza
+PERSON Omar Bongo
+PERSON Omar Karame
+PERSON Omar Lugo
+PERSON O'Meara
+PERSON Omer Akbel
+PERSON Oncins
+PERSON O'Neal
+PERSON O'Neill
+PERSON Ong Ewe Hock
+PERSON Orel Hershiser
+PERSON Ori Lewis
+PERSON Orlando Miller
+PERSON Orlando Pirates
+PERSON Oscar
+PERSON Oscar Tabarez
+PERSON Osmond Ezinwa
+PERSON Osvaldo Fenandez
+PERSON Otis Nixon
+PERSON Ottavio Palladini
+PERSON Ottey
+PERSON Ousmane Kaba
+PERSON Ove Sellberg
+PERSON Owen-Jones
+PERSON Owens
+PERSON OWENS
+PERSON Oyvind Rojahn
+PERSON Ozers
+PERSON Ozzie Guillen
+PERSON Pablo Campana
+PERSON Pablo Sanchez
+PERSON Padraig Harrington
+PERSON Palkhivala
+PERSON Palmeiro
+PERSON Pam Shriver
+PERSON Pang Chen
+PERSON Pantic
+PERSON Paola Suarez
+PERSON P. Arulanandam
+PERSON Pascal Jongsma
+PERSON Pascal Zuberbuehler
+PERSON Pat Cash
+PERSON Pat Hentgen
+PERSON Pat Manson
+PERSON Patrice Loko
+PERSON Patricia Djate
+PERSON Patricia Girard-Leno
+PERSON Patricia Lezama
+PERSON Patricia Smith
+PERSON Patricia Vowinkel
+PERSON Patrick Kluivert
+PERSON Patrick Rafter
+PERSON Patrick Sang
+PERSON Patrick Seale
+PERSON Patrick Stevens
+PERSON Patrick Sylvestre
+PERSON Patrik Sjoberg
+PERSON Patsy Kensit
+PERSON Pat Symcox
+PERSON Paul
+PERSON Paul Adams
+PERSON Paulao
+PERSON Paula Radcliffe
+PERSON Paul Bloch
+PERSON Paul Broadhurst
+PERSON Paul Curry
+PERSON Paul Eales
+PERSON Paul Gascoigne
+PERSON Paul Goydos
+PERSON Paul Haarhuis
+PERSON Pauline Davis
+PERSON Pauline Konga
+PERSON Paulinho Santos
+PERSON Paul Johnson
+PERSON Paul Koech
+PERSON Paul Lawrie
+PERSON Paul Malin
+PERSON Paul McGinley
+PERSON Paul McGrath
+PERSON Paul Newlove
+PERSON Paul O'Neill
+PERSON Paulo Sergio
+PERSON Paulo Sousa
+PERSON Paul Prichard
+PERSON Paul Reiffel
+PERSON Paul Sorrento
+PERSON Paul Stankowski
+PERSON Paul Strang
+PERSON Paul Tergat
+PERSON Paul Thompson
+PERSON Paul Ting
+PERSON Pavel Buran
+PERSON Pavlos Markou
+PERSON P. Cottey
+PERSON Pedro Diniz
+PERSON Pedro Lamy
+PERSON Pedro Linhart
+PERSON Pedro Martinez
+PERSON Peiris
+PERSON Pelletreau
+PERSON Penrose
+PERSON Perelstein
+PERSON Peres
+PERSON Perfetti
+PERSON Per Nyman
+PERSON Peron
+PERSON Perot
+PERSON Perry
+PERSON Pessina
+PERSON Peter
+PERSON Peter Atherton
+PERSON Peter Baker
+PERSON Peter Blackburn
+PERSON Peter Blank
+PERSON Peter Dirkx
+PERSON Peter Edwards
+PERSON Peter Greste
+PERSON Peter Griffiths
+PERSON Peter Hedblom
+PERSON Peter Johansson
+PERSON Peter Kox
+PERSON Peter Laca
+PERSON Peter Lerner
+PERSON Peter Machungwa
+PERSON Peter Martin
+PERSON Peter Mitchell
+PERSON Peter Munk
+PERSON Peter Nicol
+PERSON Peter O'Malley
+PERSON Peter Pieters
+PERSON Peter Roe
+PERSON Peter Smerdon
+PERSON Peter Tramacchi
+PERSON Pete Sampras
+PERSON Pete Wilson
+PERSON Petr
+PERSON Petra Begerow
+PERSON Petra Langrova
+PERSON Petre Roman
+PERSON Petr Gunda
+PERSON Petr Korda
+PERSON Petrovic
+PERSON Phan
+PERSON Phelan
+PERSON Phil
+PERSON Phil Babb
+PERSON Philip Blenkinsop
+PERSON Philip Cocu
+PERSON Philip Kibitok
+PERSON Philip Maslowe
+PERSON Philippe Seguin
+PERSON Philippoussis
+PERSON Philip Walton
+PERSON Philip Wilcox
+PERSON Phillip DeFreitas
+PERSON Phil Mickelson
+PERSON Phil Regan
+PERSON Phylis Smith
+PERSON Pier Francesco Chili
+PERSON Pierre Buyoya
+PERSON Pierre Claverie
+PERSON Pierre Fulke
+PERSON Pierre-Henri Raphanel
+PERSON Pieter Hendriks
+PERSON Pietro T.
+PERSON Pinas
+PERSON Pioline
+PERSON Piotr Grabowski
+PERSON Piotti
+PERSON Pires
+PERSON Pivotal
+PERSON PIVOTAL
+PERSON Pizzi
+PERSON P. Kantharoopan
+PERSON P. Nixon
+PERSON Pollock
+PERSON POLLOCK
+PERSON Pol Pot
+PERSON Polster
+PERSON Ponting
+PERSON Pope John Paul
+PERSON Popov
+PERSON POPOV
+PERSON P. Prichard
+PERSON Prakash Chandra Lohani
+PERSON Prasad
+PERSON Prasad Wagle
+PERSON Predrosa
+PERSON P. Reiffel
+PERSON Prescott
+PERSON PRESCOTT
+PERSON Preston
+PERSON Prince Abdullah
+PERSON Prince Charles
+PERSON Prince Rainier
+PERSON Princeton Lyman
+PERSON Prodi
+PERSON P. Simmons
+PERSON P. Strang
+PERSON Pudvah
+PERSON Puglisi
+PERSON Pushpakumara
+PERSON P.V. Krishnamoorthy
+PERSON P.W. Botha
+PERSON P. Weston
+PERSON Qiang Hong
+PERSON Qian Qichen
+PERSON Qidra
+PERSON Qotbuddin Hilal
+PERSON Quarracino
+PERSON Quigley
+PERSON Rabbani
+PERSON Rabinovich
+PERSON Radek Bonk
+PERSON Radka Bobkova
+PERSON Radka Zrubakova
+PERSON Rafael Moreno Turrent
+PERSON Rafael Palmeiro
+PERSON Rafiqul Islam
+PERSON Rafter
+PERSON Rahul Dravid
+PERSON Raichev
+PERSON Rainier
+PERSON Ralf Kelleners
+PERSON Ramon Delgado
+PERSON Ramon Machuca
+PERSON Ramon Vega
+PERSON Rana Sabbagh
+PERSON Ranatunga
+PERSON Randall
+PERSON Randy Johnson
+PERSON Rangarajan
+PERSON Raniero Iacomella
+PERSON Raphael Lakpe
+PERSON Raphael Lapke
+PERSON Raphael Riel
+PERSON Raphael Wicky
+PERSON Raphanel
+PERSON Rashid Latif
+PERSON Ravanelli
+PERSON RAVANELLI
+PERSON Ravindra Pushpakumara
+PERSON Ray Belim
+PERSON Ray Durham
+PERSON Ray Houghton
+PERSON Raymond Atteveld
+PERSON Raymond Mabus
+PERSON Raymond Russell
+PERSON R. Blakey
+PERSON R. Croft
+PERSON R. Dravid
+PERSON Reagan
+PERSON Rebecca Weinstein
+PERSON Redgrave
+PERSON REDGRAVE
+PERSON Redmond
+PERSON Reeve
+PERSON Regina Jacobs
+PERSON Regula Susana Siegfried
+PERSON Reiffel
+PERSON Remmy Mushota
+PERSON Rene Eijkelkamp
+PERSON Rene Schneider
+PERSON Rennae Stubbs
+PERSON Renzo Furlan
+PERSON Reppas
+PERSON Retief
+PERSON Retief Goosen
+PERSON Reuf Mehemdagic
+PERSON REUTER
+PERSON R. Fay
+PERSON R. Harden
+PERSON Ricardo Rosset
+PERSON Ricardo Sa Pinto
+PERSON Richard
+PERSON Richard Andrews
+PERSON Richard Black
+PERSON Richard Finn
+PERSON Richard Gephardt
+PERSON Richard Hadlee
+PERSON Richard Kosgei
+PERSON Richard Krajicek
+PERSON Richard Lamm
+PERSON Richard Lindsey
+PERSON Richard Sabourin
+PERSON Richardt
+PERSON Richard Wisinga
+PERSON Richard Witschge
+PERSON Richey Reneberg
+PERSON Richter
+PERSON Rickey Henderson
+PERSON Rick Huisman
+PERSON Ricky Ponting
+PERSON Ricky Willison
+PERSON Riedle
+PERSON Rifkind
+PERSON Rika Hiraki
+PERSON Riley
+PERSON R. Illingworth
+PERSON Rimma Maslova
+PERSON Rios
+PERSON Ripken
+PERSON R. Irani
+PERSON Rita Grande
+PERSON Riza Altun
+PERSON Rizzitelli
+PERSON R. Kaluwitharana
+PERSON R Leong
+PERSON Robbie Fowler
+PERSON .Robbie McEwen
+PERSON Robbie McEwen
+PERSON Rob Enderle
+PERSON Roberta Brunet
+PERSON Robert Allenby
+PERSON Robert Aranosian
+PERSON Robert Casey
+PERSON Robert Chabora
+PERSON Robert Coles
+PERSON Robert Coughlan
+PERSON Robert Croft
+PERSON Robert Frowick
+PERSON Robert Gutenstein
+PERSON Robert Karlsson
+PERSON Robert Kibet
+PERSON Robert Mugabe
+PERSON Roberto Alomar
+PERSON Roberto Baggio
+PERSON Roberto Benigni
+PERSON Roberto Carretero
+PERSON Roberto Jabali
+PERSON Robert Pelletreau
+PERSON Robert Pires
+PERSON Robert Reichel
+PERSON Robert Rubin
+PERSON Robert Schuman
+PERSON Robert Stefko
+PERSON Robin Brooke
+PERSON Robson
+PERSON ROBSON
+PERSON Roche
+PERSON Rocky Coppinger
+PERSON Rodica Matescu
+PERSON Rodney Eyles
+PERSON Rodney Mosier
+PERSON Rodrigo Carneiro
+PERSON Rodriguez
+PERSON Roe
+PERSON Roelofsen
+PERSON Roest
+PERSON Ro Gajadhar
+PERSON Rogel Nachum
+PERSON Roger Black
+PERSON Roger Chapman
+PERSON Roger Clemens
+PERSON Roger Grimwade
+PERSON Roger Hegi
+PERSON Roger Kingdom
+PERSON Rohan Robinson
+PERSON Rohrabacher
+PERSON Rolf Ekeus
+PERSON Rolf Fringer
+PERSON Rolf Sorensen
+PERSON Romano Prodi
+PERSON Romano Sion
+PERSON Romeo Wouden
+PERSON Romesh Kaluwitharana
+PERSON Romina Nicaretta
+PERSON Ronald Brunmayr
+PERSON Ronald de Boer
+PERSON Ronald Goldman
+PERSON Ronaldo
+PERSON Ronaldo Gonzalez
+PERSON Ronald Reagan
+PERSON Ronald Waterreus
+PERSON Ronan Rafferty
+PERSON Rona Young
+PERSON Ronnie Irani
+PERSON Ronny Brunswijk
+PERSON Ron Wright
+PERSON Roosevelts
+PERSON Rory Underwood
+PERSON Rosado
+PERSON Rosati
+PERSON Rosemary Bennett
+PERSON Roshan Mahanama
+PERSON Ross
+PERSON Rosset
+PERSON Ross McFarlane
+PERSON Ross Perot
+PERSON Rostislav Khotin
+PERSON Rouxel
+PERSON Roy
+PERSON Roy Aitken
+PERSON Royal Ascot
+PERSON Royce Clayton
+PERSON Roy Keane
+PERSON R. Ponting
+PERSON Ruben Amaro
+PERSON Ruben Kruger
+PERSON Rubens Barrichello
+PERSON Rubin
+PERSON Ruch
+PERSON Rudi Thiel
+PERSON Rudolf Gajdos
+PERSON Ruehe
+PERSON Ruggiero Rizzitelli
+PERSON Rui Barros
+PERSON Rui Correia
+PERSON Rui Costa
+PERSON Rui Madeira
+PERSON Rune Hansen
+PERSON Rupam Banerjee
+PERSON Rupert Murdoch
+PERSON Russell Claydon
+PERSON Rusty Greer
+PERSON Ruth
+PERSON Ruth Collin
+PERSON Ruth Perry
+PERSON Ruutel
+PERSON Ruxandra Dragomir
+PERSON Ryo
+PERSON Ryszard Hincza
+PERSON Ryszard Wieczorek
+PERSON Ryutaro Hashimoto
+PERSON Sabine Appelmans
+PERSON Sabine Hack
+PERSON Sabourin
+PERSON Sachin Tendulkar
+PERSON Saddam
+PERSON Saddam Hussein
+PERSON Sadiki
+PERSON Saeed
+PERSON Saeed Anwar
+PERSON Saeed Hasan
+PERSON Said
+PERSON Saint of the Gutters
+PERSON Sainz
+PERSON Sake
+PERSON Salah Hissou
+PERSON SALAH HISSOU
+PERSON Saleh
+PERSON Sali Berisha
+PERSON Salim Malik
+PERSON Salisbury
+PERSON Sally Barsosio
+PERSON Sally Boyden
+PERSON Salou
+PERSON Salou Bachirou
+PERSON Salvatore Botta
+PERSON Sameh Haj Yihye
+PERSON Samir Arnaut
+PERSON Sammy Sosa
+PERSON Sam Nelson
+PERSON Samokhalova
+PERSON Samper
+PERSON Sampras
+PERSON Samson
+PERSON Samson Kitur
+PERSON Samuel Graham
+PERSON Samuel Matete
+PERSON Sam Victor Malu
+PERSON Sam Wilson
+PERSON Sanath Jayasuriya
+PERSON Sanchez
+PERSON Sanchez Vicario
+PERSON Sanchez Zarraga
+PERSON Sandon Stolle
+PERSON Sandra
+PERSON Sandra Cacic
+PERSON Sandra Cecchini
+PERSON Sandra Dopfer
+PERSON Sandra O'Neal
+PERSON Sandrine Testud
+PERSON Santa Puglisi
+PERSON SAO PAULO
+PERSON Saqlain Mushtaq
+PERSON Sarah
+PERSON Sarah Brady
+PERSON Sarah Pitkowski
+PERSON Sarah Thorsett
+PERSON Sarka Kasparkova
+PERSON Satoshi Higashi
+PERSON Sayed Salahuddin
+PERSON S. Campbell
+PERSON Schein
+PERSON Schreuder
+PERSON Schultz
+PERSON Schulz
+PERSON Schumacher
+PERSON SCHUMACHER
+PERSON Schutte
+PERSON Schwabl
+PERSON Scifo
+PERSON Scott Brosius
+PERSON Scott Draper
+PERSON Scott Erickson
+PERSON Scott Hoch
+PERSON Scott Humphries
+PERSON Scott McCarron
+PERSON Scott McGrory
+PERSON Scott McLeod
+PERSON Scott Randall
+PERSON Scott Russell
+PERSON Scott Winkler
+PERSON Scott Young
+PERSON Sean Dundee
+PERSON Sean Fitzpatrick
+PERSON Sebastian Lindholm
+PERSON Sebastien Fournier
+PERSON Sebastien Lareau
+PERSON Sebastien Tortelli
+PERSON Seeliger
+PERSON Seguin
+PERSON Seguy
+PERSON Seiki Okuda
+PERSON Seles
+PERSON SELES HAS
+PERSON Seneferu
+PERSON Sergei Mironov
+PERSON Sergei Rogachev
+PERSON Sergei Yastrzhembsky
+PERSON Sergey Makarov
+PERSON Sergi Barjuan
+PERSON Sergi Bruguera
+PERSON Sergio
+PERSON Servais Knaven
+PERSON Servet Pellumbi
+PERSON Seve Ballesteros
+PERSON Severin Konan Kouame
+PERSON Sewa
+PERSON Sfeir
+PERSON S. Ganguly
+PERSON Shabir Ahmad Muhammad Jalil
+PERSON Shadab Kabir
+PERSON Shah
+PERSON Shahid Hasan Khan
+PERSON Shane Drew
+PERSON Shane Kelly
+PERSON Shane Reynolds
+PERSON Sharif
+PERSON Sharpe
+PERSON SHARPE
+PERSON Shaun Pollock
+PERSON Shay Given
+PERSON Shayne King
+PERSON Sheffield
+PERSON Shehu
+PERSON Shen Guofang
+PERSON Sheu
+PERSON Sheu Yuan-dong
+PERSON Shevchenko
+PERSON Shigeki
+PERSON Shigeki Maruyama
+PERSON Shimaponda
+PERSON Shimon Peres
+PERSON Shinichi Itoh
+PERSON Shi-Ting Wang
+PERSON Shiya Takeishi
+PERSON Shkirko
+PERSON Shumer
+PERSON Shuzo Matsuoka
+PERSON Sidhu
+PERSON SIDHU
+PERSON Sidia Toure
+PERSON Sieg
+PERSON Sigeki Maruyama
+PERSON Sigurd Njerve
+PERSON Silke Renk
+PERSON Silvia Farina
+PERSON Silvio Berlusconi
+PERSON Silvio Martinelli
+PERSON Simitis
+PERSON Simon
+PERSON Simon Brown
+PERSON Simon Crafar
+PERSON Simon Culhane
+PERSON Simon Frenz
+PERSON Simon Parke
+PERSON Simpson
+PERSON Sinead Delahunty
+PERSON Siraj Mia
+PERSON Sitanyi
+PERSON S. Jayasuriya
+PERSON Sjeng Schalken
+PERSON Skandalidis
+PERSON S. Lampitt
+PERSON S. Law
+PERSON Slawomir Wojciechowski
+PERSON Slight
+PERSON Slobodan Milosevic
+PERSON Smets
+PERSON Smicer
+PERSON SMICER
+PERSON Smirnov
+PERSON Smith
+PERSON Smoltz
+PERSON Smyth
+PERSON Snyman
+PERSON Sobotzik
+PERSON Sohail
+PERSON Solskjaer
+PERSON Sophia Rose
+PERSON Soprun
+PERSON Soren Jessen-Petersen
+PERSON Soren Lausberg
+PERSON Soren Lausgberg
+PERSON Sorensen
+PERSON SORENSEN
+PERSON Sorrento
+PERSON SORRENTO
+PERSON Sosa
+PERSON SOSA
+PERSON Sourav Ganguly
+PERSON Specter
+PERSON Spence
+PERSON Spot Thomson
+PERSON SPOT THOMSON
+PERSON Springer
+PERSON S. Renshaw
+PERSON Srinath
+PERSON Srutwa
+PERSON Stallone
+PERSON Stanley
+PERSON Stanojlovic
+PERSON Steady Eddie
+PERSON Stefaan De Clerck
+PERSON Stefan Edberg
+PERSON Stefan Kuntz
+PERSON Stefano Cimicchi
+PERSON Stefano Pescosolido
+PERSON Stefano Tilli
+PERSON Stefano Zanini
+PERSON Stefan Raichev
+PERSON Stefan Reuter
+PERSON Stefan Schwarz
+PERSON Steffen Freund
+PERSON Steffi Graf
+PERSON Stefka Kostadinova
+PERSON S. Tendulkar
+PERSON Stenning
+PERSON Stephane Chapuisat
+PERSON Stephane Guivarch
+PERSON Stephane Henchoz
+PERSON Stephane Ortelli
+PERSON Stephane Simian
+PERSON Stephanie
+PERSON Stephanie Deville
+PERSON Stephen Ames
+PERSON Stephen Field
+PERSON Stephen McAllister
+PERSON Stephen Meads
+PERSON Stephen Nisbet
+PERSON Stephen Pate
+PERSON Sterling Hitchcock
+PERSON Stevanin
+PERSON Steve Backley
+PERSON Steve Barnes
+PERSON Steve Brown
+PERSON Steve Conroy
+PERSON Steve Finley
+PERSON Steve Howey
+PERSON Steve Jones
+PERSON Steve McManaman
+PERSON Steven Bottomley
+PERSON Steven Redgrave
+PERSON Steven Vrolijk
+PERSON Steve Schneiter
+PERSON Steve Staunton
+PERSON Steve Stricker
+PERSON Steve Waugh
+PERSON Steve Webster
+PERSON Steve Weizman
+PERSON Stewart
+PERSON Stewart Ginn
+PERSON Stich
+PERSON STICH
+PERSON Stoltenberg
+PERSON Stranksy
+PERSON Streak
+PERSON Strobe Talbott
+PERSON Stromme
+PERSON Stuart Cage
+PERSON Stuart Law
+PERSON Sudradjat Djiwandono
+PERSON Suharto
+PERSON Suleyman Demirel
+PERSON Sultan
+PERSON Sunday Bada
+PERSON Sung-Hee Park
+PERSON Sun Jian
+PERSON Superman
+PERSON Susan Nadeau
+PERSON Susan Roosevelt Weld
+PERSON Susan Smith
+PERSON Suvit
+PERSON Suvit Maenmuan
+PERSON Sven Pieters
+PERSON Sven Struver
+PERSON Sven Teutenberg
+PERSON Svetlana Goncharova
+PERSON Svetlana Masterkova
+PERSON Svetlana Samokhalova
+PERSON Svetlana Zalevskaya
+PERSON S. Watkin
+PERSON S. Waugh
+PERSON Swift
+PERSON Sylvester Stallone
+PERSON Sylvie Florence
+PERSON Tadayuki Okada
+PERSON Tadeusz Awdankiewicz
+PERSON Taha
+PERSON Takeda
+PERSON Takeishi
+PERSON Takemura
+PERSON Takuma Aoki
+PERSON Talabani
+PERSON Talbott
+PERSON Tamas Erdei
+PERSON Tamer El Sawy
+PERSON Tami Whitlinger Jones
+PERSON Ta Mok
+PERSON Tan Fook
+PERSON Tang
+PERSON Tang Jiaxuan
+PERSON Tang Shubei
+PERSON Tansu Ciller
+PERSON Tanya Dubnicoff
+PERSON Tapie
+PERSON Tarak Das
+PERSON Tarango
+PERSON Tareq Aziz
+PERSON Tatiana Stiajkina
+PERSON Tatyana
+PERSON Tatyana Dmitrieva
+PERSON Tatyana Jecmenica
+PERSON Tatyana Motkova
+PERSON Taument
+PERSON Tauziat
+PERSON Tavarez
+PERSON Taylor
+PERSON Tea Vikstedt-Nyman
+PERSON Teemu Selanne
+PERSON Telfer
+PERSON TELFER
+PERSON Tendulkar
+PERSON TENDULKAR
+PERSON Teravainen
+PERSON Terence
+PERSON Teresa
+PERSON Terry Kennedy
+PERSON Terry Mulholland
+PERSON Terry Pendleton
+PERSON Terry Phelan
+PERSON Terry Price
+PERSON Terry Steinbach
+PERSON Teutenberg
+PERSON Thabo Mbeki
+PERSON Theodore Roosevelt
+PERSON Theodoros Pangalos
+PERSON Therese
+PERSON Theybers
+PERSON Thiel
+PERSON Thierry Dehaan
+PERSON Thierry Henry
+PERSON Thomas Bjorn
+PERSON Thomas Bscher
+PERSON Thomas Daschle
+PERSON Thomas Enqvist
+PERSON Thomas Gogele
+PERSON Thomas Haessler
+PERSON Thomas Helmer
+PERSON Thomas Johansson
+PERSON Thomas Muster
+PERSON Thomas Nyariki
+PERSON Thomas Radstrom
+PERSON Thomas S
+PERSON Thomas Sabotzik
+PERSON Thomas Strunz
+PERSON Thompson
+PERSON Thomson
+PERSON THOMSON
+PERSON Thon
+PERSON Thorpe
+PERSON Tijjani Babangida
+PERSON Tillekeratne
+PERSON Tillstrom
+PERSON Tim Belcher
+PERSON Tim Forsyth
+PERSON Tim Goldiman
+PERSON Tim Guldimann
+PERSON Tim Hancock
+PERSON Tim Henman
+PERSON Tim Herron
+PERSON Tim Lobinger
+PERSON Timothy Reid
+PERSON Tim Wakefield
+PERSON Tina Kirzan
+PERSON Tina Krizan
+PERSON T. Munton
+PERSON Todd Hollandsworth
+PERSON Todd Martin
+PERSON Todd Stottlemyre
+PERSON Todd Woodbridge
+PERSON Todor Zhivkov
+PERSON Tomas Carbonell
+PERSON Tomas Cibola
+PERSON Tomas Post
+PERSON Tomasz Moskal
+PERSON Tom Candiotti
+PERSON Tom Cruise
+PERSON Tom Daschle
+PERSON Tom Ikimi
+PERSON Tom Kiernan
+PERSON Tom Lehman
+PERSON Tom Lodge
+PERSON Tommi Makinen
+PERSON Tommy Haas
+PERSON Tommy Martyn
+PERSON Tommy Thompson
+PERSON Tom Pukstys
+PERSON Tom Steels
+PERSON Tom Watson
+PERSON Tony
+PERSON Tony Cascarino
+PERSON Tony Eusebio
+PERSON Tony Gwynn
+PERSON Tony Hall
+PERSON Tony Hands
+PERSON Tony Johnstone
+PERSON Tony Roche
+PERSON Tony Taylor
+PERSON Tony Vairelles
+PERSON Tony Whiteman
+PERSON Toomas Savi
+PERSON Toronto Dominion
+PERSON Torrance Zellner
+PERSON Tortelli
+PERSON Toure
+PERSON Tracy
+PERSON Tracy Roosevelt
+PERSON Traore
+PERSON Travis Fryman
+PERSON Trenidad Hubbard
+PERSON Tretschok
+PERSON Tristan Hoffman
+PERSON Tritan Shehu
+PERSON Trond Bathel
+PERSON Troy Corser
+PERSON Troy O'Leary
+PERSON Trulsen
+PERSON Tsang
+PERSON Tuan Quac Phan
+PERSON Tulio
+PERSON Tungky Ariwibowo
+PERSON Turabi
+PERSON Tutu
+PERSON Tyler Houston
+PERSON Ukyo Katayama
+PERSON Ulysses Grant
+PERSON Umar Shelling
+PERSON Umberto Bossi
+PERSON Utomo
+PERSON Vaclavas Kidikas
+PERSON Vaclav Havel
+PERSON Vairelles
+PERSON Valdo
+PERSON Valentin Valkov
+PERSON Valkov
+PERSON Valkucak
+PERSON Van Arum
+PERSON van der Sar
+PERSON Van Doorn
+PERSON Van Gastel
+PERSON Van Heeswijk
+PERSON VAN HEESWIJK
+PERSON Van Hintum
+PERSON VanLandingham
+PERSON Van Wanrooy
+PERSON Vasilopoulos
+PERSON Vass
+PERSON Vassiliy Kaptyukh
+PERSON V. Drakes
+PERSON Veerle De Jaeghere
+PERSON Vega
+PERSON Veldman
+PERSON Venkatesh Prasad
+PERSON Verbjorn Rodal
+PERSON Verona
+PERSON Vialle
+PERSON Vicente
+PERSON Vicente Solano Lima
+PERSON Vierklau
+PERSON Viktor Chernomyrdin
+PERSON Villa
+PERSON Ville Peltonen
+PERSON Vincent Malakwen
+PERSON Vincent Pamire
+PERSON Vince Spadea
+PERSON Vince Wells
+PERSON Vinny Castilla
+PERSON Vinod Kambli
+PERSON Violeta Chamorro
+PERSON Virgilius Alekna
+PERSON Virginia Ruano-Pascual
+PERSON Virna De Angeli
+PERSON Vitaly Smirnov
+PERSON Vitor Baia
+PERSON Vivit Chatuparisut
+PERSON V. Kambli
+PERSON Vladimir Dubrovshchik
+PERSON Vladimir Smicer
+PERSON Vladimir Zhirinovsky
+PERSON Vladislav Rodimov
+PERSON Vogts
+PERSON VOGTS
+PERSON Volker Ruehe
+PERSON Volkova
+PERSON Von Heesen
+PERSON Voskamp
+PERSON Votava
+PERSON V. Prasad
+PERSON V. Solanki
+PERSON Vukasin Filipovic
+PERSON Vurens
+PERSON Vyacheslav Ekimov
+PERSON Vyacheslav Tikhomirov
+PERSON Wafa Amr
+PERSON Wakefield
+PERSON Wall
+PERSON Wally Joyner
+PERSON Wally Whitehurst
+PERSON Walter Little
+PERSON Wang Chen
+PERSON Wang Shi-Ting
+PERSON Waqar
+PERSON Waqar Younis
+PERSON Warhurst
+PERSON Warren Buffett
+PERSON Washington
+PERSON Wasim
+PERSON Wasim Akram
+PERSON WASIM AKRAM
+PERSON Wataru Kubo
+PERSON Wataru Yoshikawa
+PERSON W. Athey
+PERSON Watts
+PERSON Wayne
+PERSON Wayne Ferreira
+PERSON Wayne Jordan
+PERSON Wayne Riley
+PERSON Wayne Westner
+PERSON Weaver
+PERSON WEAVER
+PERSON Weinstein
+PERSON Weiss
+PERSON Weizman
+PERSON Welch
+PERSON Weld
+PERSON Wengert
+PERSON Werner Zwingmann
+PERSON Wessels
+PERSON Westlake
+PERSON White
+PERSON Whitehurst
+PERSON Whittall
+PERSON Widness
+PERSON Wijaya Indra
+PERSON Wijffels
+PERSON Wilfried Peeters
+PERSON Wilhelmina
+PERSON Will Carling
+PERSON William Boston
+PERSON William Fox
+PERSON William Goldiner
+PERSON William Goldman
+PERSON William Istafanus
+PERSON William J. Mercer
+PERSON William Kiptum
+PERSON William Luehrs
+PERSON William O'Neill
+PERSON William Perry
+PERSON Williams
+PERSON William Schomberg
+PERSON William Tanui
+PERSON William VanLandingham
+PERSON William Weld
+PERSON Willie Blair
+PERSON Willie Wood
+PERSON Wilmots
+PERSON Wilson
+PERSON Wim Jonk
+PERSON Wim Omloop
+PERSON Winkler
+PERSON Winston Bogarde
+PERSON Wisinga
+PERSON Witechek
+PERSON Witschge
+PERSON W. Khan
+PERSON W.N.F. Chandraratne
+PERSON W. Noon
+PERSON Wojtek Lazarek
+PERSON Wolf
+PERSON Wolfgang Ischinger
+PERSON Wolfgang Kotzmann
+PERSON Wolfgang Kreissig
+PERSON Woodforde
+PERSON Woolmer
+PERSON Woosnam
+PERSON Worku Bekila
+PERSON Wouden
+PERSON Wreh
+PERSON W. Weston
+PERSON Xavier Gravelaine
+PERSON Xhelili
+PERSON Yannos Papandoniou
+PERSON Yap Kim Hock
+PERSON Yasser Arafat
+PERSON Yassin
+PERSON Yastrezhembsky
+PERSON Yasushi Akashi
+PERSON Yayuk Basuki
+PERSON Yehiel Amitai
+PERSON Yekaterina Podkopayeva
+PERSON Yelena
+PERSON Yelena Gulyayeva
+PERSON Yeltsin
+PERSON Yevgeny Kafelnikov
+PERSON Yevgeny Primakov
+PERSON Yi Jing-Qian
+PERSON Yitzhak Mordechai
+PERSON Yoelvis Quesada
+PERSON Yoka Lye Mudaba
+PERSON Yone Kamio
+PERSON Yoshikawa
+PERSON Younes El Aynaoui
+PERSON Younis
+PERSON Younnes El Aynaoui
+PERSON Yukio Hatoyama
+PERSON Yulia Graudin
+PERSON Yuri Nikiforov
+PERSON Yuuchi Takeda
+PERSON Yuuichi Takeda
+PERSON Yvan Quentin
+PERSON Yvegeny Kafelnikov
+PERSON Zagalo
+PERSON Zarak Jahan Khan
+PERSON Zardari
+PERSON Zbigniew Siemiatkowski
+PERSON Zdenek Svoboda
+PERSON Zeljko Petrovic
+PERSON Zeng Yaqiong
+PERSON Zeyer
+PERSON Zhang Ning
+PERSON Zhanna Pintusevich
+PERSON Zhirinovsky
+PERSON Zickler
+PERSON Zicot
+PERSON Zieger
+PERSON Zina Garrison Jackson
+PERSON Zinzan Brooke
+PERSON Zitelli
+PERSON Zoran Kundic
+PERSON Zorc
+PERSON Zubair Jahan Khan
+PERSON Zundra Feagin
