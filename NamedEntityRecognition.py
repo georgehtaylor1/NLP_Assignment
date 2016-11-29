@@ -81,7 +81,7 @@ def get_training_entities(file_count):
         # print entity
         # print tagged_entity
         # print tag
-    print()
+    print("")
     print("%d training entities loaded" % len(entities))
     return entities
 
@@ -121,10 +121,10 @@ def create_grammar(ent_list):
 
 
 # Delete all files in the untagged directory with extension .result.txt
-def delete_files():
-    for f in os.listdir(untagged_path):
+def delete_files(active_path):
+    for f in os.listdir(active_path):
         if f.endswith(".result"):
-            os.remove(untagged_path + f)
+            os.remove(active_path + f)
 
 
 def is_name(entity):
@@ -163,18 +163,18 @@ def is_organization(entity, past_entities):
     return False
 
 
-def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, more_ent_set, past_entities, prev_word):
+def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, sample_entities, past_entities, prev_word):
     es = entity.split()
     # es = [w for w in es if not w in titles]
     entity_name = " ".join(es)
     entity = "_".join(es)
     entity = re.sub(r'[^\P{P}\w\.\_]+', "", entity)
 
-    if (entity, "PERSON") in more_ent_set:
+    if (entity, "PERSON") in sample_entities:
         return "PERSON"
-    if (entity, "LOCATION") in more_ent_set:
+    if (entity, "LOCATION") in sample_entities:
         return "LOCATION"
-    if (entity, "ORGANIZATION") in more_ent_set:
+    if (entity, "ORGANIZATION") in sample_entities:
         return "ORGANIZATION"
 
     if entity_name in ieer_entity_names:
@@ -231,7 +231,7 @@ def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, more_
 
 
 # Complete the NER
-def ner(grammar, file_count, test=True):
+def ner(grammar, sample_entities, file_count, test=True):
 
     active_path = test_path if test else untagged_path
 
@@ -247,7 +247,9 @@ def ner(grammar, file_count, test=True):
     more_ent_set = [(e.split()[1], e.split()[0]) for e in more_ent_set]
     more_ent_set = set(more_ent_set)
 
-    delete_files()
+    sample_entities |= more_ent_set
+
+    delete_files(active_path)
 
     onlyfiles = [f for f in listdir(active_path) if isfile(join(active_path, f))]
     if ".DS_Store" in onlyfiles:
@@ -312,10 +314,14 @@ def ner(grammar, file_count, test=True):
                 if prev_words[2] == '':
                     prev_word = None
                 else:
-                    prev_word = prev_words[0].split()[-1]
+                    spl_prev_word = prev_words[0].split()
+                    if spl_prev_word != []:
+                        prev_word = spl_prev_word[-1]
+                    else:
+                        prev_word = None
 
                 # Get an initial relation for the entity
-                rel = get_relation(ne[0], ieer_dict, ieer_names, dbp_ent_set, more_ent_set, related_entities[-10:], prev_word)
+                rel = get_relation(ne[0], ieer_dict, ieer_names, dbp_ent_set, sample_entities, related_entities[-10:], prev_word)
                 if rel is not None:
                     related_entities += [(ne[0], rel)]
                     tagged_sentence = tagged_sentence.replace(ne[0],
@@ -323,7 +329,7 @@ def ner(grammar, file_count, test=True):
                 elif " and " in ne[0]:
                     ne_split = ne[0].split(" and ")
                     for ne_s in ne_split:
-                        rel_s = get_relation(ne_s, ieer_dict, ieer_names, dbp_ent_set, more_ent_set, related_entities[-10:], None)
+                        rel_s = get_relation(ne_s, ieer_dict, ieer_names, dbp_ent_set, sample_entities, related_entities[-10:], None)
                         if rel_s is not None:
                             related_entities += [(ne_s, rel_s)]
                             tagged_sentence = tagged_sentence.replace(ne_s,
@@ -339,7 +345,7 @@ def ner(grammar, file_count, test=True):
 
         with open(active_path + f + ".result", 'w') as fi:
             fi.write(" ".join(tagged_sentences))
-
+    print("")
     print("%d entities successfully extracted and tagged" % len(related_entities))
     print("%d recognised entities rejected" % len(non_related_entities))
     print("%d files searched" % file_count)
@@ -388,8 +394,9 @@ def run(file_count, print_statistics=True, test=True):
     print("")
     print("Completing NER on training data")
     print("--------------")
+    sample_entities = set([(x[0], x[3]) for x in training_entities])
     stime = time.time()
-    related_entities, failed_entities = ner(grammar, file_count, False)
+    related_entities, failed_entities = ner(grammar, sample_entities, file_count, False)
     etime = time.time()
     elapsed_time = etime - stime
     print("NER completed in %d seconds" % elapsed_time)
@@ -406,8 +413,12 @@ def run(file_count, print_statistics=True, test=True):
         print("")
         print("Completing NER on test data")
         print("---------------------------")
-        related_test_entities, failed_test_entities = ner(grammar, file_count, True)
-        success_percentage = statistics(None, related_entities, failed_entities, None, True)
+        stime = time.time()
+        related_test_entities, failed_test_entities = ner(grammar, sample_entities, file_count, True)
+        etime = time.time()
+        elapsed_time = etime - stime
+        print("NER completed in %d seconds" % elapsed_time)
+        test_success_percentage = statistics(None, related_entities, failed_entities, None, True)
 
     print("")
     print("============")
@@ -418,7 +429,8 @@ def run(file_count, print_statistics=True, test=True):
 
     return training_entities, grammar,\
         related_entities, failed_entities, missing_relations,\
-        related_test_entities, failed_test_entities, success_percentage
+        related_test_entities, failed_test_entities, \
+        success_percentage, test_success_percentage
 
     # remove all .result.txt files
     # for file in files:
