@@ -5,6 +5,7 @@ from nltk.corpus import ieer
 from nltk.corpus import names as nltknames
 from SPARQLWrapper import SPARQLWrapper, JSON
 import re
+from nltk.tokenize.punkt import PunktSentenceTokenizer
 import sys
 from collections import defaultdict
 import time
@@ -12,7 +13,8 @@ import os
 
 training_path = "/home/george/nltk_data/corpora/assignment/nlp_training/training/"
 untagged_path = "/home/george/nltk_data/corpora/assignment/nlp_untagged/"
-test_path = "/home/george/nltk_data/corpora/assignment/wsj_New_test_data/"
+test_path_tagged = "/home/george/nltk_data/corpora/assignment/test_tagged/"
+test_path_untagged = "/home/george/nltk_data/corpora/assignment/test_untagged/"
 
 dbpedia_path_ttl = "/home/george/PycharmProjects/nlp_assignment/wrd_instances.ttl"
 dbpedia_path_csv = "/home/george/PycharmProjects/nlp_assignment/wrd_instances.csv"
@@ -59,13 +61,10 @@ def is_name(entity):
 
 def extract_name(text):
     names = text.split(", ")
-    for n in names:
-        if is_name(n):
-            return n
-    return None
+    return names[0]
 
 
-def parse_date(time_text):
+def parse_time(time_text):
     time_parse_regex = re.compile(r'(\d{1,2})([:.,](\d{2}))?(\s?([aApP]\.?[mM]\.?))?')
     hrs, _, mns, _, pm = re.findall(time_parse_regex, time_text)[0]
     if not pm == '':
@@ -74,78 +73,88 @@ def parse_date(time_text):
     return hrs + mns
 
 
-def process_abstract(abstract, header_dict):
-    sentences_tokenized = nltk.sent_tokenize(abstract)
+def train_sent_tokenizer():
+    onlyfiles = [f for f in listdir(training_path) if isfile(join(training_path, f))]
+    if ".DS_Store" in onlyfiles:
+        onlyfiles.remove(".DS_Store")
+
     sentences = []
-    for sent in sentences_tokenized:
-        if "\n" in sent:
-            sents = sent.split("\n")
-            for s in sents[:-1]:
-                sentences += [s + "\n"]
-            if not sents[-1] == "":
-                sentences += [sents[-1]]
+    for f in onlyfiles[:20]:
+        with open(training_path + f, 'r') as mf:
+            text = mf.read()
+        #print(text)
+        sents_pattern = r'<sentence>.*?</sentence>'
+        sents = re.findall(sents_pattern, text, re.DOTALL)
+        #print(sents)
+        sentences += [x[10:-11] for x in sents]
+
+    #print sentences
+    tokenizer = PunktSentenceTokenizer()
+    tokenizer.train(". ".join(sentences))
+    return tokenizer
+
+
+def process_abstract(abstract, header_dict):
+
+    time_regex = re.compile(r'(\d{1,2}([:.,]\d{2})?(\s?([aApP]\.?[mM]\.?))?)')
+    times = re.findall(time_regex, abstract)
+    times = [x[0] for x in times]
+
+    if 'stime' in header_dict:
+        for t in times:
+            if parse_time(t) == header_dict['stime']:
+                abstract = abstract.replace(t, "<stime>" + t + "</stime>")
+
+    if 'etime' in header_dict:
+        for t in times:
+            if parse_time(t) == header_dict['etime']:
+                abstract = abstract.replace(t, "<etime>" + t + "</etime>")
+
+    if 'location' in header_dict:
+        abstract = abstract.replace(header_dict['location'], "<location>" + header_dict['location'] + "</location>")
+
+    if 'speaker' in header_dict:
+        abstract = abstract.replace(header_dict['speaker'], "<speaker>" + header_dict['speaker'] + "</speaker>")
+
+    # Split up the sentences in the abstract
+    tokenizer = train_sent_tokenizer()
+    sentences_tokenized = tokenizer.tokenize(abstract)
+    print(sentences_tokenized)
+    text = ""
+
+    speaker_set = set()
+
+    # Add tags to the sentences
+    for sentence in sentences_tokenized:
+
+        # Process sentence tags for the sentence
+        if sentence[0:1] == "\n":
+            new_sent = "\n<sentence>" + sentence[1:-1] + "</sentence>."
         else:
-            sentences += [sent]
+            new_sent = "<sentence>" + sentence[:-1] + "</sentence>."
 
-    tagged_sentences = []
-    for sentence in sentences:
-
-        # Tokenize and POS tag the sentence
-        sentence2 = nltk.word_tokenize(sentence)
-        sentence3 = nltk.pos_tag(sentence2)
-        print sentence3
-    """
         # Parse the sentence using the given grammars
-        parser = nltk.RegexpParser(grammar)
+        pos_tagged_sent = nltk.pos_tag(nltk.word_tokenize(sentence))
+        parser = nltk.RegexpParser("SP: {<NNP><NNP>}")
         entities = []
-        parse_tree = parser.parse(sentence3)
+        parse_tree = parser.parse(pos_tagged_sent)
+        #print(parse_tree)
 
-        # Extract the entities from the parse tree
         for subtree in parse_tree.subtrees():
-            if subtree.label() in ["PERSON", "ORGANIZATION", "LOCATION"]:
-                entities += [(subtree.leaves(), subtree.label())]
+            if subtree.label() == "SP":
+                entities += [subtree.leaves()]
+        speakers = [" ".join([y[0] for y in z]) for z in entities]
+        print(speakers)
 
-        # Extract the entity names
-        named_entities = [(" ".join(x[0]), x[1]) for x in [([z[0] for z in y[0]], y[1]) for y in entities]]
+        for speaker in speakers:
+            if not ('Host' in header_dict and header_dict['Host'] != speaker):
+                if speaker in speaker_set or is_name(speaker):
+                    speaker_set.add(speaker)
+                    new_sent = new_sent.replace(speaker, "<speaker>" + speaker + "</speaker>")
 
-        tagged_sentence = sentence
-        for ne in named_entities:
+        text += new_sent
 
-            # Get the word prior to the occurence of the entity in the sentence
-            prev_words = sentence.partition(" %s " % ne[0])
-            if prev_words[2] == '':
-                prev_word = None
-            else:
-                spl_prev_word = prev_words[0].split()
-                if spl_prev_word != []:
-                    prev_word = spl_prev_word[-1]
-                else:
-                    prev_word = None
-
-            # Get an initial relation for the entity
-            rel = get_relation(ne[0], ieer_dict, ieer_names, dbp_ent_set, sample_entities, related_entities[-10:],
-                               prev_word)
-            if rel is not None:
-                related_entities += [(ne[0], rel)]
-                tagged_sentence = tagged_sentence.replace(ne[0],
-                                                          "<ENAMEX TYPE=\"" + rel + "\">" + ne[0] + "</ENAMEX>")
-            elif " and " in ne[0]:
-                ne_split = ne[0].split(" and ")
-                for ne_s in ne_split:
-                    rel_s = get_relation(ne_s, ieer_dict, ieer_names, dbp_ent_set, sample_entities,
-                                         related_entities[-10:], None)
-                    if rel_s is not None:
-                        related_entities += [(ne_s, rel_s)]
-                        tagged_sentence = tagged_sentence.replace(ne_s,
-                                                                  "<ENAMEX TYPE=\"" + rel_s + "\">" + ne_s + "</ENAMEX>")
-            else:
-                non_related_entities += [ne]
-
-        # print("%d, %d" % (len(related_entities), len(non_related_entities)))
-        tagged_sentences += [tagged_sentence]
-        # print(tagged_sentence)
-    """
-    return None
+    return text
 
 
 def process_training_file(file_contents):
@@ -183,21 +192,15 @@ def process_training_file(file_contents):
                 st, et = get_times(v)
                 if st is not None:
                     new_line = new_line.replace(st, "<stime>" + st + "</stime>")
-                    header_dict["start_time"] = parse_date(st)
+                    header_dict["stime"] = parse_time(st)
                 if et is not None:
                     new_line = new_line.replace(et, "<etime>" + et + "</etime>")
-                    header_dict["end_time"] = parse_date(et)
+                    header_dict["etime"] = parse_time(et)
 
             # Check if the location can be matched
             if t == "Place":
                 new_line = new_line.replace(v.lstrip(), "<location>" + v.lstrip() + "</location>")
-
-            # Check if the speaker can be matched
-            if t == "Host":
-                name = extract_name(v.lstrip())
-                new_line = new_line.replace(name, "<speaker>" + name + "</speaker>")
-                header_dict["speaker"] = name
-
+                header_dict['location'] = v.lstrip()
 
             result_text += "\n" + new_line
 
@@ -213,8 +216,9 @@ def process_training_file(file_contents):
     abstract = content_split[(i + 1):]
     abstract = "\n".join(abstract)
     abstract = process_abstract(abstract, header_dict)
-    print(result_text)
+    #print(result_text)
     print(abstract)
+    result_text += abstract
     return result_text
 
 

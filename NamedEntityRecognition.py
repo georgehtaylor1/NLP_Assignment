@@ -293,7 +293,7 @@ def ner(grammar, sample_entities, file_count, test=True):
             sentence2 = nltk.word_tokenize(sentence)
             sentence3 = nltk.pos_tag(sentence2)
 
-            # Parse the sentence using the given grammars
+            # Parse the sentence using the given grammar
             parser = nltk.RegexpParser(grammar)
             entities = []
             parse_tree = parser.parse(sentence3)
