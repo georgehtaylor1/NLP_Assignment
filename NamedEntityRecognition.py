@@ -21,9 +21,9 @@ more_entities = "/home/george/PycharmProjects/nlp_assignment/more_entities.txt"
 names = set().union(nltknames.words("male.txt"), nltknames.words("female.txt"))
 
 titles = {"Mr.", "Mrs.", "Dr.", "Sir", "Prof.", "Professor", "Ms.", "Rev.", "President", "Pres.", "Judge", "Mayor",
-          "Sr", "Jr"}
+          "Sr", "Jr", "King", "Queen", "Prince", "Princess"}
 business_words = {"Co.", "Company", "Assoc.", "Association", "Inc.", "Incorporated", "Inc", "Corp.", "Corporation",
-                  "Ltd.", "Group", "PLC", "Club", "Court", "Commission", "Bureau", "Ministry", "Institute"}
+                  "Ltd.", "Group", "PLC", "Club", "Court", "Commission", "Bureau", "Ministry", "Institute", "School"}
 
 location_prev_words = {"in"}
 person_prev_words = {}
