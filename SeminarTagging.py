@@ -1,14 +1,9 @@
 from os import listdir
 from os.path import isfile, join
 import nltk
-from nltk.corpus import ieer
 from nltk.corpus import names as nltknames
-from SPARQLWrapper import SPARQLWrapper, JSON
 import re
 from nltk.tokenize.punkt import PunktSentenceTokenizer
-import sys
-from collections import defaultdict
-import time
 import os
 
 training_path = "/home/george/nltk_data/corpora/assignment/nlp_training/training/"

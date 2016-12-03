@@ -205,7 +205,7 @@ def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, sampl
     if not entity in dbp_ent_set:
         return None
 
-    if False:
+    if True:
         sp = SPARQLWrapper("http://dbpedia.org/sparql")
         sp.setQuery(""" select ?t
                         where {
