@@ -96,7 +96,25 @@ The process for completing the named entity recognition is as follows:
 \item Test the grammar on the untagged test data.
 \item Load the entities from the tagged test data and calculate statistics for the NER performance.
 \end{enumerate}
-When testing on the training data, the program can produce a precision of 67.19\% and recall of 67.92\%, however because the program stores the entities and relations loaded from the tagged data this is a somewhat inflated result as the entities are in the untagged data are common to the untagged data. When completing NER on the test data
+When testing on the training data, the program can produce a precision of 67.19\% and recall of 67.92\%, however because the program stores the entities and relations loaded from the tagged data this is a somewhat inflated result as the entities are in the untagged data are common to the untagged data. When completing NER on the test data the program can still achieve a precision of 63.7\% and recall of 61.88\% so the while this is noticably less than when run on the training data it is still close enough that we can conclude that the system is still successful when the entities from the training data are independent of the entities in the test data.
+
+\section*{Observations}
+As previously mentioned, the grammar is created by taking only those rules that have frequency greater than the average multiplied by 0.7. Testing the program with different values for the multiplier yields the following results:
+
+\begin{center}
+	
+\begin{tabular}{| c || c | c |}
+\hline
+Multiplier & Precision & Recall \\
+\hline
+0.7 & 63.7 & 61.88 \\
+
+\hline
+\end{tabular}
+
+
+\end{center}
+
 
 
 \bibliography{NERinWSJ_bib}

@@ -109,7 +109,7 @@ def compile_pos_tags(ent_list):
 
 
 # Create the grammar for the specific type of entity
-def create_grammar(ent_list):
+def create_grammar(ent_list, grammar_multiplier):
     illegal_chars = set([":", ")", "("])
 
     # Get a list of the POS tags for the entities and their type [(['NNP', 'NNP'], "PERSON")]
@@ -119,7 +119,7 @@ def create_grammar(ent_list):
     pos_frequencies = compile_pos_tags(ent_list)
     avg_freq = sum(pos_frequencies.values()) / len(pos_frequencies)
 
-    tag_list = [x for x in tag_list if pos_frequencies[(" ".join(x[0]), x[1])] > avg_freq * 0.7]
+    tag_list = [x for x in tag_list if pos_frequencies[(" ".join(x[0]), x[1])] > avg_freq * grammar_multiplier]
     tag_list = sorted(tag_list, key=lambda l: pos_frequencies[(" ".join(l[0]), l[1])] - (len(l[0]) ** 100))
 
     # Create the grammar
@@ -395,7 +395,7 @@ def statistics(training_entities, related_entities, failed_entities, file_count)
     return success_percentage
 
 
-def run(file_count=2000, test_training_data=True, test=True):
+def run(file_count=2000, test_training_data=True, test=True, grammar_multiplier=0.7):
     print("")
     print("Loading Training Entities")
     print("-------------------------")
@@ -405,7 +405,7 @@ def run(file_count=2000, test_training_data=True, test=True):
     print("")
     print("Creating Grammar")
     print("----------------")
-    grammar = create_grammar(training_entities)
+    grammar = create_grammar(training_entities, grammar_multiplier)
 
     if test_training_data:
         print("")
@@ -453,9 +453,7 @@ def run(file_count=2000, test_training_data=True, test=True):
     #missing_relations = set([(x[0], x[3]) for x in training_entities]) - (set(related_entities) | set(failed_entities))
 
     return training_entities, grammar,\
-        failed_entities, \
-        related_test_entities, failed_test_entities, \
-        success_percentage, test_success_percentage
+        related_test_entities, failed_test_entities, test_success_percentage
 
     # remove all .result.txt files
     # for file in files:
