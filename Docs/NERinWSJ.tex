@@ -31,7 +31,7 @@ The aim of Named Entity Recognition (NER) in this case is to recognise entities 
 \section*{Extracting Training Data}
 The first task is to extract the already tagged entities from the set of tagged documents which is done using the reqular expression: \begin{verbatim}<ENAMEX TYPE=".*?">.*?</ENAMEX>\end{verbatim} which returns a list of all tags in the documents from which it is trivial to extract the entities and their types.
 
-Once we have the entity within the tags we can part of speech (POS) tag it using \begin{verbatim}nltk.tokenize()\end{verbatim} giving us the POS tags for every entity \citep{NLPChunker}.
+Once we have the entity within the tags we can part of speech (POS) tag it using \texttt{nltk.tokenize()}, giving us the POS tags for every entity \citep{NLPChunker}.
 
 \section*{Grammar Creation}
 The next step of the process is to take these entities and create a grammar that can be used in a chunker \citep{NLPChunker} to extract unseen entities. Firstly, any occurences of ")", "(" or ":" are removed as these are reserved characters for the grammar and would cause issues while keeping them would have no forseeable benefit. A list of tuples is then created that gives the POS tags and entity type, e.g. \begin{verbatim}[(["NNP", "NNP"], "PERSON")]\end{verbatim} which are then compiled into a dictionary that gives the frequecy of each tag sequence for each type. From this, the program will immediately remove any tuples that occur below a threshold frequency (currently set to the average frequency multiplied by 0.7). The tags are then sorted using a heuristic that favours their length and then their frequency, thus promoting greedy evaluation. The resulting grammar will be in this format:
@@ -55,28 +55,28 @@ LOCATION: {<NNP>}
 ORGANIZATION: {<NNP>}
 \end{verbatim}
 
-While this grammar will distinguish between different types but it is not accurate enough to be used in reality, and because of the presence of rules such as \texttt{PERSON: {<NNP>}} many unwanted nouns will be matched and we can not simply assume that these are all names.
+While this grammar will distinguish between different types of entity, it is not accurate enough to be used in reality. For example, because of the presence of rules such as \texttt{PERSON: {<NNP>}} many unwanted nouns will be matched and we can not simply assume that these are all names. For this reason, the grammar is only used to extract entities and the types of these entities are ignored.
 
 \section*{Extra Datasets}
 Throughout the program a couple of extra datasets have been used:
 \begin{itemize}
-\item DBpedia: This is a collection of relations that are automatically generated from wikipedia articles. A dataset has been downloaded and reformatted for the purposes of the program such that it provides an extensive collection of 5,092,419 entiites that can be cross-referenced. DBpedia can also be queried online using SPARQL but this is very time consuming so has been neglected from the final solution.
+\item DBpedia: This was orgininally a downloaded dataset that had been reformatted giving a list of entities and their types. However this has been modified to now use the SPARQL query language to access the entities and their types directly from the online database. Because of the time it takes to ocnduct these online queries this is only done as a last resort if the entity could not be related any other way. The advantage of this method is that the database will be continuously updated so new entities can be identified without having to download any extra data.
 \item Names corpus: The nltk package provides a corpus of names, this makes the task of matching names significantly easier as using the corpus alongside some other rules can lead to extremely accurate name matching.
 \item IE-ER corpus: The "Information Extraction and Entity Recognition" corpus provided by the Information Technology Laboratory division of the NIST provides a corpus of 1506 entities with types Person, Location or Organization, so while small it means that up to 1506 entities can be related almost instantly.
 \end{itemize}
 
 \section*{Chunking}
-Now that we've created a grammar, we can start to extract the entities from the untrained data. By iterating over the files we can get the contents for each file one at a time. Th eprogram then uses \texttt{nltk.sent\_tokenize()} then \texttt{nltk.word\_tokenize()} to split the text into words. Using \texttt{nltk.pos\_tag()} and \texttt{nltk.RegexpParser(grammar)} we can get a parse tree of the text that can be iterated over in order to extract the entities. These entities can now be processed individually in order to determine their type. In addition to this, the \texttt{get\_relation()} function takes a list of the ten previously identified entities which are then used to help identify organisations (e.g. if \textit{'Hercules Inc.'} has been identified as an organisation then the next few referrences to \textit{'Hercules'} are likely referring to the same entity). The function also takes the previous word in the sentence, this is used to quickly identify relations as if the entity is preceeded by \textit{'in'} then it is most likely a Location.
+Using the grammar that has now been created, the program can extract entities from the untagged data. By iterating over the files we can get the contents for each file one at a time. The program then uses \texttt{nltk.sent\_tokenize()} then \texttt{nltk.word\_tokenize()} to split the text into words. Using \texttt{nltk.pos\_tag()} and \texttt{nltk.RegexpParser(grammar)} we can get a parse tree of the text that can be iterated over in order to extract the entities. These entities can now be processed individually in order to determine their type. In addition to this, the \texttt{get\_relation()} function takes a list of the ten previously identified entities which are then used to help identify organisations (e.g. if \textit{'Hercules Inc.'} has been identified as an organisation then the next few referrences to \textit{'Hercules'} are likely referring to the same entity). The function also takes the previous word in the sentence, this is used to quickly identify relations as if the entity is preceeded by \textit{'in'} then it is most likely a Location.
 
 \section*{Entity Relations}
-Because relating entities as the potential to be extremely time consuming the first step is to apply some of the more obvious rules to identify the type of the entity. The program will first check the corpora to check if it can immediately identify the relation. It will then check the previous word to see if the entity can be related from this. Following this there are three functions that attempt to identify the entity as a specific type (executed in this order):
+Because relating entities has the potential to be extremely time consuming the first step is to apply some of the more obvious rules to identify the type of the entity. The program will first check the corpora to check if it can immediately identify the relation. It will then check the previous word to see if the entity can be related from this. Following this there are three functions that attempt to identify the entity as a specific type (executed in this order):
 \begin{itemize}
 \item \texttt{is\_organization()}: This will first check if the entity contains any of the words used solely for businesses (\textit{'Inc.', 'Corp.', 'PLC', etc.}). Failing this, if the entity is in full capitals, has a length less than 7 and is only one word then it is likely to be an abbreviation for a company (this can cause issues with over-generation as it will match entitys like \textit{'GDP'} that are obviously not companies). If this fails then it will go through the previous ten entities checking if the current entity can be found within any of them.
 \item \texttt{is\_name()}: This will first check if the entity contains any of the words commonly associated with names, e.g.\textit{'Mr.'}, \textit{'Mrs.'}, \textit{'Jr'}, \textit{'etc'}. If none of these can be found then it will check if the entity contains at least one word that can be found in the names corpus, and the rest of the words are either initials (a single capital letter followed by a period) or start with an uppercase letter.
 \item \texttt{is\_location()}: Because most locations will have been matched in the initial stages of getting the relation, most locations that are left over are abbreviations of a location such as \textit{'Del.'} or \textit{'Tex.'}. For this reason the program will return a location if the entity is a single word with at most 7 letters, the first being a capital and the last being a period. 
 \end{itemize}
 
-If all of these options are exhausted then the program can attempt to access DBpedia in order to determine the entity (currently disabled). The program will query DBpedia using the SPARQL \citep{SPARQL} query:
+If all of these options are exhausted then the program can attempt to access DBpedia in order to determine the entity. The program will query DBpedia using the SPARQL \citep{SPARQL} query:
 \begin{verbatim}
 SELECT ?t
 WHERE {
@@ -88,58 +88,15 @@ WHERE {
 where \texttt{\%s} is the name of the identifier. This query will return the DBpedia listing for the type of the entity if it can be found. It is then trivial to check if the listing contains any of the required relations. 
 
 \section*{Results}
-Blah
-
-%http://www.nltk.org/book/ch07.html
-%http://www.nltk.org/api/nltk.tokenize.html
-%https://www.w3.org/TR/rdf-sparql-query/#WritingSimpleQueries
-
-%Getting Training Entities
-%-------------------------
-%Files Loaded
-%Tokenized sentences
-%100%()
-%50847 training entities loaded
-%
-%Creating Grammar
-%----------------
-%Grammar created
-%
-%Completing NER on training data
-%--------------
-%Loaded 5092419 entities from DBPedia entity list
-%99.95%51268 entities successfully extracted and tagged
-%146406 recognised entities rejected
-%2000 files searched
-%NER completed in 233 seconds
-%
-%Gathering Statistics
-%--------------------
-%Files Loaded
-%Tokenized sentences
-%100%()
-%50847 training entities loaded
-%Using 2000 files:
-%50847 training entities provided
-%51268 related entities discovered
-%34516 successful relations identified
-%16752 relations falsely identified
-%16331 relations not identified
-%67.88% success percentage
-%
-%Completing NER on test data
-%---------------------------
-%Loaded 5092419 entities from DBPedia entity list
-%99.95%51016 entities successfully extracted and tagged
-%144953 recognised entities rejected
-%2000 files searched
-%NER completed in 224 seconds
-%51268 related entities discovered
-%146406 related entities ignored
-%
-%============
-%# COMPLETE #
-%============
+The process for completing the named entity recognition is as follows:
+\begin{enumerate}
+\item Load the entities from the tagged training data.
+\item Create a grammar from these entities.
+\item Optionally test the grammar on the untagged training data and gather statistics.
+\item Test the grammar on the untagged test data.
+\item Load the entities from the tagged test data and calculate statistics for the NER performance.
+\end{enumerate}
+When testing on the training data, the program can produce a precision of 67.19\% and recall of 67.92\%, however because the program stores the entities and relations loaded from the tagged data this is a somewhat inflated result as the entities are in the untagged data are common to the untagged data. When completing NER on the test data
 
 
 \bibliography{NERinWSJ_bib}

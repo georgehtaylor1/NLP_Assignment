@@ -10,14 +10,20 @@ from collections import defaultdict
 import time
 import os
 
+corpus_root = "/home/george/nltk_data/corpora/assignment/wsj_training/"
+
 training_path = "/home/george/nltk_data/corpora/assignment/wsj_training/wsj_training/"
 untagged_path = "/home/george/nltk_data/corpora/assignment/wsj_untagged/wsj_untagged/"
-corpus_root = "/home/george/nltk_data/corpora/assignment/wsj_training/"
-test_path = "/home/george/nltk_data/corpora/assignment/wsj_New_test_data/"
+
+test_path_untagged = "/home/george/nltk_data/corpora/assignment/wsj_test_untagged/"
+test_path_tagged = "/home/george/nltk_data/corpora/assignment/wsj_test_tagged/"
+
 dbpedia_path_ttl = "/home/george/PycharmProjects/nlp_assignment/wrd_instances.ttl"
 dbpedia_path_csv = "/home/george/PycharmProjects/nlp_assignment/wrd_instances.csv"
+
 dbp_ent_path = "/home/george/PycharmProjects/nlp_assignment/entities.txt"
 more_entities = "/home/george/PycharmProjects/nlp_assignment/more_entities.txt"
+
 names = set().union(nltknames.words("male.txt"), nltknames.words("female.txt"))
 
 titles = {"Mr.", "Mrs.", "Dr.", "Sir", "Prof.", "Professor", "Ms.", "Rev.", "President", "Pres.", "Judge", "Mayor",
@@ -41,16 +47,22 @@ def get_ieer_entities():
     return entity_dict, set(entity_names)
 
 
-def get_training_entities(file_count):
-    onlyfiles = [f for f in listdir(training_path) if isfile(join(training_path, f))]
-    onlyfiles.remove(".DS_Store")
+def get_training_entities(file_count, test=False):
+    if test:
+        active_path = test_path_tagged
+    else:
+        active_path = training_path
+
+    onlyfiles = [f for f in listdir(active_path) if isfile(join(active_path, f))]
+    if ".DS_Store" in onlyfiles:
+        onlyfiles.remove(".DS_Store")
 
     onlyfiles = sorted(onlyfiles)
 
     file_count = min(file_count, len(onlyfiles))
     text = ""
     for f in onlyfiles[:file_count]:
-        with open(training_path + f, 'r') as mf:
+        with open(active_path + f, 'r') as mf:
             text += mf.read()
     print("Files Loaded")
 
@@ -82,7 +94,7 @@ def get_training_entities(file_count):
         # print tagged_entity
         # print tag
     print("")
-    print("%d training entities loaded" % len(entities))
+    print("%d entities loaded" % len(entities))
     return entities
 
 
@@ -233,7 +245,7 @@ def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, sampl
 # Complete the NER
 def ner(grammar, sample_entities, file_count, test=True):
 
-    active_path = test_path if test else untagged_path
+    active_path = test_path_untagged if test else untagged_path
 
     # Load the entities from the dbpedia file
     with open(dbp_ent_path, 'r') as ef:
@@ -352,64 +364,68 @@ def ner(grammar, sample_entities, file_count, test=True):
     return related_entities, non_related_entities
 
 
-def statistics(training_entities, related_entities, failed_entities, file_count, test_case):
-    if test_case:
-        success_percentage = float(len(related_entities)) * 100.0 / float(len(related_entities) + len(failed_entities))
-        print("%d related entities discovered" % len(related_entities))
-        print("%d related entities ignored" % len(failed_entities))
+def statistics(training_entities, related_entities, failed_entities, file_count):
 
-    else:
-        training_entities = [(x[0], x[3]) for x in training_entities]
-        training_entities_set = set(training_entities)
-        successes = 0
-        failures = 0
-        for ent in related_entities:
-            if ent in training_entities_set:
-                successes += 1
-            else:
-                failures += 1
+    training_entities = [(x[0], x[3]) for x in training_entities]
+    training_entities_set = set(training_entities)
+    successes = 0
+    failures = 0
+    for ent in related_entities:
+        if ent in training_entities_set:
+            successes += 1
+        else:
+            failures += 1
 
-        success_percentage = float(successes) * 100.0 / float(len(training_entities))
-        print("Using %d files:" % file_count)
-        print("%d training entities provided" % len(training_entities))
-        print("%d related entities discovered" % len(related_entities))
-        print("%d successful relations identified" % successes)
-        print("%d relations falsely identified" % failures)
-        print("%d relations not identified" % (len(training_entities) - successes))
-        print("%.2f%% success percentage" % success_percentage)
+    tp_classified = successes
+    classified = len(related_entities)
+    tp_in_corpus = len(training_entities)
+    precision = tp_classified * 100.0 / classified
+    recall = tp_classified * 100.0 / tp_in_corpus
+
+    success_percentage = float(successes) * 100.0 / float(tp_in_corpus)
+    print("Using %d files:" % file_count)
+    print("%d training entities provided" % tp_in_corpus)
+    print("%d related entities discovered" % classified)
+    print("%d successful relations identified" % successes)
+    print("%d relations falsely identified" % failures)
+    print("%d relations not identified" % (tp_in_corpus - successes))
+    print("%.2f%% success percentage" % success_percentage)
+    print("%.2f%% precision" % precision)
+    print("%.2f%% recall" % recall)
     return success_percentage
 
 
-def run(file_count, print_statistics=True, test=True):
+def run(file_count=2000, test_training_data=True, test=True):
     print("")
-    print("Getting Training Entities")
+    print("Loading Training Entities")
     print("-------------------------")
     training_entities = get_training_entities(2000)
+    sample_entities = set([(x[0], x[3]) for x in training_entities])
 
     print("")
     print("Creating Grammar")
     print("----------------")
     grammar = create_grammar(training_entities)
 
-    print("")
-    print("Completing NER on training data")
-    print("--------------")
-    sample_entities = set([(x[0], x[3]) for x in training_entities])
-    stime = time.time()
-    related_entities, failed_entities = ner(grammar, sample_entities, file_count, False)
-    etime = time.time()
-    elapsed_time = etime - stime
-    print("NER completed in %d seconds" % elapsed_time)
-
-    success_percentage = None
-    if print_statistics:
+    if test_training_data:
         print("")
-        print("Gathering Statistics")
-        print("--------------------")
+        print("Completing NER on training data")
+        print("-------------------------------")
+        stime = time.time()
+        related_entities, failed_entities = ner(grammar, sample_entities, file_count, False)
+        etime = time.time()
+        elapsed_time = etime - stime
+        print("NER on training data completed in %d seconds" % elapsed_time)
+
+        success_percentage = None
+        print("")
+        print("Training Statistics")
+        print("-------------------")
         sub_training_entities = get_training_entities(file_count)
-        success_percentage = statistics(sub_training_entities, related_entities, None, file_count, False)
+        success_percentage = statistics(sub_training_entities, related_entities, None, file_count)
 
     if test:
+
         print("")
         print("Completing NER on test data")
         print("---------------------------")
@@ -418,17 +434,26 @@ def run(file_count, print_statistics=True, test=True):
         etime = time.time()
         elapsed_time = etime - stime
         print("NER completed in %d seconds" % elapsed_time)
-        test_success_percentage = statistics(None, related_entities, failed_entities, None, True)
+
+        print("")
+        print("Getting Test Entities")
+        print("---------------------")
+        test_entities = get_training_entities(file_count, True)
+
+        print("")
+        print("Training Statistics")
+        print("-------------------")
+        test_success_percentage = statistics(test_entities, related_test_entities, failed_test_entities, file_count)
 
     print("")
     print("============")
     print("# COMPLETE #")
     print("============")
 
-    missing_relations = set([(x[0], x[3]) for x in training_entities]) - (set(related_entities) | set(failed_entities))
+    #missing_relations = set([(x[0], x[3]) for x in training_entities]) - (set(related_entities) | set(failed_entities))
 
     return training_entities, grammar,\
-        related_entities, failed_entities, missing_relations,\
+        failed_entities, \
         related_test_entities, failed_test_entities, \
         success_percentage, test_success_percentage
 
