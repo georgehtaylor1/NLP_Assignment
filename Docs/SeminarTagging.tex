@@ -55,10 +55,27 @@ When processing the abstract, the program will first train a sentence tokenizer 
 SP: {<NNP><NNP><NNP>}
 SP: {<NNP><NNP>}
 \end{verbatim} 
-in order to extract any names that it may contain. If a name is found then it is assumed to be a speaker and tagged accordingly.
+in order to extract any names that it may contain. If a name 
+is found then it is assumed to be a speaker and tagged accordingly.
 
 \section*{Results}
-blah
+When run on untagged data, the program will produce a set of tagged files which from visual inspection is mostly successful. The program will typically correctly tag all locations and times and most names provided they are not too obscure. With regards to sentence and pargraph tagging in the abstract, the program typically performs quite poorly. Because of inconsistencies and choices by the original tagger it is difficult to create a general solution to produce a tagging. For example, paragraphs are often closed before the last sentence is closed in the paragraph, which is difficult to predict programmatically. For this reason, when evaluating the success of the system, only tags for time, location and speaker are compared. If the program has correctly identified the times, location and speaker then it is considered a success, otherwise it is a failure.
+
+When running the test script on the 184 tagged test files, there are 77 files (41.85\%) that have been tagged completely correctly. The following table shows the success percentages when different tags are checked:
+\begin{center}
+\begin{tabular}{| c || c |}
+\hline
+Tags & Success (\%) \\
+\hline
+Start time & 96.74 \\
+End time   & 92.39 \\
+Location   & 46.74 \\
+Speaker    & 26.63 \\
+\hline
+\end{tabular}
+\end{center}  
+
+From this table it is clear that while the times can be found with a very high accuracy, the task of identifying locations and speakers is severely detremental to the performance of the tagger.
 
 \bibliography{SeminarTagging_bib}
 

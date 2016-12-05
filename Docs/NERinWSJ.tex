@@ -1,7 +1,7 @@
 \documentclass[draft]{article}
 
 \usepackage[]{url}
-\usepackage[margin=0.5in]{geometry}
+\usepackage[margin=0.6in]{geometry}
 \usepackage{fancyvrb}
 \usepackage{listings}
 \usepackage{multicol}
@@ -34,7 +34,7 @@ The first task is to extract the already tagged entities from the set of tagged 
 Once we have the entity within the tags we can part of speech (POS) tag it using \texttt{nltk.tokenize()}, giving us the POS tags for every entity \citep{NLPChunker}.
 
 \section*{Grammar Creation}
-The next step of the process is to take these entities and create a grammar that can be used in a chunker \citep{NLPChunker} to extract unseen entities. Firstly, any occurences of ``)'', ``('' or ``:'' are removed as these are reserved characters for the grammar and would cause issues while keeping them would have no forseeable benefit. A list of tuples is then created that gives the POS tags and entity type, e.g. \begin{verbatim}[(["NNP", "NNP"], "PERSON")]\end{verbatim} which are then compiled into a dictionary that gives the frequecy of each tag sequence for each type. From this, the program will immediately remove any tuples that occur below a threshold frequency (currently set to the average frequency multiplied by 0.7). The tags are then sorted using a heuristic that favours their length and then their frequency, thus promoting greedy evaluation. The resulting grammar will be in this format:
+The next step of the process is to take these entities and create a grammar that can be used in a chunker \citep{NLPChunker} to extract unseen entities. Firstly, any occurences of ``)'', ``('' or ``:'' are removed as these are reserved characters for the grammar and would cause issues while keeping them would have no forseeable benefit. A list of tuples is then created that gives the POS tags and entity type, e.g. \begin{verbatim}[(["NNP", "NNP"], "PERSON")]\end{verbatim} which are then compiled into a dictionary that gives the frequecy of each tag sequence for each type. From this, the program will immediately remove any tuples that occur below a threshold frequency (currently set to the average frequency multiplied by 2.6). The tags are then sorted using a heuristic that favours their length and then their frequency, thus promoting greedy evaluation. The resulting grammar will be in this format:
 \begin{verbatim}
 ORGANIZATION: {<NNP><NNP><CC><NNP><NNP>}
 ORGANIZATION: {<NNP><NNP><IN><NNP>}
@@ -87,6 +87,35 @@ WHERE {
 \end{verbatim}
 where \texttt{\%s} is the name of the identifier. This query will return the DBpedia listing for the type of the entity if it can be found. It is then trivial to check if the listing contains any of the required relations. 
 
+\section*{Observations}
+As previously mentioned, the grammar is created by taking only those rules that have frequency greater than the average multiplied by 2.6. Testing the program on the test data with different values for the multiplier yields the following results (these results were calculated before extensions to the datasets were made):
+
+\begin{center}
+\begin{tabular}{| c || c | c | c |}
+\hline
+Multiplier & Precision (\%) & Recall (\%) & F\textsubscript{1} \\
+\hline
+0          & 33.63          & 41.4        & 37.11 \\
+%0.1        & 59.24          & 53.51 \\
+%0.2        & 63.76          & 59.55 \\
+0.4        & 63.56          & 59.71       & 61.57 \\
+%0.6        & 63.65          & 61.72 \\
+%0.7        & 63.7           & 61.88 \\
+0.8        & 63.69          & 61.88       & 62.77 \\
+%1.0        & 64.04          & 63.04 \\
+1.2        & 63.77          & 63.16       & 63.46 \\
+%1.4        & 66.31          & 68.48 \\
+1.6        & 67.32          & 70.68       & 68.96 \\
+%1.8        & 67.71          & 72.56 \\
+2.6        & 69.3           & 75.83       & 72.42 \\
+4.0        & 68.99          & 76.66       & 72.62 \\
+
+\hline
+\end{tabular}
+\end{center}
+
+It is also worth noting that for smaller values of the multiplier, the larger resulting grammar causes the NER to run significantly slower. From this table it is evident that larger values for the multiplier produce better results, however larger values also lead to a considerably longer runtime as a result of a greater dependence on online resources.
+
 \section*{Results}
 The process for completing the named entity recognition is as follows:
 \begin{enumerate}
@@ -96,32 +125,7 @@ The process for completing the named entity recognition is as follows:
 \item Test the grammar on the untagged test data.
 \item Load the entities from the tagged test data and calculate statistics for the NER performance.
 \end{enumerate}
-When testing on the training data, the program can produce a precision of 67.19\% and recall of 67.92\%, however because the program stores the entities and relations loaded from the tagged data this is a somewhat inflated result as the entities are in the untagged data are common to the untagged data. When completing NER on the test data the program can still achieve a precision of 63.7\% and recall of 61.88\% so the while this is noticably less than when run on the training data it is still close enough that we can conclude that the system is still successful when the entities from the training data are independent of the entities in the test data.
-
-\section*{Observations}
-As previously mentioned, the grammar is created by taking only those rules that have frequency greater than the average multiplied by 0.7. Testing the program on the test data with different values for the multiplier yields the following results (these results were calculated before extensions to the datasets were made):
-
-\begin{center}
-\begin{tabular}{| c || c | c |}
-\hline
-Multiplier & Precision (\%) & Recall (\%) \\
-\hline
-0          & 33.63          & 41.4  \\
-0.1        & 59.24          & 53.51 \\
-0.2        & 63.76          & 59.55 \\
-0.4        & 63.56          & 59.71 \\
-0.6        & 63.65          & 61.72 \\
-0.7        & 63.7           & 61.88 \\
-0.8        & 63.69          & 61.88 \\
-1.0        & 64.04          & 63.04 \\
-1.2        & 63.77          & 63.16 \\
-1.4        & 66.31          & 68.48 \\
-1.6        & 67.32          & 70.68 \\
-\hline
-\end{tabular}
-\end{center}
-
-It is also worth noting that for smaller values of the multiplier, the larger resulting grammar causes the NER to run significantly slower.
+When testing on the untagged training data, the program can produce a precision of 73.02\% and recall of 83.16\%. However because the program stores the entities and relations loaded from the tagged training data, this is a somewhat inflated result. The entities in the untagged data are common to those loaded from the tagged data giving it an inherant advantage. When completing NER on the test data the program can still achieve a precision of 69.3\% and recall of 75.83\%. While this is noticably lower it is still sufficient to conclude that the program is successful when being run on unseen data.
 
 \bibliography{NERinWSJ_bib}
 

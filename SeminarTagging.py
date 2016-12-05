@@ -20,6 +20,7 @@ names = set().union(nltknames.words("male.txt"), nltknames.words("female.txt"))
 titles = {"Mr.", "Mrs.", "Dr.", "Sir", "Prof.", "Professor", "Ms.", "Rev.", "President", "Pres.", "Judge", "Mayor",
           "Sr", "Jr"}
 
+
 # All files start with a line enclosed by "<>"
 # followed by several lines of "tag:" and their contents
 # ending in "Abstract:"
@@ -92,7 +93,6 @@ def train_sent_tokenizer():
 
 # Process the abstract of the seminar
 def process_abstract(abstract, header_dict):
-
     time_regex = re.compile(r'(\d{1,2}([:.,]\d{2})?(\s?([aApP]\.?[mM]\.?))?)')
     times = re.findall(time_regex, abstract)
     times = [x[0] for x in times]
@@ -291,7 +291,8 @@ def check_tag(tag, tagged_dict, untagged_dict):
 
 # Test the accuracy of the tagged files
 def test():
-    untagged_files = [f for f in listdir(test_path_untagged) if isfile(join(test_path_untagged, f)) and f.endswith("result")]
+    untagged_files = [f for f in listdir(test_path_untagged) if
+                      isfile(join(test_path_untagged, f)) and f.endswith("result")]
     if ".DS_Store" in untagged_files:
         untagged_files.remove(".DS_Store")
     untagged_files = sorted(untagged_files)
@@ -307,8 +308,9 @@ def test():
     for tagged, untagged in zip(tagged_files, untagged_files):
         tagged_dict = load_entities(test_path_tagged + tagged)
         untagged_dict = load_entities(test_path_untagged + untagged)
-
-        tags = ['stime', 'etime', 'location', 'speaker']
+        print(tagged_dict, untagged_dict)
+        print("")
+        tags = ['speakers']
         bools = map(lambda x: check_tag(x, tagged_dict, untagged_dict), tags)
 
         if all(bools):
