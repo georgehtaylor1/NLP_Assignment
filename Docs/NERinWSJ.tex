@@ -102,20 +102,25 @@ When testing on the training data, the program can produce a precision of 67.19\
 As previously mentioned, the grammar is created by taking only those rules that have frequency greater than the average multiplied by 0.7. Testing the program with different values for the multiplier yields the following results:
 
 \begin{center}
-	
 \begin{tabular}{| c || c | c |}
 \hline
-Multiplier & Precision & Recall \\
+Multiplier & Precision (\%) & Recall (\%) \\
 \hline
-0.7 & 63.7 & 61.88 \\
-
+0          & 33.63          & 41.4  \\
+0.1        & 59.24          & 53.51 \\
+0.2        & 63.76          & 59.55 \\
+0.4        & 63.56          & 59.71 \\
+0.6        & 63.65          & 61.72 \\
+0.7        & 63.7           & 61.88 \\
+0.8        & 63.69          & 61.88 \\
+1.0        & 64.04          & 63.04 \\
+1.2        & 63.77          & 63.16 \\
+1.4        & 66.31          & 68.48 \\
 \hline
 \end{tabular}
-
-
 \end{center}
 
-
+It is also worth noting that for smaller values of the multiplier, the larger resulting grammar causes the NER to run significantly slower.
 
 \bibliography{NERinWSJ_bib}
 

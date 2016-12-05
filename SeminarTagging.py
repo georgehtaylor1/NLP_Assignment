@@ -5,6 +5,7 @@ from nltk.corpus import names as nltknames
 import re
 from nltk.tokenize.punkt import PunktSentenceTokenizer
 import os
+from collections import defaultdict
 
 training_path = "/home/george/nltk_data/corpora/assignment/nlp_training/training/"
 untagged_path = "/home/george/nltk_data/corpora/assignment/nlp_untagged/"
@@ -137,7 +138,7 @@ def process_abstract(abstract, header_dict):
             if "who" not in header_dict and "speaker" not in header_dict:
                 # Parse the sentence using the given grammar
                 pos_tagged_sent = nltk.pos_tag(nltk.word_tokenize(sentence))
-                parser = nltk.RegexpParser("SP: {<NNP><NNP>}\nSP: {<NNP><NNP>}")
+                parser = nltk.RegexpParser("SP: {<NNP><NNP><NNP>}\nSP: {<NNP><NNP>}")
                 entities = []
                 parse_tree = parser.parse(pos_tagged_sent)
 
@@ -249,6 +250,71 @@ def process_file(file):
     with open(file + ".result", 'w') as f:
         f.write(result[0])
     return result
+
+
+def load_entities(file):
+    contents = get_file_contents(file)
+    ent_dict = defaultdict()
+
+    stime_pattern = re.compile(r'<stime>.*?</stime>')
+    stimes = re.findall(stime_pattern, contents)
+    if len(stimes) > 0:
+        ent_dict['stime'] = stimes[0]
+
+    etime_pattern = re.compile(r'<etime>.*?</etime>')
+    etimes = re.findall(etime_pattern, contents)
+    if len(etimes) > 0:
+        ent_dict['etime'] = etimes[0]
+
+    speaker_pattern = re.compile(r'<speaker>.*?</speaker>')
+    speakers = re.findall(speaker_pattern, contents)
+    if len(speakers) > 0:
+        ent_dict['speakers'] = speakers[0]
+
+    location_pattern = re.compile(r'<location>.*?</location>')
+    locations = re.findall(location_pattern, contents)
+    if len(locations) > 0:
+        ent_dict['location'] = locations[0]
+
+    return ent_dict
+
+
+def check_tag(tag, tagged_dict, untagged_dict):
+    if tag in tagged_dict and tag in untagged_dict:
+        return tagged_dict[tag] == untagged_dict[tag]
+    else:
+        return False
+
+
+def test():
+    untagged_files = [f for f in listdir(test_path_untagged) if isfile(join(test_path_untagged, f)) and f.endswith("result")]
+    if ".DS_Store" in untagged_files:
+        untagged_files.remove(".DS_Store")
+    untagged_files = sorted(untagged_files)
+
+    tagged_files = [f for f in listdir(test_path_tagged) if isfile(join(test_path_tagged, f))]
+    if ".DS_Store" in tagged_files:
+        tagged_files.remove(".DS_Store")
+    tagged_files = sorted(tagged_files)
+
+    successes = 0
+    failures = 0
+
+    for tagged, untagged in zip(tagged_files, untagged_files):
+        tagged_dict = load_entities(test_path_tagged + tagged)
+        untagged_dict = load_entities(test_path_untagged + untagged)
+
+        tags = ['stime', 'etime', 'location', 'speaker']
+        bools = map(lambda x: check_tag(x, tagged_dict, untagged_dict), tags)
+
+        if all(bools):
+            successes += 1
+        else:
+            failures += 1
+
+    return successes, failures
+
+
 
 
 def run():

@@ -25,7 +25,40 @@
 \maketitle
 \begin{multicols*}{2}
 
+\section*{Abstract}
+The aim of seminar tagging in this case is to take electronic seminar announcements and automatically identify features such as paragraphs, sentences and seminar details (speaker, location, start time and end time) and parse this into a tagged file.
 
+\section*{Announcement Structure}
+The common structure of each announcement plays a huge role in their tagging. Every file consists of a header line enclosed in angled brackets, followed by a list of paramaters that are formatted as \texttt{paramater: value}, finishing with the abstract, or content of the announcement. This consistent structure allows the announcement to be split up into sections with ease.
+
+\section*{Processing the Header}
+Using the fact that all announcements contain an ``Abstract:'' line, each line in the header can be processed by partitioning on the colon and storing the results in a dictionary. Additionally, by checking the parameter certian values can be determined:
+\begin{itemize}
+\item If the paramater is ``Time'' then the value can be processed to extract the start and end times.
+\item If the parameter is ``Place'' then the value can be tagged and stored as a location.
+\item If the parameter is ``Who'' then the speaker can be extracted from the speaker using the fact that the speaker is stored as the first part of the value, sometimes followed by a list of other details such as an address
+\end{itemize}
+This is done for every line that matches the format until the abstract is reached, if a line doesn't match the format then it is assumed to be part of the previous line so it is added to the previous entry in the dictionary.
+
+\section*{Processing Times}
+Because times can be given in many different formats it is critical that the program be able to recognise a time, and alse when two times are the same. To identify times the regular expression 
+\begin{verbatim}
+\d{1,2}([:.,]\d{2})?(\s?([aApP]\.?[mM]\.?))?
+\end{verbatim} is extremely successful. A similar expression
+\begin{verbatim}
+(\d{1,2})([:.,](\d{2}))?(\s?([aApP]\.?[mM]\.?))?
+\end{verbatim} is used to extract the minutes and hours from a time given in any format that can be combined into a 4 digit 24 hour format. This means that two times can be compared for equality regardless of how they are formatted allowing the start and times stored from the header to be tagged anywhere in the abstract without any extra processing.
+
+\section*{Processing the Abstract}
+When processing the abstract, the program will first train a sentence tokenizer provided by the nltk package Punkt \citep{senttok}. This is done by extractng sentences from the training data and passing them to the trainer which uses an unsupervised learning algorithm \citep{compling} to learn a tokenizer that can extract sentences. The program will first split the abstract into paragraphs by any occurence of `\textbackslash n\textbackslash n' representing a one line gap in the abstract, the paragraphs can then be enclosed by \texttt{<paragraph>} tags. For each of the paragraphs, the sentence tokenizer will then split the paragraph into constitiuent sentences that can be surrounded with \texttt{<sentence>} tags. For every identified sentence, any occurences of times matching the start or end times will be tagged accordingly and if a speaker wasn't identified in the header then the sentence will be part of speech tagged and chunked using the grammar
+\begin{verbatim}
+SP: {<NNP><NNP><NNP>}
+SP: {<NNP><NNP>}
+\end{verbatim} 
+in order to extract any names that it may contain. If a name is found then it is assumed to be a speaker and tagged accordingly.
+
+\section*{Results}
+blah
 
 \bibliography{SeminarTagging_bib}
 
