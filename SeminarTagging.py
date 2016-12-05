@@ -20,14 +20,12 @@ names = set().union(nltknames.words("male.txt"), nltknames.words("female.txt"))
 titles = {"Mr.", "Mrs.", "Dr.", "Sir", "Prof.", "Professor", "Ms.", "Rev.", "President", "Pres.", "Judge", "Mayor",
           "Sr", "Jr"}
 
-
-# \d{1,2}([:.,]\d{2})?(\s?([aApP]\.?[mM]\.?))?
-
 # All files start with a line enclosed by "<>"
 # followed by several lines of "tag:" and their contents
 # ending in "Abstract:"
 
 
+# Extract any times from the text
 def get_times(text):
     time_regex = re.compile(r'(\d{1,2}([:.,]\d{2})?(\s?([aApP]\.?[mM]\.?))?)')
     times = re.findall(time_regex, text)
@@ -39,6 +37,7 @@ def get_times(text):
         return None, None
 
 
+# Determine if the entity is a name
 def is_name(entity):
     name = entity.split()
     if len(titles & set(name)) > 0:
@@ -55,11 +54,13 @@ def is_name(entity):
     return contains_name
 
 
+# Extract a name from the header field
 def extract_name(text):
     names = text.split(", ")
     return names[0]
 
 
+# Parse the time into a 24 hour format HHMM
 def parse_time(time_text):
     time_parse_regex = re.compile(r'(\d{1,2})([:.,](\d{2}))?(\s?([aApP]\.?[mM]\.?))?')
     hrs, _, mns, _, pm = re.findall(time_parse_regex, time_text)[0]
@@ -69,6 +70,7 @@ def parse_time(time_text):
     return hrs + mns
 
 
+# Train the sentence tokenizer on the training data
 def train_sent_tokenizer():
     onlyfiles = [f for f in listdir(training_path) if isfile(join(training_path, f))]
     if ".DS_Store" in onlyfiles:
@@ -78,18 +80,17 @@ def train_sent_tokenizer():
     for f in onlyfiles[:20]:
         with open(training_path + f, 'r') as mf:
             text = mf.read()
-        #print(text)
+
         sents_pattern = r'<sentence>.*?</sentence>'
         sents = re.findall(sents_pattern, text, re.DOTALL)
-        #print(sents)
         sentences += [x[10:-11] for x in sents]
 
-    #print sentences
     tokenizer = PunktSentenceTokenizer()
     tokenizer.train(". ".join(sentences))
     return tokenizer
 
 
+# Process the abstract of the seminar
 def process_abstract(abstract, header_dict):
 
     time_regex = re.compile(r'(\d{1,2}([:.,]\d{2})?(\s?([aApP]\.?[mM]\.?))?)')
@@ -129,10 +130,6 @@ def process_abstract(abstract, header_dict):
         # Add tags to the sentences
         for sentence in sentences_tokenized:
 
-            # Process sentence tags for the sentence
-            #if sentence[0:1] == "\n":
-            #    new_sent = "\n<sentence>" + sentence[1:-1] + "</sentence>."
-            #else:
             new_sent = "<sentence>" + sentence + "</sentence>"
 
             if "who" not in header_dict and "speaker" not in header_dict:
@@ -160,6 +157,7 @@ def process_abstract(abstract, header_dict):
     return text
 
 
+# Process the contents of the file (header + abstract)
 def process_file_contents(file_contents):
     # Break the file by lines
     content_split = file_contents.split("\n")
@@ -176,6 +174,7 @@ def process_file_contents(file_contents):
         header_dict = {}
         header_regex = re.compile(r'\w+\:.')
         i = 1
+
         # Put all of the lines into a dictionary until we get to abstract
         while not content_split[i].startswith("Abstract:"):
 
@@ -188,8 +187,6 @@ def process_file_contents(file_contents):
                 t, _, v = content_split[i].partition(":")
                 prev_t = t
                 header_dict[t.lower()] = v.lstrip()
-
-                leading_spaces = len(v) - len(v.lstrip(' '))
 
                 # Check if the times can be matched
                 if t == "Time":
@@ -231,10 +228,12 @@ def process_file_contents(file_contents):
         return None, None
 
 
+# Get the contents of the specified file
 def get_file_contents(file):
     with open(file, 'r') as f:
         contents = f.read()
     return contents
+
 
 # Delete all files in the untagged directory with extension .result.txt
 def delete_files(active_path):
@@ -252,6 +251,7 @@ def process_file(file):
     return result
 
 
+# Load the entities from the given file
 def load_entities(file):
     contents = get_file_contents(file)
     ent_dict = defaultdict()
@@ -279,13 +279,17 @@ def load_entities(file):
     return ent_dict
 
 
+# Check if a tag is present in both dictionaries and if it is the same
 def check_tag(tag, tagged_dict, untagged_dict):
     if tag in tagged_dict and tag in untagged_dict:
         return tagged_dict[tag] == untagged_dict[tag]
-    else:
+    elif tag in tagged_dict or tag in untagged_dict:
         return False
+    else:
+        return True
 
 
+# Test the accuracy of the tagged files
 def test():
     untagged_files = [f for f in listdir(test_path_untagged) if isfile(join(test_path_untagged, f)) and f.endswith("result")]
     if ".DS_Store" in untagged_files:
@@ -315,8 +319,7 @@ def test():
     return successes, failures
 
 
-
-
+# Run the seminar tagging
 def run():
     delete_files(test_path_untagged)
     onlyfiles = [f for f in listdir(test_path_untagged) if isfile(join(test_path_untagged, f))]
