@@ -5,6 +5,7 @@
 \usepackage{fancyvrb}
 \usepackage{listings}
 \usepackage{multicol}
+\usepackage{hyperref}
 
 \setlength{\columnsep}{0.5in}
 
@@ -26,7 +27,7 @@
 \begin{multicols*}{2}
 
 \section*{Abstract}
-The aim of Named Entity Recognition (NER) in this case is to recognise entities that have been referenced in the text and determine the type of the entity from (Person, Location or Organization). The program will be provided with a set of tagged and untagged articles from the WSJ corpus as well as a set of test articles to analyse the preformance of the system.
+The aim of Named Entity Recognition (NER) in this case is to recognise entities that have been referenced in the text and determine the type of the entity (Person, Location or Organization). The program will be provided with a set of tagged and untagged articles from the WSJ corpus as well as a set of test articles to analyse the preformance of the system. Pyhton 2.7 has been used throughout. The program \texttt{NamedEntityRecognition.py} can be found at \href{https://github.com/georgehtaylor1/NLP_Assignment}{https://github.com/georgehtaylor1/NLP\_Assignment}.
 
 \section*{Extracting Training Data}
 The first task is to extract the already tagged entities from the set of tagged documents which is done using the reqular expression: \begin{verbatim}<ENAMEX TYPE=".*?">.*?</ENAMEX>\end{verbatim} which returns a list of all tags in the documents from which it is trivial to extract the entities and their types.
@@ -34,7 +35,7 @@ The first task is to extract the already tagged entities from the set of tagged 
 Once we have the entity within the tags we can part of speech (POS) tag it using \texttt{nltk.tokenize()}, giving us the POS tags for every entity \citep{NLPChunker}.
 
 \section*{Grammar Creation}
-The next step of the process is to take these entities and create a grammar that can be used in a chunker \citep{NLPChunker} to extract unseen entities. Firstly, any occurences of ``)'', ``('' or ``:'' are removed as these are reserved characters for the grammar and would cause issues while keeping them would have no forseeable benefit. A list of tuples is then created that gives the POS tags and entity type, e.g. \begin{verbatim}[(["NNP", "NNP"], "PERSON")]\end{verbatim} which are then compiled into a dictionary that gives the frequecy of each tag sequence for each type. From this, the program will immediately remove any tuples that occur below a threshold frequency (currently set to the average frequency multiplied by 2.6). The tags are then sorted using a heuristic that favours their length and then their frequency, thus promoting greedy evaluation. The resulting grammar will be in this format:
+The next step of the process is to take these entities and create a grammar that can be used in a chunker \citep{NLPChunker} to extract unseen entities. Firstly, any occurences of ``)'', ``('' or ``:'' are removed as these are reserved characters for the grammar and would cause issues while keeping them would have no forseeable benefit. A list of tuples is then created that gives the POS tags and entity type, e.g. \begin{verbatim}[(["NNP", "NNP"], "PERSON")]\end{verbatim} which are then compiled into a dictionary that gives the frequency of each tag sequence for each type. From this, the program will immediately remove any tuples that occur below a threshold frequency (currently set to the average frequency multiplied by 2.6). The tags are then sorted using a heuristic that favours their length and then their frequency, thus promoting greedy evaluation. The resulting grammar will be formatted as:
 \begin{verbatim}
 ORGANIZATION: {<NNP><NNP><CC><NNP><NNP>}
 ORGANIZATION: {<NNP><NNP><IN><NNP>}
@@ -71,7 +72,7 @@ Using the grammar that has now been created, the program can extract entities fr
 \section*{Entity Relations}
 Because relating entities has the potential to be extremely time consuming the first step is to apply some of the more obvious rules to identify the type of the entity. The program will first check the corpora to check if it can immediately identify the relation. It will then check the previous word to see if the entity can be related from this. Following this there are three functions that attempt to identify the entity as a specific type (executed in this order):
 \begin{itemize}
-\item \texttt{is\_organization()}: This will first check if the entity contains any of the words used solely for businesses (\textit{`Inc.', `Corp.', `PLC', etc.}). Failing this, if the entity is in full capitals, has a length less than 7 and is only one word then it is likely to be an abbreviation for a company (this can cause issues with over-generation as it will match entitys like \textit{`GDP'} that are obviously not companies). If this fails then it will go through the previous ten entities checking if the current entity can be found within any of them.
+\item \texttt{is\_organization()}: This will first check if the entity contains any of the words used solely for businesses (\textit{`Inc.', `Corp.', `PLC', etc.}). Failing this, if the entity is in full capitals, has a length less than 7 and is only one word then it is likely to be an abbreviation for a company (this can cause issues with over-generation as it will match entities like \textit{`GDP'} that are obviously not companies). If this fails then it will go through the previous ten entities checking if the current entity can be found within any of them.
 \item \texttt{is\_name()}: This will first check if the entity contains any of the words commonly associated with names, e.g.\textit{`Mr.'}, \textit{`Mrs.'}, \textit{`Jr'}, \textit{`etc'}. If none of these can be found then it will check if the entity contains at least one word that can be found in the names corpus, and the rest of the words are either initials (a single capital letter followed by a period) or start with an uppercase letter.
 \item \texttt{is\_location()}: Because most locations will have been matched in the initial stages of getting the relation, most locations that are left over are abbreviations of a location such as \textit{`Del.'} or \textit{`Tex.'}. For this reason the program will return a location if the entity is a single word with at most 7 letters, the first being a capital and the last being a period. 
 \end{itemize}
