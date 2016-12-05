@@ -36,6 +36,7 @@ person_prev_words = {}
 organization_prev_words = {}
 
 
+# Collect the entites from the ieer dataset
 def get_ieer_entities():
     entity_dict = {}
     entity_names = []
@@ -47,6 +48,7 @@ def get_ieer_entities():
     return entity_dict, set(entity_names)
 
 
+# Collect the entities, their POS tags and their  given in the training files
 def get_training_entities(file_count, test=False):
     if test:
         active_path = test_path_tagged
@@ -66,9 +68,6 @@ def get_training_entities(file_count, test=False):
             text += mf.read()
     print("Files Loaded")
 
-    sentences = nltk.sent_tokenize(text)
-    print("Tokenized sentences")
-
     docs_pattern = r'<ENAMEX TYPE=".*?">.*?</ENAMEX>'
     doc_tuples = re.findall(docs_pattern, text, re.DOTALL)
 
@@ -76,7 +75,6 @@ def get_training_entities(file_count, test=False):
     i = 0
     for t in doc_tuples:
         i += 1
-        # print t
         s = re.compile(r'["<>]')
         t2 = s.split(t)
         tag = t2[2]
@@ -90,14 +88,13 @@ def get_training_entities(file_count, test=False):
         sys.stdout.flush()
 
         entities += [(entity, tagged_entity, rtags, tag)]
-        # print entity
-        # print tagged_entity
-        # print tag
+
     print("")
     print("%d entities loaded" % len(entities))
     return entities
 
 
+# Create a dict of frequencies for the POS tags
 def compile_pos_tags(ent_list):
     tag_lists = [(" ".join(x[2]), x[3]) for x in ent_list]
 
@@ -139,6 +136,7 @@ def delete_files(active_path):
             os.remove(active_path + f)
 
 
+# Is the given entity a name
 def is_name(entity):
     name = entity.split()
     if len(titles & set(name)) > 0:
@@ -155,12 +153,14 @@ def is_name(entity):
     return contains_name
 
 
+# Is the given entity a location
 def is_location(entity):
     if len(entity) <= 7 and entity[-1] == "." and entity[0].isupper():
         return True
     return False
 
 
+# Is the given entity an organization
 def is_organization(entity, past_entities):
     org = entity.split()
     if len(business_words & set(org)) > 0:
@@ -175,6 +175,7 @@ def is_organization(entity, past_entities):
     return False
 
 
+# Get the type f the given entity
 def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, sample_entities, past_entities, prev_word):
     es = entity.split()
     # es = [w for w in es if not w in titles]
@@ -214,7 +215,7 @@ def get_relation(entity, ieer_entity_dict, ieer_entity_names, dbp_ent_set, sampl
     if is_location(entity_name):
         return "LOCATION"
 
-    if not entity in dbp_ent_set:
+    if entity not in dbp_ent_set:
         return None
 
     if True:
@@ -349,14 +350,11 @@ def ner(grammar, sample_entities, file_count, test=True):
                 else:
                     non_related_entities += [ne]
 
-            # print("%d, %d" % (len(related_entities), len(non_related_entities)))
             tagged_sentences += [tagged_sentence]
-            # print(tagged_sentence)
-
-        # print(" ".join(tagged_sentences))
 
         with open(active_path + f + ".result", 'w') as fi:
             fi.write(" ".join(tagged_sentences))
+
     print("")
     print("%d entities successfully extracted and tagged" % len(related_entities))
     print("%d recognised entities rejected" % len(non_related_entities))
@@ -364,7 +362,8 @@ def ner(grammar, sample_entities, file_count, test=True):
     return related_entities, non_related_entities
 
 
-def statistics(training_entities, related_entities, failed_entities, file_count):
+# Output statistics for the NER
+def statistics(training_entities, related_entities, file_count):
 
     training_entities = [(x[0], x[3]) for x in training_entities]
     training_entities_set = set(training_entities)
@@ -395,6 +394,7 @@ def statistics(training_entities, related_entities, failed_entities, file_count)
     return success_percentage
 
 
+# Run the NER
 def run(file_count=2000, test_training_data=True, test=True, grammar_multiplier=0.7):
     print("")
     print("Loading Training Entities")
@@ -422,7 +422,7 @@ def run(file_count=2000, test_training_data=True, test=True, grammar_multiplier=
         print("Training Statistics")
         print("-------------------")
         sub_training_entities = get_training_entities(file_count)
-        success_percentage = statistics(sub_training_entities, related_entities, None, file_count)
+        success_percentage = statistics(sub_training_entities, related_entities, file_count)
 
     if test:
 
@@ -443,14 +443,12 @@ def run(file_count=2000, test_training_data=True, test=True, grammar_multiplier=
         print("")
         print("Training Statistics")
         print("-------------------")
-        test_success_percentage = statistics(test_entities, related_test_entities, failed_test_entities, file_count)
+        test_success_percentage = statistics(test_entities, related_test_entities, file_count)
 
     print("")
     print("============")
     print("# COMPLETE #")
     print("============")
-
-    #missing_relations = set([(x[0], x[3]) for x in training_entities]) - (set(related_entities) | set(failed_entities))
 
     return training_entities, grammar,\
         related_test_entities, failed_test_entities, test_success_percentage
